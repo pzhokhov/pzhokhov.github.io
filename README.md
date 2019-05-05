@@ -89,6 +89,7 @@ It covers:
 
 ## Questions?
 
+
 [Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
 
 ## Other forkable themes
