@@ -19,3 +19,6 @@ go through both kits and check that all parts are there. The empennage kit had a
 two right skins WG-SKN-004-C-F-0 (instead of one left, WG-SKN-104-C-F-1 and one right); some parts had version (last digit) number mismatch. 
 Barry from The Airplane Factory (TAF) promised to get us small missing parts by the time we visit on 5th of July, but skins have to be ordered from South Africa.
 
+While unpacking and checking stuff, we had a small accident - Peter put the empennage skins standing on a corner, and a corner got bent :/
+![bent_corner](/images/20190628_083518_HDR.jpg)
+TAF suggested we try to flatten it back, and send back the pictures of the flattened skin. 
