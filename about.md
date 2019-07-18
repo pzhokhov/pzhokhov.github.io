@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Sasha is a smart, beautiful and aspiring pilot who practices optics and electrical engineering when not piloting. 
+Peter believes that artificial intelligence will take over the world, and would like to build and fly an airplane before that happens. 
 
 ### Contact me
 
