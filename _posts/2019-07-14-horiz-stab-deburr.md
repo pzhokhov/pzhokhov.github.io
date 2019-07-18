@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Horizontal stabilizer: deburring
+title: "Horizontal stabilizer: deburring"
 ---
 
 Time: 8 person-hrs. As a first step of working on the horizontal stabilizer, we went through and deburred all the parts. 
