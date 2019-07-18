@@ -3,6 +3,8 @@ layout: post
 title: We got the kits! 
 ---
 
+D-day for our airplane building experience - the kits have finally arrived! 
+
 After some delays with the customs, our kits (the empennage and the wings) has finally arrived first at the airplane factory, and then to our doorstep! 
 This was very exciting! For Katya, Sasha's sister and our summer airplane building intern as well:
 ![katya_and_the_plane](/images/IMG_20190627_152058.jpg)
@@ -15,6 +17,5 @@ Observant reader would notice that the pictures above are of a parking spot and 
 It took us (Katya, Sasha, and Peter) half a day Wednesday and half a day Thursday to 
 go through both kits and check that all parts are there. The empennage kit had all the parts, however, the wing had a couple of things missing; and we had 
 two right skins WG-SKN-004-C-F-0 (instead of one left, WG-SKN-104-C-F-1 and one right); some parts had version (last digit) number mismatch. 
-Barry from The Airplane Factory (TAF) promised to get us small missing parts by the time we visit on 5th of July, but skins have to be ordered from South Africa. 
-
+Barry from The Airplane Factory (TAF) promised to get us small missing parts by the time we visit on 5th of July, but skins have to be ordered from South Africa.
 
