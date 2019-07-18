@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Sasha is a smart, beautiful and aspiring pilot who practices optics and electrical engineering when not piloting. 
-Peter believes that artificial intelligence will take over the world, and would like to build and fly an airplane before that happens. 
+Peter is a former physics theorist and a software engineer who wants to make things that move and fly.
 
 ### Contact me
 
