@@ -2,6 +2,7 @@
 layout: post
 title: We got the kits! 
 ---
+
 After some delays with the customs, our kits (the empennage and the wings) has finally arrived first at the airplane factory, and then to our doorstep! 
 This was very exciting! 
 ![katya_and_the_wings](/images/IMG_20190627_121853.jpg)
