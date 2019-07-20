@@ -6,10 +6,9 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-    <p>{% if post.thumbnail %}
-	   <img src="{{ post.thumbnail }}" style="height: 280px" align="center" />
-	   {% endif %}
-    </p>  
+      {% if post.thumbnail %}
+	    <img src="{{ post.thumbnail }}" style="height: 128px" align="left" />
+	  {% endif %}
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
