@@ -5,15 +5,17 @@ title: "Horizontal stabilizer: deburring"
 
 Time: 8 person-hrs. As a first step of working on the horizontal stabilizer, we went through and deburred all the parts. 
 
-For most of the parts in the horizontal stabilizer assembly, burrs were rather small, so a bit of scoth-briting was sufficient. 
-When it was not, we used swivel-type deburring tools to cut off the larger burrs:
+For most of the parts in the horizontal stabilizer assembly, burrs were rather small, so a bit of scotch-briting was sufficient. 
+When it was not, we used the swivel-type deburring tools to cut off the larger burrs:
 
 ![sasha_and_deburring_tools](/images/IMG_20190701_213827.jpg)
 
-Surprizingly, this took quite a bit of time (this was suprizing to us because through deburring is mentioned in the 
-introduction manual, and yet not mentioned in any of the blogs we read). 
+Surprisingly, this took quite a bit of time (this was suprising to us because deburring is mentioned in the 
+	introduction manual, and yet was not mentioned in any of the blogs we read).
 
-Eventually, the parts become smooth and pleasant to touch
+Eventually, the parts became smooth and pleasant to touch.
 ![sasha_cheeks](/images/IMG_20190701_213814.jpg)
+
+How many hours have you, gentle reader, spent deburring? Do you consider 8 hours for ~6 parts excessive? Are we being overly cautious with our burrs? Comment below!
 
 
