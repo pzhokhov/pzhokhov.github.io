@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sasha and Peter mounted Marker Griffon ski bindings :)
+thumbnail: "/images/20190507_204018_thumbnail.jpg"
 ---
 Time: 4 hours for two people
 
