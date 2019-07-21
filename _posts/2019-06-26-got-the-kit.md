@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We got the kits! 
+thumbnail: "/images/IMG_20190627_152058_thumbnail.jpg"
 ---
 
 D-day for our airplane building experience - the kits have finally arrived! 
