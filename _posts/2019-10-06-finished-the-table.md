@@ -48,4 +48,4 @@ Next came the assembly stage.
 We put the top beams on the floor (fortunately, the floor in the hangar is rather flat), used the right angle to align the beams into a rectangle (with 21 in beams between 8 ft beams), and screwed in 8 #10x3 screws (2 on each side).  
 
 
-[finished table](/images/2019-10-06-table.jpg)
+![finished table](/images/2019-10-06-table.jpg)
