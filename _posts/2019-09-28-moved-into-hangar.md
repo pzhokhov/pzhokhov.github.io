@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moved into the hangar with Claude!
+duration: 6h
 ---
 
 Up until today, all the parts of the empennage and wing kits were sitting in our one bedroom apartment in Millbrae. Today, they have finally found home
@@ -18,4 +19,3 @@ We gathered our special moving forces (good friends Steph and Fred who are each 
 and dumped all the parts in a u-haul.
  We had to go with the giant 24 foot one, because the spars are 13 ft long, so the smallest truck they can fit in is 17 ft (the 13 ft truck has 13 ft from attic to the back door, so we would have had to suspend the spars from the attic), and 
 at any rate the closest uhaul shop to us had only one truck left for that day :/. Peter had to drive it and was freaking out the whole way. He also bumped the truck a little bit in one of the first floor balconies (there was not enough clearance), but otherwise, the drive went rather uneventfully. 
-
