@@ -8,11 +8,11 @@ Today we finished preparing all horizontal stabilizer parts!
 Hours total: Probably 30?
 
 Tools used:
--Deburring swivel tool
--Scotchbrite grinder wheel
--Battery-powered Craftsman detail sander
--Corded Ryobi sander for even smaller details
--Lots of Scotchbrite, really can't get enough of this stuff
+ - Deburring swivel tool
+ - Scotchbrite grinder wheel
+ - Battery-powered Craftsman detail sander
+ - Corded Ryobi sander for even smaller details
+ - Lots of Scotchbrite, really can't get enough of this stuff
 
 Yes, yes, horizontal stabilizer is the first assembly, has the smallest number of parts etc., but we are still proud :) 
 We deburred all the parts (some of this we have actually done before, i.e. before moving to the hangar). 
