@@ -2,10 +2,12 @@
 layout: post
 title: Sasha and Peter mounted Marker Griffon ski bindings :)
 thumbnail: "/images/20190507_204018_thumbnail.jpg"
+duration: 4h
 ---
-Time: 4 hours for two people
 
 So, much like many other builders who have not quite gotten their Sling kit yet, we've been keeping ourselves busy with hands-on projects. We went ahead and tried mounting Peter's ski Marker Griffon bindings on his new skis (the ski shop guys wanted 50$ for it and we were like "nah we're badass builders now thanks"). This was done largely on a whim starting on a random Tuesday evening.
+
+Time: 4 hours for two people
 
 It took two evenings of after-work work :) We first did everything according to the instructions in https://m.youtube.com/watch?v=9XWwP45OfAw. However, we quickly ran into a snag: we had forgotten to print the template at work, since we don't have a printer. "Utter catastrophe" comes close to describing how I felt about this project at the time. 
 
