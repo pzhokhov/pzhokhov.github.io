@@ -6,6 +6,7 @@ duration: 30h
 ---
 
 Today we finished preparing all horizontal stabilizer parts! 
+
 Hours total: Probably 30?
 
 Tools used:
