@@ -10,9 +10,10 @@ Tool list:
  - Black and Decker circular saw for cutting plywood sheets
  - Craftsman electric screwdriver for driving wood screws (100% necessary)
  - Leveler to make sure things are nice and level
+ - Carpenter's right angle
+ - Two large clamps (5 inches+)
  - Hammer for molding and general alignment
  - Rando hangar stuff as a table for circular saw
- - Two large clamps (5 inches+)
  - Staple gun for attaching butcher paper to table
 
 Eventually, we'll need a relatively large flat space to work on wings. We decided to bite the bullet and build a table rightaway. 
