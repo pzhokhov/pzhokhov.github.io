@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Finished deburring and scotchbriting horizontal stabilizer parts
+title: Deburring and scotchbriting horizontal stabilizer parts
+thumbnail: "/images/IMG_20191012_120946_thumbnail.jpg"
 ---
 
 Today we finished preparing all horizontal stabilizer parts! 
@@ -15,6 +16,9 @@ Tools used:
 
 Yes, yes, horizontal stabilizer is the first assembly, has the smallest number of parts etc., but we are still proud :) 
 We deburred all the parts (some of this we have actually done before, i.e. before moving to the hangar). 
+
+![sasha_and_parts](/images/IMG_20191009_203021.jpg)
+
 Since this seems to be a point many blogs gloss over, let's take a moment to emphasize which tools we used for deburring: swivel tool for the holes and inner edges, and scotchbrite grinder wheel for outer edges.
 
 ![Crafsman detail sander](/images/IMG_20191009_203000.jpg)
