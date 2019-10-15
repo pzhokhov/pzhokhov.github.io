@@ -5,6 +5,16 @@ duration: 12h
 thumbnail: "/images/20191005_181815_thumbnail.jpg"
 ---
 
+Tool list:
+ - Ryobi table saw for cutting two-by-fours
+ - Black and Decker circular saw for cutting plywood sheets
+ - Craftsman electric screwdriver for driving wood screws (100% necessary)
+ - Leveler to make sure things are nice and level
+ - Hammer for molding and general alignment
+ - Rando hangar stuff as a table for circular saw
+ - Two large clamps (5 inches+)
+ - Staple gun for attaching butcher paper to table
+
 Eventually, we'll need a relatively large flat space to work on wings. We decided to bite the bullet and build a table rightaway. 
 
 Claude let us use one of his tables, however, we wanted to build another one to have a large surface to work on the wings. So Sasha whipped out the [plans for the EAA-recommended table](,https://www.eaa.org/eaa/aircraft-building/building-your-aircraft/while-youre-building/building-articles/tools-and-workshop/worktable). We made some small adjustments to make it compatible with the table Claude gave us
