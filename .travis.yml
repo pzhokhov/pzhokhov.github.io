@@ -1,0 +1,15 @@
+language: python
+
+branches:
+ only: master
+
+script:
+ - python generate_tags.py
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
