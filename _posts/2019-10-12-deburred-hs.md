@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deburring and scotchbriting horizontal stabilizer parts
+title: Deburring and horizontal stabilizer parts
 thumbnail: "/images/IMG_20191012_120946_thumbnail.jpg"
 duration: 30h
 tags: empennage preparation
