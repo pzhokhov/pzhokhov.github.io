@@ -14,7 +14,8 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-        <br><span>
+        Tags:
+        <span>
           {% for tag in post.tags %}
             <b><a href="/tag/{{ tag }}" style="font-size: 75%"><nobr>{{ tag }}</nobr></a></b>
           {% endfor %}
