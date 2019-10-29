@@ -14,13 +14,12 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       <span>
         {% for tag in post.tags %}
-          <a href="/tag/{{ tag }}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
+          <a href="/tag/{{ tag }}"><nobr>{{ tag }}</nobr>&nbsp;</a>
         {% endfor %}
      </span>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
