@@ -3,6 +3,7 @@ layout: post
 title: Building a table
 duration: 12h
 thumbnail: "/images/20191005_181815_thumbnail.jpg"
+tags: working-space
 ---
 
 Eventually, we'll need a relatively large flat space to work on wings. We decided to bite the bullet and build a table rightaway. 
