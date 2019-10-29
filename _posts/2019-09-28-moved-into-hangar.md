@@ -2,6 +2,7 @@
 layout: post
 title: Moved into the hangar with Claude!
 duration: 6h
+tags: working-space
 ---
 
 Up until today, all the parts of the empennage and wing kits were sitting in our one bedroom apartment in Millbrae. Today, they have finally found their home in our new hangar. 
