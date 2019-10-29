@@ -18,7 +18,7 @@ Tool list:
  - Rando hangar stuff as a table for circular saw
  - Staple gun for attaching butcher paper to table
 
-Claude let us use one of his tables, however, we wanted to build another one to have a large surface to work on the wings. So Sasha whipped out the [plans for the EAA-recommended table](,https://www.eaa.org/eaa/aircraft-building/building-your-aircraft/while-youre-building/building-articles/tools-and-workshop/worktable). We made some small adjustments to make it compatible with the table Claude gave us
+Claude let us use one of his tables, however, we wanted to build another one to have a large surface to work on the wings. So Sasha whipped out the [plans for the EAA-recommended table](https://www.eaa.org/eaa/aircraft-building/building-your-aircraft/while-youre-building/building-articles/tools-and-workshop/worktable). We made some small adjustments to make it compatible with the table Claude gave us
 (so that we could, if we needed, connect them into a single 16 foot long table) and then we went to our new favorite place, Home Depot (we mentioned before that our hangar is right across the street from Home Depot, right? This came in real handy!). 
 
 Here's the list of the adjustments we made: 
