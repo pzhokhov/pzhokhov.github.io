@@ -5,7 +5,7 @@ branches:
 
 script:
  - python generate_tags.py
- - git add tags/
+ - git add tag
 deploy:
   provider: pages
   skip_cleanup: true
