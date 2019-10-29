@@ -1,0 +1,11 @@
+language: python
+
+branches:
+ only: master
+
+script:
+ - python generate_tags.py
+
+deploy:
+ script:
+   - git add tags/ && git commit -m "generate tags" && git push
