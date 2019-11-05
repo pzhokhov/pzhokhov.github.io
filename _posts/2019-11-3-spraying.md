@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spray priming like rebels
-thumbnail: 
+thumbnail:  "/images/spraying_14_peter.jpg"
 duration: 10 hours
 tags: primer spray prekote productplacement
 ---
