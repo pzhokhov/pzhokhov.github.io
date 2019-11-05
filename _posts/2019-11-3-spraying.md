@@ -70,7 +70,7 @@ Some parts not so much...There were several issues we had to work through:
 
  - Fish-eyes - apparently happens if there's some grease on the parts?? Which somehow survived one round of acetone, another of Scotchbrite, and two of PreKote? Not sure how this happens.
 
-![fisheye](/images/spraying_12_fisheye.jpg)
+![fisheye](/images/spraying_13_fisheye.jpg)
 
  - Forgetting sides of parts we're spraying. Self-explanatory what causes this (read: brain damage from not wearing PPE)
 
