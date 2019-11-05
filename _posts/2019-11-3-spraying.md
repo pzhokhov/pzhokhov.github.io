@@ -43,7 +43,7 @@ In any case, you're supposed to cover your parts in the Pre-Kote, lather it up w
 
 Once this was finished, we hung our parts on chicken wire attached to the cart in order to dry. Super thankful for plastic tags during this part, cause they took the water really well! Never had to worry about the text washing out.
 
-![parts](/images/spraying_05_airdry)
+![parts](/images/spraying_05_airdry.jpg)
 
 We then carted everything back to the hangar, donned our PPE, and mixed some Akzo!
 
