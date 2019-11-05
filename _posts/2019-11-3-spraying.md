@@ -53,7 +53,7 @@ We then carted everything back to the hangar, donned our PPE, and mixed some Akz
 
 Claude kindly let us use his air compressor for priming, and we invested in a $75 HVLP Harbor Freight (nee Central Pneumatic) gun with a 1.4 mm nozzle. We poured our prepped Akzo through the strainer and into the gun and successfully managed to spray!
 
-![sprayingvideo](/images/spraying_06_sasha_spraying.mp4)
+{% include /images/spraying_06_sasha_spraying.html %}
 
 Some of our parts came out great!
 
