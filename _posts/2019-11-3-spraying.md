@@ -9,24 +9,24 @@ We sprayed primer! Some of our parts are primed! Excitement and merriment was ha
 
 
 Tool list:
-Hose
-Garden spray thing attached to hose
-Borrowed Home Depot cart
-Bought Husky cart
-S-Hooks
-Chicken Wire
-75$ Central Pneumatic HVLP spray gun
-Claude's Modded and Totally Awesome DeWalt Air Compressor 
-PPE - hardcore OSHA-certified respirators, lab coats, goggles, bandanas, gloves
-Craftsman electric sander
-Many scotch-brite pads
-Paper towels + acetone + pseudo-MEK
-Flathead screwdriver to open the acetone
-Liquid PreKote
-Akzo fast-drying interior 2 part epoxy
-Mixer Mates for the 2 parts of the epoxy
-Plastic paint cups with ratios marked on the side (handy!)
-Wooden sticks for mixing, paint strainers for straining Akzo into spray gun
+ -  Hose
+ -  Garden spray thing attached to hose
+ -  Borrowed Home Depot cart
+ -  Bought Husky cart
+ -  S-Hooks
+ -  Chicken Wire
+ -  75$ Central Pneumatic HVLP spray gun
+ -  Claude's Modded and Totally Awesome DeWalt Air Compressor 
+ -  PPE - hardcore OSHA-certified respirators, lab coats, goggles, bandanas, gloves
+ -  Craftsman electric sander
+ -  Many scotch-brite pads
+ -  Paper towels + acetone + pseudo-MEK
+ -  Flathead screwdriver to open the acetone
+ -  Liquid PreKote
+ -  Akzo fast-drying interior 2 part epoxy
+ -  Mixer Mates for the 2 parts of the epoxy
+ -  Plastic paint cups with ratios marked on the side (handy!)
+ -  Wooden sticks for mixing, paint strainers for straining Akzo into spray gun
 
 Adored blog readers, we got down to some real business on Saturday. Spraying happened! As you come to this blog for our celebrated detailed descriptions of meticulously (and not so meticulously) planned building sessions, let us describe the process in some detail.
 
