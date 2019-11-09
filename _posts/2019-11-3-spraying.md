@@ -31,7 +31,7 @@ Tool list:
 
 Adored blog readers, we got down to some real business on Saturday. Spraying happened! As you come to this blog for our celebrated detailed descriptions of meticulously (and not so meticulously) planned building sessions, let us describe the process in some detail.
 
-As we wrote in our last post (see #primer), the plan was to prepare our aluminum with PreKote prior to priming. In order to do this, we had to leave the peace and quiet of our hangar and cart our parts 100 ft over to an airport hose.
+As we wrote in our last post (see [#primer](/tag/primer)), the plan was to prepare our aluminum with PreKote prior to priming. In order to do this, we had to leave the peace and quiet of our hangar and cart our parts 100 ft over to an airport hose.
 
 
 ![cart](/images/spraying_01_cart.jpg)
