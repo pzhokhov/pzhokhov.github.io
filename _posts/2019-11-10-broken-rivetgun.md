@@ -7,7 +7,7 @@ tags: tutorial empennage priming
 Last week, the euphoria of riveting our first pieces together was shortly followed by the pain and disappointment of our first rivetgun jam. Plus, our little sister Zina visited and we’ve also expanded to YouTube!
 
 Tools used:
-  - Cleo pliers ([these](link to good) pliers are much better than [these](link to bad pliers))
+  - Cleo pliers ([these](https://www.amazon.com/Allstar-Performance-ALL18220-Cleco-Plier/dp/B003BZQ6PY/ref=sr_1_3?keywords=cleco+pliers&qid=1574065781&sr=8-3) pliers are much better than [these](https://www.amazon.com/Boulderfly-Cleco-Pliers/dp/B00AFL7QU6/ref=sxts_sxwds-bia?keywords=cleco+pliers&pd_rd_i=B00AFL7QU6&pd_rd_r=501f2581-44e7-46e3-ac8b-f269cb0c6583&pd_rd_w=Sjl1f&pd_rd_wg=gpOdj&pf_rd_p=1cb3f32a-ccfd-479b-8a13-b22f56c942c6&pf_rd_r=RPSMN5ZEASK7032GFQTT&psc=1&qid=1574065746))
   - Lots of clecos
   - Milwaukee M12 rivet gun
   - Hammer (don’t use this)
