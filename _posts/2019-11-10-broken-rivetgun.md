@@ -32,7 +32,11 @@ We then took a deviation from our official program in order to have our 8-year-o
 
 ![zina_dimpling](images/20191110_174504.jpg)
 
-Next, we decided to compare all of the [#priming](/tags/priming) spray pain guns/techniques we’ve obtained over the last several months. The results have been thoroughly documented [here](https://www.youtube.com/watch?v=kcKI8wmt8x0), with the final high-res images of the aluminum samples displayed below.
+Next, we decided to compare all of the [#priming](/tags/priming) spray pain guns/techniques we’ve obtained over the last several months. The results have been thoroughly documented:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kcKI8wmt8x0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+with the final high-res images of the aluminum samples displayed below.
 
 —Some high res images of the aluminum squares—
 My favorite is obviously the (quite expensive but y’know airplanes aren’t cheap either) FujiSpray Minimite 4 spray system. The gun sprayed easy and well, with the finish on Samples 3 and 4 a cut above the rest.
