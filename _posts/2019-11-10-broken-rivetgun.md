@@ -17,7 +17,8 @@ Tools used:
 —Thumbnail of Peter staring unhappily at rivetgun— 
 Last week was a big week for us, readers. After priming our first real-life airplane parts (see [#priming](/tag/priming)), we started putting together the horizontal stabilizer. We pulled our first rivets and felt the dream become reality. The rivet gun has this feature where it uses a clever series of tubes and gears to move the spent mandrels up through the barrel of the gun into a reservoir, which you can then empty at your leisure. This is meant to be convenient.
 
-—Video of us pulling our first rivets—
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5Pvcj_TpIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We were able to complete most of the second page of the manual (I.e. half of the horizontal stabilizer) before disaster struck. A series of mandrels fit perfectly one on top of another and blocked the tube of the rivet gun.
 
 —Image of stuck mandrels—
