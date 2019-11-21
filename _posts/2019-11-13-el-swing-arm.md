@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Balancing work, life and elevator swing arm
+title: Balancing work, life, and elevator swing arm
 Duration: See red book for this I have no idea. Two full days for Peter, several hours for Sasha?
 tags: empennage
 thumbnail: "/images/IMG_20191113_195208_square.jpg"
