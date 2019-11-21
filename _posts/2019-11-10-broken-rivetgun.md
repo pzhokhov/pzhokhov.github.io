@@ -12,7 +12,7 @@ Tools used:
   - Lots of clecos
   - Milwaukee M12 rivet gun
   - Hammer (don’t use this)
-  - 1/4?” [Peter inputs correct size of wrench] Wrench (ultimately futile)
+  - Large adjustable spanner wrench (ultimately futile)
   - Prekote/acetone/all the priming stuff we list in [#priming](/tag/priming)
 
 —Thumbnail of Peter staring unhappily at rivetgun— 
