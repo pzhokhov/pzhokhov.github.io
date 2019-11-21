@@ -2,6 +2,7 @@
 title: Broken Rivetgun, Broken Dreams
 duration: ~3 hours for putting together parts, several hours for fixing rivetgun nightmare, N/A for priming video
 tags: tutorial empennage priming
+thumbnail: "/images/20191107_170744.jpg"
 ---
 
 Last week, the euphoria of riveting our first pieces together was shortly followed by the pain and disappointment of our first rivetgun jam. Plus, our little sister Zina visited and we’ve also expanded to YouTube!
@@ -21,10 +22,11 @@ Last week was a big week for us, readers. After priming our first real-life airp
 
 We were able to complete most of the second page of the manual (I.e. half of the horizontal stabilizer) before disaster struck. A series of mandrels fit perfectly one on top of another and blocked the tube of the rivet gun.
 
-—Image of stuck mandrels—
+![stuck_mandrels](/images/20191107_170732.jpg)
+
 Peter and I went home, whereupon Peter spent several hours trying to get these mandrels unstuck. We tried to hammer them out, wiggle em with pliers, disassemble the gun, WD-40 all with no results.
 
-—image of Peter staring unhappily at rivetgun—
+![peter_and_a_rivetgun](/images/20191107_170744.jpg)
 
 Luckily, as with many problems even tangentially related to the Sling, our neighbor Claude has already has this happen several times. So he had a stock of these mandrel-eating tubes from which he very kindly let us claim our own replacement. This allowed the Work to continue. In case you, reader, end up with this problem, the replacement tube can be found [here](https://connect.milwaukeetool.com/products/44-60-2550) (except it is a giant pain to order directly from Milwaukee because they take forever to validate the account)
 
