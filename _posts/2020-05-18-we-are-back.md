@@ -3,7 +3,7 @@ layout: post
 title: We are back!
 Duration: Likely ~40 hours since November
 tags: empennage, wings
-thumbnail: "/images/IMG_20191113_195208_square.jpg"
+thumbnail: "/images/merida_quarantine_crop.jpg"
 ---
 This week, Sasha and Peter emerge from quarantine to continue work!
 
@@ -15,7 +15,7 @@ At any rate, we're back and diving into work again! We're currently dedicating o
 
 Everything is more or less going smoothly on that end - we've finally got a process down: deburr, clean, prekote (we got wipes!), prime, assemble. For the larger rivets (4.8 mm), Peter made a little video to demonstrate how to deburr the rivets themselves so that the rivets actually fit into the holes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NiV3e3vOspU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiV3e3vOspU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I managed to fall into a patch of poison oak last weekend so I've been fairly distracted through the build process. One night I spectacularly messed up an inspection hatch - installed the rivets backwards then messed up drilling them out, then scratched up our nice primer with pliers as I tried to pull the rivets out :)
 
