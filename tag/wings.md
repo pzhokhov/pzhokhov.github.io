@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: #wings"
-tag: #wings
+title: "Tag: wings"
+tag: wings
 robots: noindex
 ---
