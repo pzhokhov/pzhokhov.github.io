@@ -2,7 +2,7 @@
 layout: post
 title: A productive week and lots of help! :D
 Duration: 41.75 person-hours building, 4 person-hours shopping
-tags: #empennage #wings
+tags: empennage wings
 thumbnail: "/images/peter_rearwing_square.jpg"
 ---
 
