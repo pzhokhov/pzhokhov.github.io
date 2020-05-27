@@ -6,7 +6,9 @@ tags: #empennage #wings
 thumbnail: "/images/peter_rearwing_square.jpg"
 ---
 
-This week was super productive! 41.75 person-hours is a pretty good week! We prepared and primed the rear wing spars and the rib 1 assembly:
+This week was super productive! 41.75 person-hours is a pretty good week! We assembled so much!
+
+We prepared and primed the rear wing spars and the rib 1 assembly.
 
 ![wing](/images/peter_rearwing.jpg)
 
