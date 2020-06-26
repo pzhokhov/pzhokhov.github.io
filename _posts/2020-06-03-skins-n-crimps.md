@@ -20,7 +20,7 @@ So those burrs (red) are what we're trying to get rid of on the deburring wheel,
 
 Back to this week's narrative: Kat and Claude crimped a BNC cable so we can test/mount our recently purchased Rami antenna to the VS and close the skin on that too. It took several hours, but they persevered!
 
-Kat and Peter also tried to level our tables one evening - unfortunately, the top warped on both of them, so they picked a point near the center of each table to align, so that two points make a nice straight line. They then put wooden blocks on those points and mounted the elevator + skin on that. "That'll take twenty minutes" I hear you say, "how did it take over two hours to reach that conclusion?" I don't really have a good answer cause I was deburring wing ribs while they argued :)
+Kat and Peter also tried to level our tables one evening - unfortunately, the top warped on both of them, so they picked a point near the center of each table to align, so that two points make a nice straight line. They then put wooden blocks on those points and mounted the elevator + skin on that. "That'll take twenty minutes" I hear you say, "how did it take over two hours to reach that conclusion?" I don't really have a good answer cause I was deburring while they argued :)
 
 ![elevator_noskin](/images/kat_elevator.jpg)
 
