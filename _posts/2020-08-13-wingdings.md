@@ -32,7 +32,7 @@ Someone noted that if you knew what you were doing you could finish a wing in a 
 
 Finally, we cut an inspection hatch in the right wing skin for the pitot tube regulator, inspired by [Philip's](https://slingtsi.rueker.com/2019/10/01/cutting-a-round-inspection-access-panel-hole/) definitely nicer looking hole. You can see the video of our process here:
 
-<iframe width="1196" height="673" src="https://www.youtube.com/embed/bkGDenwl70g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="598" height="337" src="https://www.youtube.com/embed/bkGDenwl70g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I was debating between the official title in youtube and "idiots with jigsaws" but you know, we tried. The result wasn't awful. Claude had a much better process for those who are cutting their inspection hatch from the unrivetted skin - you can use a super-glued wooden template and a grinding tool. This gives a very nice circle (no pictures but imagine a circle as epic as the circle of life).
 
