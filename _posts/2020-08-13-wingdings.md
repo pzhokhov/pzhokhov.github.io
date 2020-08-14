@@ -3,16 +3,16 @@ layout: post
 title: CORROSION ALERT!!!!?!!...and we cut an inspection hatch
 duration: 97.3 person-hours since last post
 tags: wings
-thumbnail: "/images/drama_crop.jpg"
+thumbnail: "/images/drama_crop.png"
 ---
 
 In this week's post in our increasingly intermittent blog, we feel good about progress made and bad about (shock!) corrosion found. 
 
-![cat](/images/drama_crop.jpg)
+![cat](/images/drama_crop.png)
 
 So, somehow we feel we're either the luckiest or the unluckiest members of the Sling community. No one else has talked about finding corrosion on their "super resistant to corrosion" 6061 aluminum alloy, and yet, we've found lots! Mostly starting as filliform corrosion on the aluminum under the factory plastic. 
 
-![cat](/images/corrosion_collage.jpg)
+![cat](/images/corrosion_collage.png)
 
 No clue what's going on here. The corrosion is more advanced on some parts and less on others, but its been sort of ominipresent on the wing kit (perhaps because its been lying so long in the hangar?). We've been Scotch-briting it off before priming at the advice of our friend who actually is a "certified corrosion expert". At this level its not supposed to be a big deal, but its definitely been freaking us out and made us really glad we're priming our parts and discovering this stuff here as opposed to when its flying.
 
