@@ -8,9 +8,7 @@ thumbnail: "/images/drama_crop.png"
 
 In this week's post in our increasingly intermittent blog, we feel good about progress made and bad about (shock!) corrosion found. 
 
-![cat](/images/drama_crop.png)
-
-So, somehow we feel we're either the luckiest or the unluckiest members of the Sling community. No one else has talked about finding corrosion on their "super resistant to corrosion" 6061 aluminum alloy, and yet, we've found lots! Mostly starting as filliform corrosion on the aluminum under the factory plastic. 
+We somehow we feel we're either the luckiest or the unluckiest members of the Sling community. No one else has talked about finding corrosion on their "super resistant to corrosion" 6061 aluminum alloy, and yet, we've found lots! Mostly starting as filliform corrosion on the aluminum under the factory plastic. 
 
 ![cat](/images/corrosion_collage.png)
 
