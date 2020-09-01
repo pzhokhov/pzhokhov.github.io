@@ -24,9 +24,13 @@ And we found our first cracked rib :'(
 
 None of these are show-stopping issues, but they did make our attempt at an "assembly dry run" fail miserably the first weekend as we worked to get the parts into an assemble-able state.
 
-On the bright side, we had lots of help. Our friend Fred came by and dimpled almost all of the right fuel tank skin like a pro!
+On the bright side, we had lots of help. Our friend Fred came by and dimpled almost all of the right fuel tank skin like a pro! 
 
 ![cat](/images/20200818_193211.jpg)
+
+Got a great picture of Fred at sunset too:
+
+![cat](/images/20200818_193222.jpg)
 
 The next weekend we had help from the family! My dad helped with rivetting the lower wing skin (a bunch of rivets there took quite a bit of force to shove through!) and my sister and mother dimpled almost the entire left fuel tank skin, demonstrating to my little sister that team work makes the dream work ;)
 
