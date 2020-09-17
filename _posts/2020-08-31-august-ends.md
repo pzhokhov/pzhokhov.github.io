@@ -40,7 +40,7 @@ The next weekend we had help from the family! My dad helped with rivetting the l
 
 We then made first contact with the goop with lots of help from Claude Pignol - thanks Claude! We've put together a video to show-case first contact and demonstrate how we did it for anyone who's interested:
 
-<iframe width="1196" height="673" src="https://www.youtube.com/embed/1rEfsyo7gKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="598" height="336" src="https://www.youtube.com/embed/1rEfsyo7gKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Its probably not the perfect way to do things - we've heard the factory just dips the rivnuts and/or rivets into the goop to pull rather than smearing goop on the inside/outside. This goop is tough to work with - oftentimes, we would catch some amount of the goop as we were trying to smear more goop on another part of the rib, and then we would go back and add more goop, resulting in an endless cycle of torment...
 
