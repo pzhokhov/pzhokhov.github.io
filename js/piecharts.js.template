@@ -5,7 +5,7 @@
 
         var data = google.visualization.arrayToDataTable([
           ['Builder', 'Hours'],
-          {% for name, hours in sorted(hours['per_person'].items(), lambda x: -x[1]) %}
+          {% for name, hours in hours['per_person'] %}
             [ "{{ name }}", {{ hours }} ],
           {% endfor %}
         ]);
