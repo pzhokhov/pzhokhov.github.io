@@ -42,7 +42,7 @@
 
         var options = {
           title: "Build hours by builder",
-          id3D: true
+          is3D: true
         };
 
         var chart = new google.visualization.PieChart(document.getElementById('piechart'));
