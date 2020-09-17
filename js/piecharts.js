@@ -50,7 +50,7 @@ function drawChartBuilder() {
     chart.draw(data, options);
 }
 
-function drawChartSubkit() {
+function drawChartSubkit {
     var data = google.visualization.arrayToDataTable([
       ['Sub-kit', 'Hours'],
       
