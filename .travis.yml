@@ -4,8 +4,9 @@ branches:
  only: master
 
 script:
- - python generate_tags.py
- - git add tag
+ - ./build.sh
+ # - git add tag
+
 deploy:
   provider: pages
   skip_cleanup: true
