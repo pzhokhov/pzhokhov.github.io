@@ -1,6 +1,6 @@
 google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(drawChartBuilder);
-google.charts.setOnLoadCallback(drawChartComponent);
+google.charts.setOnLoadCallback(drawChartSubkit);
 
 function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
