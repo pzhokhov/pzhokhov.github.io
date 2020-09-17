@@ -7,7 +7,7 @@ env = Environment(
 )
 
 TEMPLATE_FILES = [
-  "js/index_piecharts.js.template"
+  "js/piecharts.js.template"
 ]
 
 TEMPLATE_EXT = '.template'
