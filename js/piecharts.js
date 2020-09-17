@@ -41,7 +41,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 404.29999999999995)",
+      title: "Build hours by builder (total 404)",
       is3D: true
     };
 
@@ -54,13 +54,9 @@ function drawChartSubkit() {
     var data = google.visualization.arrayToDataTable([
       ['Sub-kit', 'Hours'],
       
-        [ "empennage", 34.0 ],
+        [ "empennage", 87.5 ],
       
-        [ "wing", 366.09999999999997 ],
-      
-        [ " empennage", 53.5 ],
-      
-        [ "wing ", 4.2 ],
+        [ "wing", 370.29999999999995 ],
       
     ]);
 
