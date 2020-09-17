@@ -1,22 +1,41 @@
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChartBuilder);
+google.charts.setOnLoadCallback(drawChartComponent);
 
-      function drawChart() {
+function drawChartBuilder() {
+    var data = google.visualization.arrayToDataTable([
+      ['Builder', 'Hours'],
+      {% for name, hours in hours['per_person'] %}
+        [ "{{ name }}", {{ hours }} ],
+      {% endfor %}
+    ]);
 
-        var data = google.visualization.arrayToDataTable([
-          ['Builder', 'Hours'],
-          {% for name, hours in hours['per_person'] %}
-            [ "{{ name }}", {{ hours }} ],
-          {% endfor %}
-        ]);
+    var options = {
+      title: "Build hours by builder (total {{ hours['total'] }})",
+      is3D: true
+    };
 
-        var options = {
-          title: "Build hours by builder",
-          is3D: true
-        };
+    var chart = new google.visualization.PieChart(document.getElementById('piechartBuilder'));
 
-        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+    chart.draw(data, options);
+}
 
-        chart.draw(data, options);
-      }
+function drawChartSubkit {
+    var data = google.visualization.arrayToDataTable([
+      ['Sub-kit', 'Hours'],
+      {% for tag, hours in hours['per_tag'].items() %}
+        [ "{{ tag }}", {{ hours }} ],
+      {% endfor %}
+    ]);
+
+    var options = {
+      title: "Build hours by sub-kit",
+      is3D: true
+    };
+
+    var chart = new google.visualization.PieChart(document.getElementById('piechartSubkit'));
+
+    chart.draw(data, options);
+    
+}
 

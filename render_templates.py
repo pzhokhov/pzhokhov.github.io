@@ -33,9 +33,10 @@ def compute_hours(build_log):
         for tag in row['Tag(s)'].split(','):
             per_tag[tag.lower()] += hours
    
-   print("Total build hours: ", sum(per_person.values()))
+   total = sum(per_person.values())
+   print("Total build hours: ", total)
    per_person = sorted([(p, h) for p,h in per_person.items()], key=lambda x: -x[1])
-   return {"per_person": per_person, "per_tag": per_tag}
+   return {"per_person": per_person, "per_tag": per_tag, "total": total}
 
 def render(data):
     for tf in TEMPLATE_FILES:
