@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,150.45
-Sasha,05/14,empennage,2,,,,,Peter Final Hours,163.95
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,154.45
+Sasha,05/14,empennage,2,,,,,Peter Final Hours,167.95
 Peter,05/14,empennage,2,,,,,,
 Sasha,05/17,wing,4,,,,,Misc Final Hours,88.9
 Peter,05/17,wing,4,,,,,,
-Sasha,05/20,wing,3,,,,,Total hours,404.3
+Sasha,05/20,wing,3,,,,,Total hours,412.3
 Peter,05/20,wing,3,,,,,,
 Sasha,05/21,wing,3.5,,,,,,
 Peter,05/21,wing,3.5,,,,,,We'd like to put in an order for the following:
@@ -120,3 +120,5 @@ sasha,9/15,wing,4,right fuel tank goop,,,,,
 peter,9/15,wing,4,right fuel tank goop,,,,,
 katya,9/15,wing,4,right fuel tank goop,,,,,
 jonah,9/15,wing,4,right fuel tank goop,,,,,
+sasha,10/14,empennage,4,updrilled and dimpled holes for HS,,,,,
+peter,10/14,empennage,4,updrilled and dimpled holes for HS,,,,,

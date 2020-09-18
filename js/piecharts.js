@@ -6,9 +6,9 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 163.95 ],
+        [ "Peter", 167.95 ],
       
-        [ "Sasha", 150.45000000000002 ],
+        [ "Sasha", 154.45000000000002 ],
       
         [ "Katya", 34.7 ],
       
@@ -41,7 +41,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 404)",
+      title: "Build hours by builder (total 412)",
       is3D: true
     };
 
@@ -54,7 +54,7 @@ function drawChartSubkit() {
     var data = google.visualization.arrayToDataTable([
       ['Sub-kit', 'Hours'],
       
-        [ "empennage", 87.5 ],
+        [ "empennage", 95.5 ],
       
         [ "wing", 370.29999999999995 ],
       
@@ -68,5 +68,14 @@ function drawChartSubkit() {
     var chart = new google.visualization.PieChart(document.getElementById('piechartSubkit'));
 
     chart.draw(data, options);
-    
 }
+
+$(window).resize(function() {
+  if ($(this).width() < 1024) {
+    $('#piechartBuilder').hide();
+    $('#piechartSubkit').hide();
+  } else {
+    $('#piechartBuilder').show();
+    $('#piechartSubkit').show();
+  }
+});
