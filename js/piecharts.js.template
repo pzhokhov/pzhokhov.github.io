@@ -36,6 +36,15 @@ function drawChartSubkit() {
     var chart = new google.visualization.PieChart(document.getElementById('piechartSubkit'));
 
     chart.draw(data, options);
-    
 }
+
+$(window).resize(function() {
+  if ($(this).width() < 1024) {
+    $('#piechartBuilder').hide();
+    $('#piechartSubkit').hide();
+  } else {
+    $('#piechartBuilder').show();
+    $('#piechartSubkit').show();
+  }
+});
 
