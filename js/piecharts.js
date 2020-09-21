@@ -28,9 +28,9 @@ function drawChartBuilder() {
       
         [ "Jerry", 3.5 ],
       
-        [ "Mama", 3.25 ],
+        [ "Tatiana", 3.25 ],
       
-        [ "Papa", 3.25 ],
+        [ "Anton", 3.25 ],
       
         [ "Matthias", 3.0 ],
       
