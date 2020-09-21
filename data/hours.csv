@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,181.65
-Sasha,05/14,empennage,2,,,,,Peter Final Hours,215.15
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,187.65
+Sasha,05/14,empennage,2,,,,,Peter Final Hours,246.65
 Peter,05/14,empennage,2,,,,,,
-Sasha,05/17,wing,4,,,,,Misc Final Hours,89.9
+Sasha,05/17,wing,4,,,,,Misc Final Hours,99.4
 Peter,05/17,wing,4,,,,,,
-Sasha,05/20,wing,3,,,,,Total hours,487.7
+Sasha,05/20,wing,3,,,,,Total hours,534.7
 Peter,05/20,wing,3,,,,,,
 Sasha,05/21,wing,3.5,,,,,,
 Peter,05/21,wing,3.5,,,,,,We'd like to put in an order for the following:
@@ -150,3 +150,16 @@ sasha,11/11,empennage,2,primed EL parts + HS skins,,,,,
 peter,11/11,empennage,12,"deburred and dimpled VS skin, prekoted HS skins",,,,,
 sasha,11/13,empennage,2,assembled EL swing arm assembly,,,,,
 peter,11/13,empennage,2,assembled EL swing arm assembly,,,,,
+peter,11/17,empennage,4,prepped EL and RD parts,,,,,
+peter,11/19,empennage,3.5,assembled EL spar assembly,,,,,
+jerry,11/19,empennage,3.5,assembled EL spar assembly,,,,,
+peter,11/24,empennage,5.5,"assembled EL spar assembly, deburred 4.8 mm rivets",,,,,
+peter,11/27,empennage,3,"prepped HS, EL parts",,,,,
+peter,11/29,empennage,2,"prekoted EL skins + HS angles, deburred EL-SKN-103",,,,,
+peter,11/30,empennage,6.5,"Primed EL skins, HS angles, assembled HS, cleco'd HS",,,,,
+peter,12/1,empennage,4,finished skinning HS,,,,,
+sasha,12/26/2019,empennage,3,primed VS parts,,,,,
+zina,12/26/2019,empennage,3,primed VS parts,,,,,
+sasha,1/3/2020,empennage,3,assembled VS,,,,,
+peter,1/3/2020,empennage,3,assembled VS,,,,,
+matthias,1/3/2020,empennage,3,assembled VS,,,,,
