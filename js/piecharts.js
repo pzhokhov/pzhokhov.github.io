@@ -6,11 +6,11 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 246.64999999999998 ],
+        [ "Peter", 257.15 ],
       
-        [ "Sasha", 187.65 ],
+        [ "Sasha", 198.15 ],
       
-        [ "Katya", 34.7 ],
+        [ "Katya", 40.7 ],
       
         [ "Zina", 16.2 ],
       
@@ -45,7 +45,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 534)",
+      title: "Build hours by builder (total 561)",
       is3D: true
     };
 
@@ -58,9 +58,9 @@ function drawChartSubkit() {
     var data = google.visualization.arrayToDataTable([
       ['Sub-kit', 'Hours'],
       
-        [ "empennage", 217.9 ],
+        [ "empennage", 235.9 ],
       
-        [ "wing", 370.29999999999995 ],
+        [ "wing", 397.29999999999995 ],
       
     ]);
 

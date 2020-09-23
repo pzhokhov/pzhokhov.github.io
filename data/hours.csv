@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,187.65
-Sasha,05/14,empennage,2,,,,,Peter Final Hours,246.65
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,198.15
+Sasha,05/14,empennage,2,,,,,Peter Final Hours,257.15
 Peter,05/14,empennage,2,,,,,,
-Sasha,05/17,wing,4,,,,,Misc Final Hours,99.4
+Sasha,05/17,wing,4,,,,,Misc Final Hours,105.4
 Peter,05/17,wing,4,,,,,,
-Sasha,05/20,wing,3,,,,,Total hours,534.7
+Sasha,05/20,wing,3,,,,,Total hours,561.7
 Peter,05/20,wing,3,,,,,,
 Sasha,05/21,wing,3.5,,,,,,
 Peter,05/21,wing,3.5,,,,,,We'd like to put in an order for the following:
@@ -163,3 +163,10 @@ zina,12/26/2019,empennage,3,primed VS parts,,,,,
 sasha,1/3/2020,empennage,3,assembled VS,,,,,
 peter,1/3/2020,empennage,3,assembled VS,,,,,
 matthias,1/3/2020,empennage,3,assembled VS,,,,,
+sasha,9/21/2020,wing,2,"tested fuel tank, riveted lower channel",,,,,
+peter,9/21,wing,2,,,,,,
+sasha,9/22,wing,2.5,"prepared to seal channel, installed nutplates for fuel tank",,,,,
+peter,9/22,wing,2.5,,,,,,
+sasha,6/26/2019,"empennage, wing",6,inventory of empennage and wing kit,,,,,
+peter,6/26/2019,"empennage, wing",6,,,,,,
+katya,6/26/2019,"empennage, wing",6,,,,,,
