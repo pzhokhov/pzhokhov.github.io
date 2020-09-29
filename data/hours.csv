@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,198.15
-Sasha,05/14,empennage,2,,,,,Peter Final Hours,257.15
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,212.15
+Sasha,05/14,empennage,2,,,,,Peter Final Hours,271.15
 Peter,05/14,empennage,2,,,,,,
 Sasha,05/17,wing,4,,,,,Misc Final Hours,105.4
 Peter,05/17,wing,4,,,,,,
-Sasha,05/20,wing,3,,,,,Total hours,561.7
+Sasha,05/20,wing,3,,,,,Total hours,589.7
 Peter,05/20,wing,3,,,,,,
 Sasha,05/21,wing,3.5,,,,,,
 Peter,05/21,wing,3.5,,,,,,We'd like to put in an order for the following:
@@ -170,3 +170,11 @@ peter,9/22,wing,2.5,,,,,,
 sasha,6/26/2019,"empennage, wing",6,inventory of empennage and wing kit,,,,,
 peter,6/26/2019,"empennage, wing",6,,,,,,
 katya,6/26/2019,"empennage, wing",6,,,,,,
+sasha,9/23,wing,4.5,sealed top channel of right fuel tank,,,,,
+peter,9/23,wing,4.5,,,,,,
+sasha,9/24,wing,1,started flap prep,,,,,
+peter,9/24,wing,1,,,,,,
+sasha,9/27,wing,6,"zeroth balloon test, sealed left fuel sender and rib, bent clamp",,,,,
+peter,9/27,wing,6,,,,,,
+sasha,9/28,wing,2.5,"another balloon test, found another set of large holes, prepped left fuel tank parts",,,,,
+peter,9/28,wing,2.5,,,,,,
