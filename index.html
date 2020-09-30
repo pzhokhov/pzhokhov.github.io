@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="/js/piecharts.js"></script>
-<div id="piecharts" style="float:right">
-  <div id="piechartBuilder" style="width: 600px; height: 350px;"></div><br>
-  <div id="piechartSubkit" style="width: 600px; height: 350px;"></div>
-</div>
 
 <div class="posts">
 {% for post in site.posts %}
@@ -15,7 +8,7 @@ layout: default
 
     {% if post.thumbnail %}
     <img src="{{ post.thumbnail }}" style="height: 128px; width: 128px;  margin: 10px" align="left"/>
-  {% endif %}
+    {% endif %}
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
     <div class="entry">
