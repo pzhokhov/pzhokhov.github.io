@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,214.15
-Sasha,05/14,empennage,2,,,,,Peter Final Hours,273.15
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,218.85
+Sasha,05/14,empennage,2,,,,,Peter Final Hours,277.85
 Peter,05/14,empennage,2,,,,,,
 Sasha,05/17,wing,4,,,,,Misc Final Hours,106.4
 Peter,05/17,wing,4,,,,,,
-Sasha,05/20,wing,3,,,,,Total hours,594.7
+Sasha,05/20,wing,3,,,,,Total hours,604.1
 Peter,05/20,wing,3,,,,,,
 Sasha,05/21,wing,3.5,,,,,,
 Peter,05/21,wing,3.5,,,,,,We'd like to put in an order for the following:
@@ -181,3 +181,7 @@ peter,9/28,wing,2.5,,,,,,
 sasha,10/2,wing,2,"sealed set of holes, gooped left fuel tank inner skeleton",,,,,
 peter,10/2,wing,2,,,,,,
 claude,10/2,wing ,1,tested balloon + clamp,,,,,
+sasha,10/3,wing,3.5,"right fuel tank leak test #2, deburred holes on ailerons, debated landing light structure ",,,,,
+Peter,10/3,wing ,3.5,,,,,,
+sasha,10/4,wing,1.2,,,,,,
+peter,10/4,wing,1.2,,,,,,
