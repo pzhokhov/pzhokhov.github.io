@@ -16,7 +16,7 @@ function drawChartBuilder() {
       
         [ "Jonah", 7.5 ],
       
-        [ "Claude", 5.0 ],
+        [ "Claude", 5.5 ],
       
         [ "Kevin", 5.0 ],
       
@@ -60,7 +60,7 @@ function drawChartSubkit() {
       
         [ "empennage", 235.9 ],
       
-        [ "wing", 439.69999999999993 ],
+        [ "wing", 440.19999999999993 ],
       
     ]);
 
