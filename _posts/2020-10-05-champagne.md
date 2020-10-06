@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Under pressure: fuel tank leak tests"
-duration: 51.9 person-hours since last post
+duration: "51.9 person-hours since last post"
 tags: wings
 thumbnail: "https://storage.googleapis.com/slingalongblog-images/sasha_exhausted_crop.jpg"
 ---
 In the last several weeks, we test the right fuel tank several times and try not to ~~cry~~ be discouraged.
 
-
-On the bright side, we had a visit from some fellow Bay Area builders: Gustavo, Arthur, and Amalia! It was great to meet you guys :)
+On the bright side, we had a visit from some fellow Bay Area builders: Gustavo, Arthur, and Amalia! It was great to meet you guys :)
 
 Their visit helped lighten up an otherwise quite discouraging couple of weeks, readers. Fuel tank leak testing is hard! Luckily, all the leaks we found were really stupid ones, particularly those that were at the corners of the flanges. We hadn't even looked at those areas while we were goop-ing since we (wrongly) assumed that we should only seal mating surfaces. What fools we were! 
 
