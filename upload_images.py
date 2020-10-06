@@ -2,6 +2,7 @@ import glob
 import re
 import os
 import subprocess
+from concurrent.futures import ThreadPoolExecutor
 
 GS_BUCKET = "slingalongblog-images"
 
@@ -16,6 +17,7 @@ def upload_file(local_link):
         try:
             subprocess.check_call(['gsutil', 'cp', '-n', file_path, remote_link])
         except BaseException as e:
+            print(e)
             return None
         return public_url
 
@@ -49,14 +51,16 @@ def upload_links(fname):
     with open(fname) as f:
         text = f.read()
     new_text = process_image_links(text)
-    new_text = process_thumbnail_links(text)
+    new_text = process_thumbnail_links(new_text)
     with open(fname, 'w') as f:
         f.write(new_text)
 
 def main():
-    for fname in glob.glob('_posts/*.md'):
-        upload_links(fname)
-        
+    fs = []
+    with ThreadPoolExecutor(max_workers=4) as tpe:
+        fs = [tpe.submit(upload_links, fname) for fname in glob.glob('_posts/*.md')]
+    for f in fs:
+        f.result()   
 
 if __name__ == '__main__':
     main()
