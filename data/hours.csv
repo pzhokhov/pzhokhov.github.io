@@ -1,16 +1,16 @@
 Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,218.85
 Sasha,05/14,empennage,2,,,,,Peter Final Hours,277.85
 Peter,05/14,empennage,2,,,,,,
-Sasha,05/17,wing,4,,,,,Misc Final Hours,106.4
+Sasha,05/17,wing,4,,,,,Misc Final Hours,106.9
 Peter,05/17,wing,4,,,,,,
-Sasha,05/20,wing,3,,,,,Total hours,604.1
+Sasha,05/20,wing,3,,,,,Total hours,604.6
 Peter,05/20,wing,3,,,,,,
 Sasha,05/21,wing,3.5,,,,,,
-Peter,05/21,wing,3.5,,,,,,We'd like to put in an order for the following:
+Peter,05/21,wing,3.5,,,,,,
 Katya,05/21,wing,3.5,,,,,,
-Katya,5/22/2020,wing,5.5,,,,,,-one carton of CHB5MG (multigrip 3.2 x 8 mm CSK blind rivets)
-Sasha,5/22/2020,wing,5.5,,,,,,-one carton of OESTKG (M3 x 5.0 mm open-end flange head blind rivnut)
-Peter,5/22/2020,wing,5.5,,,,,,-one carton of
+Katya,5/22/2020,wing,5.5,,,,,,
+Sasha,5/22/2020,wing,5.5,,,,,,
+Peter,5/22/2020,wing,5.5,,,,,,
 Claude,5/22/2020,wing,2,,,,,,
 Bryan,5/22/2020,wing,2,,,,,,
 Zina,5/22/2020,wing,5.5,,,,,,
@@ -185,3 +185,4 @@ sasha,10/3,wing,3.5,"right fuel tank leak test #2, deburred holes on ailerons, d
 Peter,10/3,wing ,3.5,,,,,,
 sasha,10/4,wing,1.2,,,,,,
 peter,10/4,wing,1.2,,,,,,
+claude,10/4,wing,0.5,"right fuel tank leak test, bubbles",,,,,
