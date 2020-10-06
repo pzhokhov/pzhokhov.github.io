@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Under pressure: fuel tank leak tests
-duration: 51.9 person-hours since last post
+title: "Under pressure: fuel tank leak tests"
+duration: "51.9 person-hours since last post"
 tags: wings
 thumbnail: "https://storage.googleapis.com/slingalongblog-images/sasha_exhausted_crop.jpg"
 ---
