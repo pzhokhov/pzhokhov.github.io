@@ -3,7 +3,7 @@ layout: post
 title: Under pressure: fuel tank leak tests
 duration: 51.9 person-hours since last post
 tags: wings
-thumbnail: "/images/sasha_exhausted_crop.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/sasha_exhausted_crop.jpg"
 ---
 In the last several weeks, we test the right fuel tank several times and try not to ~~cry~~ be discouraged. 
 
@@ -19,7 +19,7 @@ We chose to *not* goop up the cork gasket, but instead added [this](https://smil
 
 The most depressing thing about the fuel tank leaks was that everytime we found a leak we had to mix another batch of sealant for it, killing a $20-$30 cartridge. We combined this as much as possible with starting the left fuel tank (i.e. sealing the left tank fuel sender, doing the internal skeleton, etc.) to make the monetary loss slightly more palatable. Here, you can see Peter pretending to be excited about doing yet another fuel tank leak test.
 
-![cat](/images/20200927_143243.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/20200927_143243.jpg)
 
 All in all, it looks like the right fuel tank is more or less finished. Next, we have to scrape off all the excess goop (of which there is a lot cause we really wanted lots of goop) and attach it to the right wing. Then, we do this all again. Judging by what we've already done with the left fuel tank, it actually feels like it won't be that bad???? I don't know. Claude said he thought the same thing and then had like three pinhole leaks he had to track down. So we'll see. 
 

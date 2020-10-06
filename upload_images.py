@@ -16,7 +16,7 @@ def upload_file(local_link):
         public_url = f"https://storage.googleapis.com/{GS_BUCKET}/{base_name}"
         print(f"Uploading {local_link} ({file_path}) -> {remote_link} ({public_url})")
         try:
-            subprocess.check_call(['gsutil', 'cp', '-n', file_path, remote_link])
+            subprocess.check_call(['bash', '-c', f'gsutil cp -n "{file_path}" "{remote_link}"'])
         except BaseException as e:
             import pdb; pdb.set_trace()
             print(e)
@@ -60,12 +60,10 @@ def upload_links(fname):
 
 def main():
     fs = []
-    # with ThreadPoolExecutor(max_workers=4) as tpe:
-    #     fs = [tpe.submit(upload_links, fname) for fname in glob.glob('_posts/*.md')]
-    # for f in fs:
-    #     f.result()   
-    for fname in glob.glob('_posts/*.md'):
-            upload_links(fname)
+    with ThreadPoolExecutor(max_workers=4) as tpe:
+        fs = [tpe.submit(upload_links, fname) for fname in glob.glob('_posts/*.md')]
+    for f in fs:
+        f.result()
 
 if __name__ == '__main__':
     main()
