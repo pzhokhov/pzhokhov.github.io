@@ -3,39 +3,39 @@ layout: post
 title: Fuel tank progress sputters along
 duration: 70.4 person-hours since last post
 tags: wings
-thumbnail: "/images/papa_thumb.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/papa_thumb.jpg"
 ---
 
 In this week's post, we start work on the fuel tanks, find our first cracked rib (on the bright side, before it gets on the plane), and make first contact with the GOOP.
 
 Friends, its hard to stay positive about these fuel tanks. Our fuel tanks came with all the problems we'd seen people mention on the Sling Builders FB group - the fuel cap hole didn't match the size on the fuel tank...The drilled holes on the fuel cap didn't match the drilled holes on the skin...
 
-![cat](/images/20200823_144816.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/20200823_144816.jpg)
 
 Countersinking the holes on the fuel cap was a major pain as the bevel precludes the possibility of using a micro-stop...
 
-![cat](/images/20200823_150944.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/20200823_150944.jpg)
 
 And several rows on the fuel tank skin (where the fuel tank is supposed to be rivetted to the wing) had been under-drilled and so had to be re-drilled up to the correct size.
 
 And we found our first cracked rib :'(
 
-![cat](/images/crack_rib.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/crack_rib.jpg)
 
 None of these are show-stopping issues, but they did make our attempt at an "assembly dry run" fail miserably the first weekend as we worked to get the parts into an assemble-able state.
 
 On the bright side, we had lots of help. Our friend Fred came by and dimpled almost all of the right fuel tank skin like a pro! 
 
-![cat](/images/20200818_193211.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/20200818_193211.jpg)
 
 Got a great picture of Fred at sunset too:
 
-![cat](/images/20200818_193222.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/20200818_193222.jpg)
 
 The next weekend we had help from the family! My dad helped with rivetting the lower wing skin (a bunch of rivets there took quite a bit of force to shove through!) and my sister and mother dimpled almost the entire left fuel tank skin, demonstrating to my little sister that team work makes the dream work ;)
 
-![cat](/images/20200829_173619.jpg)
-![cat](/images/20200829_173608.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/20200829_173619.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/20200829_173608.jpg)
 
 
 We then made first contact with the goop with lots of help from Claude Pignol - thanks Claude! We've put together a video to show-case first contact and demonstrate how we did it for anyone who's interested:
@@ -48,11 +48,11 @@ Anyway.
 
 The clamp that TAF sends for the wire-mesh fuel-intake also came unbent. Peter heroically bent one on the vise to the correct shape!
 
-![cat](/images/clamp_bend.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/clamp_bend.jpg)
 
 On a totally different note, there also seems to be a huge difference in spec for the curved inlets for the fuel overflow; one we had was super close to the edge of the rib, the other had a 2-3 mm gap.
 
-![cat](/images/bad_curves.jpg)
+![cat](https://storage.googleapis.com/slingalongblog-images/bad_curves.jpg)
 
 While this seems odd, its once again not a show-stopper, just sad.
 

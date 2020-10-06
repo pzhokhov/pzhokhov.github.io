@@ -2,7 +2,7 @@
 layout: post
 title: Building a table
 duration: 12h
-thumbnail: "/images/20191005_181815_thumbnail.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/20191005_181815_thumbnail.jpg"
 tags: working-space tutorial
 ---
 
@@ -57,12 +57,12 @@ The first cut ended up a bit janky, because a) it was the first time either of u
 so we ended up with a bit of a step. 
 When cutting the shelf, we became more comfortable with the circular saw, and have cut it pretty neatly (big shoutout to the high quality of Claude's tools!)
 
-![sashe and plywood cutting setup](/images/IMG_20190930_193846.jpg)
+![sashe and plywood cutting setup](https://storage.googleapis.com/slingalongblog-images/IMG_20190930_193846.jpg)
 
 Next came the assembly stage. 
 We put the top beams on the floor (fortunately, the floor in the hangar is rather flat), used the right angle to align the beams into a rectangle (with 21 in beams between 8 ft beams), and screwed in 8 #10x3 screws (2 on each side).  
 
-![peter_and_the_top](/images/20191002_205157.jpg)
+![peter_and_the_top](https://storage.googleapis.com/slingalongblog-images/20191002_205157.jpg)
 
 Again, a good electric drill / screwdriver is a must for this stage, because those #10x3 screws take a lot of torque to get in; and tend to slip 
 unless pressed really firmly. Peter broke a sweat even with the electric screwdriver!
@@ -71,17 +71,17 @@ Next we attached the intermediate supporting beams. There was supposed to be 3 o
 
 Next, the legs! This part was a little tricky - most legs were vertical when placed within the frame (we checked that using the level), but one leg was slightly off. Sergey, who was helping us out that day, came out with the great idea of cardboard inserts (cut out of the box we used to move stuff to hangar) to correct the tilt of the leg. 
 
-![sergey and table legs](/images/20191005_181812_HDR.jpg)
+![sergey and table legs](https://storage.googleapis.com/slingalongblog-images/20191005_181812_HDR.jpg)
 
 The rest was pretty straighforward - add leg doublers (17.5in slices), attach and level 93 in shelf supports, and cut lower leg doublers to length.
 We did a decent job cutting, but to make the bottoms of the legs perfectly flush, we needed some of those cardboard spacers again.
 
-![peter levels shelf support](/images/20191005_181815.jpg)
+![peter levels shelf support](https://storage.googleapis.com/slingalongblog-images/20191005_181815.jpg)
 
 Lastly, we added the shelf (it turned out a little long, so we shortened it by an inch using the circular saw); and attached the moldings using wood
 glue and 4d finishing nails. The molding required pre-drilling, but even so, attaching it was really fast, while protecting us from splinters when carrying 
 the table around. This is how the table looked like in the end:
 
-![finished table](/images/2019-10-06-table.jpg)
+![finished table](https://storage.googleapis.com/slingalongblog-images/2019-10-06-table.jpg)
 
 What do you guys think? Worth the effort? Sasha is not entirely convinced it makes sense to build tables as you could possibly *buy* them, but that does seem rather like saying building an airplane doesn't make sense as you could *buy* it :) Thoughts? Leave a comment!

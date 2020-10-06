@@ -3,13 +3,13 @@ layout: post
 title: We are back!
 Duration: Likely ~40 hours since November
 tags: empennage wings
-thumbnail: "/images/merida_quarantine_crop.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/merida_quarantine_crop.jpg"
 ---
 This week, Sasha and Peter emerge from quarantine to continue work!
 
 "One month in Munich" turned into four months in Munich and two months in Mexico - crazy story all around. Here's us in Merida as we were waiting for the status of Peter's visa.
 
-![merida](/images/merida_quarantine_crop.jpg)
+![merida](https://storage.googleapis.com/slingalongblog-images/merida_quarantine_crop.jpg)
 
 At any rate, we're back and diving into work again! We're currently dedicating one full day on the weekend (6-8 hours) and two weeknights (2-3 hours). This week, we wrapped up assembly of the empennage (everything except actually skinning it, since we're still trying to figure out the electrical config on our end) and started the wings. 
 
@@ -23,10 +23,10 @@ Anyway, the challenges are ahead of us - the empennage manual specifically says 
 
 Here's some pictures of the rudder preparation and assembly process:
 
-![rudder_ready](/images/rudder_to_prime.jpg)
+![rudder_ready](https://storage.googleapis.com/slingalongblog-images/rudder_to_prime.jpg)
 
-![Peter](/images/Peter_priming.jpg)
+![Peter](https://storage.googleapis.com/slingalongblog-images/Peter_priming.jpg)
 
-![Peter](/images/rudder_assembly.jpg)
+![Peter](https://storage.googleapis.com/slingalongblog-images/rudder_assembly.jpg)
 
 How have your winters been, gentle readers? Super productive or absolutely nothing done? How has quarantine impacted your build? Discussion is always welcome!

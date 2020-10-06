@@ -34,46 +34,46 @@ Adored blog readers, we got down to some real business on Saturday. Spraying hap
 As we wrote in our last post (see [#primer](/tag/primer)), the plan was to prepare our aluminum with PreKote prior to priming. In order to do this, we had to leave the peace and quiet of our hangar and cart our parts 100 ft over to an airport hose.
 
 
-![cart](/images/spraying_01_cart.jpg)
+![cart](https://storage.googleapis.com/slingalongblog-images/spraying_01_cart.jpg)
 
 Considering PreKote to be biodegradeable (and hence equivalent to water-soluble and thence to harmless), we did not wear PPE for this part. This was kind of a mistake - I (Sasha) got some in my eye and its been swollen for the last two days, so *do* wear PPE, gentle readers.
 
 In any case, you're supposed to cover your parts in the Pre-Kote, lather it up with some Scotch-Brite (we found our battery operated sander to work really well for this part - 19 V battery are not scary to use close to water / lather), cover some more, lather again, and then rinse well with water. The faster you do those steps, the better this stuff is supposed to work.
 
-![spraying](/images/spraying_02_spray_prekote.jpg)
+![spraying](https://storage.googleapis.com/slingalongblog-images/spraying_02_spray_prekote.jpg)
 
 Once this was finished, we hung our parts on chicken wire attached to the cart in order to dry. Super thankful for plastic tags during this part, cause they took the water really well! Never had to worry about the text washing out.
 
-![parts](/images/spraying_05_airdry.jpg)
+![parts](https://storage.googleapis.com/slingalongblog-images/spraying_05_airdry.jpg)
 
 We then carted everything back to the hangar, donned our PPE, and mixed some Akzo!
 
-![peterandcan](/images/spraying_15_peter_opens_the_can.jpg)
-![sashappe](/images/spraying_07_sasha_in_ppe.jpg)
+![peterandcan](https://storage.googleapis.com/slingalongblog-images/spraying_15_peter_opens_the_can.jpg)
+![sashappe](https://storage.googleapis.com/slingalongblog-images/spraying_07_sasha_in_ppe.jpg)
 
 Claude kindly let us use his air compressor for priming, and we invested in a $75 HVLP Harbor Freight (nee Central Pneumatic) gun with a 1.4 mm nozzle. We poured our prepped Akzo through the strainer and into the gun and successfully managed to spray! The video below is our first two minutes with the paint gun, so don't judge too harshly :)
 
 <video width="700" controls preload src="/images/spraying_06_sasha_spraying.mp4"></video>
 
-![goodparts](/images/spraying_08_good_parts.jpg)
+![goodparts](https://storage.googleapis.com/slingalongblog-images/spraying_08_good_parts.jpg)
 
 Some parts not so much...There were several issues we had to work through:
 
  - Not enough paint. This would happen if we quickly ran the gun over the parts without slowing down.
 
- ![littlepaint](/images/spraying_10_too_little_paint.jpg)
+ ![littlepaint](https://storage.googleapis.com/slingalongblog-images/spraying_10_too_little_paint.jpg)
 
  - Too much paint. Often would happen if I (Sasha) was spraying.
 
- ![muchopaint](/images/spraying_09_too_much_paint.jpg)
+ ![muchopaint](https://storage.googleapis.com/slingalongblog-images/spraying_09_too_much_paint.jpg)
 
  - Fish-eyes - apparently happens if there's some grease on the parts?? Which somehow survived one round of acetone, another of Scotchbrite, and two of PreKote? Not sure how this happens.
 
-![fisheye](/images/spraying_13_fisheye.jpg)
+![fisheye](https://storage.googleapis.com/slingalongblog-images/spraying_13_fisheye.jpg)
 
  - Forgetting sides of parts we're spraying. Self-explanatory what causes this (read: brain damage from not wearing PPE)
 
-![sides](/images/spraying_11_forgot_sides.jpg)
+![sides](https://storage.googleapis.com/slingalongblog-images/spraying_11_forgot_sides.jpg)
 
 But you know, some parts came out ok :)
 
