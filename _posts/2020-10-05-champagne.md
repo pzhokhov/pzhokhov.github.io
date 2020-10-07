@@ -3,7 +3,7 @@ layout: post
 title: "Under pressure: fuel tank leak tests"
 duration: "51.9 person-hours since last post"
 tags: wings
-thumb_nail: "https://storage.googleapis.com/slingalongblog-images/sasha_exhausted_crop.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/sasha_exhausted_crop.jpg"
 ---
 
 In the last several weeks, we test the right fuel tank several times and try not to ~~cry~~ be discouraged.

@@ -48,6 +48,9 @@ def process_thumbnail_links(text):
     return re.sub(r'(thumbnail: \")((?!https://|http://).*\..*)\"', _thunk, text)
 
 
+def remove_windows_line_endings(text_bytes):
+    return text_bytes.replace(b'\r\n', b'\n')
+
 def upload_links(fname):
     print(f'Processing file {fname}')
     with open(fname, 'rb') as f:
@@ -56,7 +59,7 @@ def upload_links(fname):
     new_text = process_image_links(text)
     new_text = process_thumbnail_links(new_text)
     with open(fname, 'wb') as f:
-        f.write(new_text.encode('utf-8'))
+        f.write(remove_windows_line_endings(new_text.encode('utf-8')))
 
 def main():
     fs = []
