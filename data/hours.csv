@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,225.1
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,284.1
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,232.2
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,288.7
 Peter,5/14/2020,empennage,2,,,,,,
-Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,110.2
+Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,114.8
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,620.4
+Sasha,5/20/2020,wing,3,,,,,Total hours,636.7
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -197,3 +197,7 @@ sasha,10/8/2020,wing,4.25,"primed a bunch: left fuel tank, right fuel tank rib. 
 peter,10/8/2020,wing,4.25,,,,,,
 sasha,10/9/2020,wing,0.5,"took parts out of hangar, got acetone",,,,,
 Peter,10/9/2020,wing,0.5,,,,,,
+sasha,10/10,wing,2.5,deburred and labeled flap parts,,,,,
+sasha,10/11,wing,4.6,"gooped left fuel tank skeleton into skin, cracked a rib",,,,,
+katya,10/11,wing,4.6,,,,,,
+peter,10/11,wing,4.6,,,,,,

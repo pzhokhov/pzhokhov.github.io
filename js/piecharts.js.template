@@ -2,8 +2,23 @@ google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(drawChartBuilder);
 google.charts.setOnLoadCallback(drawChartSubkit);
 
-// drawChartBuilder()
-// drawChartSubkit()
+function drawChartBuilderRecent() {
+    var data = google.visualization.arrayToDataTable([
+      ['Builder', 'Hours'],
+      {% for name, hours in hours['per_person_recent'] %}
+        [ "{{ name }}", {{ hours }} ],
+      {% endfor %}
+    ]);
+
+    var options = {
+      title: "Build hours  in last 30 days by builder (total {{ hours['total_recent'] }})",
+      is3D: true
+    };
+
+    var chart = new google.visualization.PieChart(document.getElementById('piechartBuilderRecent'));
+
+    chart.draw(data, options);
+}
 
 function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
@@ -43,9 +58,11 @@ function drawChartSubkit() {
 
 $(window).resize(function() {
   if ($(this).width() < 1024) {
+    $('#piechartBuilderRecent').hide();
     $('#piechartBuilder').hide();
     $('#piechartSubkit').hide();
   } else {
+    $('#piechartBuilderRecent').show();
     $('#piechartBuilder').show();
     $('#piechartSubkit').show();
   }
