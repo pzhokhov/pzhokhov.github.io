@@ -2,18 +2,47 @@ google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(drawChartBuilder);
 google.charts.setOnLoadCallback(drawChartSubkit);
 
-// drawChartBuilder()
-// drawChartSubkit()
+function drawChartBuilderRecent() {
+    var data = google.visualization.arrayToDataTable([
+      ['Builder', 'Hours'],
+      
+        [ "Sasha", 42.550000000000004 ],
+      
+        [ "Peter", 40.050000000000004 ],
+      
+        [ "Katya", 9.3 ],
+      
+        [ "Jonah", 4.0 ],
+      
+        [ "Claude", 2.0 ],
+      
+        [ "Zina", 0.7 ],
+      
+        [ "Tatiana", 0.7 ],
+      
+        [ "Anton", 0.7 ],
+      
+    ]);
+
+    var options = {
+      title: "Build hours  in last 30 days by builder (total 100)",
+      is3D: true
+    };
+
+    var chart = new google.visualization.PieChart(document.getElementById('piechartBuilderRecent'));
+
+    chart.draw(data, options);
+}
 
 function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 284.09999999999997 ],
+        [ "Peter", 288.7 ],
       
-        [ "Sasha", 225.1 ],
+        [ "Sasha", 232.2 ],
       
-        [ "Katya", 41.400000000000006 ],
+        [ "Katya", 46.00000000000001 ],
       
         [ "Zina", 16.9 ],
       
@@ -48,7 +77,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 620)",
+      title: "Build hours by builder (total 636)",
       is3D: true
     };
 
@@ -63,7 +92,7 @@ function drawChartSubkit() {
       
         [ "empennage", 235.9 ],
       
-        [ "wing", 455.9999999999999 ],
+        [ "wing", 472.29999999999995 ],
       
     ]);
 
@@ -79,9 +108,11 @@ function drawChartSubkit() {
 
 $(window).resize(function() {
   if ($(this).width() < 1024) {
+    $('#piechartBuilderRecent').hide();
     $('#piechartBuilder').hide();
     $('#piechartSubkit').hide();
   } else {
+    $('#piechartBuilderRecent').show();
     $('#piechartBuilder').show();
     $('#piechartSubkit').show();
   }

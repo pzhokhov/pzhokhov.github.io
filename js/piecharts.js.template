@@ -5,8 +5,8 @@ google.charts.setOnLoadCallback(drawChartSubkit);
 function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
-      {% for name, hours in hours['per_person_recent'] %}
-        [ "{{ name }}", {{ hours }} ],
+      {% for name, hrs in hours['per_person_recent'] %}
+        [ "{{ name }}", {{ hrs }} ],
       {% endfor %}
     ]);
 
@@ -23,8 +23,8 @@ function drawChartBuilderRecent() {
 function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
-      {% for name, hours in hours['per_person'] %}
-        [ "{{ name }}", {{ hours }} ],
+      {% for name, hrs in hours['per_person'] %}
+        [ "{{ name }}", {{ hrs }} ],
       {% endfor %}
     ]);
 

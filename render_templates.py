@@ -27,11 +27,11 @@ def load_build_log():
 
 
 def is_recent(row):
-    date = [int(x) for x in row['Date']].split('/')
+    date = [int(x) for x in row['Date'].split('/')]
     month, day, year = date if len(date) == 3 else date + [2020,]
     if year < 2000:
         year += 2000
-    return datetime.today() - datetime.date(year, month, day) < datetime.timedelta(days=30)
+    return datetime.date.today() - datetime.date(year, month, day) < datetime.timedelta(days=30)
 
 
 def compute_hours(build_log):
@@ -49,7 +49,9 @@ def compute_hours(build_log):
    total = sum(per_person.values())
    total_recent = sum(per_person_recent.values())
    print("Total build hours: ", total)
+   print("Recent build hours: ", total_recent)
    per_person = sorted([(p, h) for p,h in per_person.items()], key=lambda x: -x[1])
+   per_person_recent = sorted([(p, h) for p,h in per_person_recent.items()], key=lambda x: -x[1])
    return {
     "per_person": per_person, 
     "per_person_recent": per_person_recent,
