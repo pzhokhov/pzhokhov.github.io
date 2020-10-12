@@ -1,4 +1,5 @@
 google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChartBuilderRecent);
 google.charts.setOnLoadCallback(drawChartBuilder);
 google.charts.setOnLoadCallback(drawChartSubkit);
 
