@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,240.7
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,295.7
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,245.3
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,300.1
 Peter,5/14/2020,empennage,2,,,,,,
-Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,122.8
+Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,660.2
+Sasha,5/20/2020,wing,3,,,,,Total hours,673.3
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -214,3 +214,6 @@ peter,10/20/2020,wing,2.5,primed aileron and flap parts,,,,,
 sasha,10/20/2020,wing ,2.5,deburred aileron and flap parts,,,,,
 peter,10/23/2020,wing,0.5,deburred flap parts,,,,,
 sasha,10/23/2020,wing,1,labelled and deburred flap parts,,,,,
+Peter,10/25/2020,wing,4.4,"deburred flap parts, primed flap parts",,,,,
+sasha,10/25/2020,wing ,4.6,"deburred flap parts, primed flap parts",,,,,
+katya,10/25/2020,wing,4.1,"labeled, deburred, primed .",,,,,
