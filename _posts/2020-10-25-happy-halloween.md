@@ -10,7 +10,7 @@ In this week's blog post, our friends Holly and Eugene visit for the first time,
 
 We also conducted another leak test recently, this time for the left fuel tank. As you can see below, this test was successful in that it found a leak!
 
-<iframe width="598" height="336" src="https://youtu.be/YffWJMASOe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="598" height="336" src="https://www.youtube.com/watch?v=YffWJMASOe8&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Obviously, the counter to this is that we were not as on top of our sealing game as the last fuel tank, as the last fuel tank had no leaks at this stage :) Unfortunately, we will not be able to finish sealing the tank for quite a while as we are waiting on some rivets from TAF, but at least this gives us time to mentally prepare for the next fun-filled round of gooping.
 
