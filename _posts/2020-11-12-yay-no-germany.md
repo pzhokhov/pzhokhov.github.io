@@ -19,7 +19,7 @@ On the side of our one-day-definitely-going-to-be-actually-flying airplane, we u
 
 ![cat](https://storage.googleapis.com/slingalongblog-images/20201030_212706.jpg)
 
-We also mounted the right fuel tank with Kat, which was a massive pain in the backside and not an experience I am really looking forward to repeating. It took the both of them holding and guiding the fuel tank and me monitoring the boroscope to finally get it on. The issue (for us at least) is that those bracket sit *very* tightly on the spar, and if they are the slightest bit misaligned they will not go all the way on top of the spar "shelves"...
+We also mounted the right fuel tank with Kat, which was a massive pain in the backside and not an experience I am really looking forward to repeating. It took the both of them holding and guiding the fuel tank and me monitoring the boroscope to finally get it on. The issue (for us at least) is that those brackets sit *very* tightly on the spar, and if they are the slightest bit misaligned they will not go all the way on top of the spar "shelves"...
 
 Here's Kat really not looking forward to any more fuel tank struggle after the awesomely sucky time we had:
 
