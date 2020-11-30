@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,276.7
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,334.5
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,280.9
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,338.7
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,755.6
+Sasha,5/20/2020,wing,3,,,,,Total hours,764
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -247,3 +247,7 @@ zina,11/27/2020,wing,2.5,aileron,,,,,
 anton,11/27/2020,wing,2.5,aileron,,,,,
 Tatiana,11/27/2020,wing,2.5,aileron,,,,,
 katya,11/27/2020,wing,0.5,,,,,,
+sasha,11/28/2020,wing,2.5,"left fuel tank leak tests, aileron",,,,,
+peter,11/28/2020,wing,2.5,"left fuel tank leak test, aileron",,,,,
+sasha,11/29/2020,wing,1.7,"left fuel tank leak test, inspected wiring",,,,,
+peter,11/29/2020,wing,1.7,"left fuel tank leak test, fixed aileron tube issue",,,,,
