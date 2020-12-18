@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,282.9
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,340.7
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,289.9
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,347.7
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,769
+Sasha,5/20/2020,wing,3,,,,,Total hours,786
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -254,3 +254,10 @@ peter,11/29/2020,wing,1.7,"left fuel tank leak test, fixed aileron tube issue",,
 sasha,12/8/2020,wing,2,"gooping left fuel tank, running wire",,,,,
 Peter,12/8/2020,wing,2,"gooping, adding nutplates to landing light",,,,,
 claude,12/7/2020,wing,1,cleaned right fuel tank ,,,,,
+sasha,12/11/2020,wing,2,research/buying,,,,,
+Peter,12/11/2020,wing,2,research/buying,,,,,
+sasha,12/16/2020,wing,1.5,"misc stuff- left fuel tank leak test, wiring, AN fittings",,,,,
+Peter,12/16/2020,wing,1.5,see above,,,,,
+sasha,12/17/2020,wing,3.5,"installed rivnuts, installed pitot bracket, installed fuel tank rib",,,,,
+Peter,12/17/2020,wing,3.5,landing light strip,,,,,
+Luke ,12/17/2020,wing,3,aileron and flap,,,,,
