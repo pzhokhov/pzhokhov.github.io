@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,291.9
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,349.7
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,294.4
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,352.2
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,790
+Sasha,5/20/2020,wing,3,,,,,Total hours,795
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -263,3 +263,5 @@ Peter,12/17/2020,wing,3.5,landing light strip,,,,,
 Luke ,12/17/2020,wing,3,aileron and flap,,,,,
 sasha,1/9/2021,wing,2,dimpled and cleaned,,,,,
 peter,1/9/2021,wing,2,buffed right wing bottom of top skin,,,,,
+sasha,1/10/2021,wing,2.5,prepped bottom of top wing skin,,,,,
+peter,1/10/2021,wing,2.5,,,,,,
