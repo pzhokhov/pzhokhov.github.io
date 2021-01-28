@@ -8,8 +8,8 @@ GS_BUCKET = "slingalongblog-images"
 
 
 def upload_file(local_link):
-    file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), *local_link.split('/'))
-    
+    file_path = local_link
+   
     if os.path.exists(file_path):
         base_name = os.path.basename(file_path)
         remote_link = '/'.join(["gs:/", GS_BUCKET, base_name])
@@ -26,7 +26,7 @@ def upload_file(local_link):
 
 def process_image_links(text):
     def _thunk(matchobj):
-        local_link = matchobj.group(2).lstrip('/')
+        local_link = matchobj.group(2)
         remote_url = upload_file(local_link)
         if remote_url is None:
             return matchobj.group(0)
@@ -38,7 +38,7 @@ def process_image_links(text):
 
 def process_thumbnail_links(text):
     def _thunk(matchobj):
-        local_link = matchobj.group(2).lstrip('/')
+        local_link = matchobj.group(2)
         remote_url = upload_file(local_link)
         if remote_url is None:
             return matchobj.group(0)
