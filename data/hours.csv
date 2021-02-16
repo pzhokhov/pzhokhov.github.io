@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,308.3
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,367.6
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,310.8
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,369.6
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,832.4
+Sasha,5/20/2020,wing,3,,,,,Total hours,839.9
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -285,3 +285,7 @@ katya,2/4/2021,wing,2,,,,,,
 sasha,2/7/2021,wing,0.4,right fuel tank leak test,,,,,
 peter,2/7/2021,wing,2.4,"carpentry, wing stand",,,,,
 katya,2/7/2021,wing,2.4,"carpentry, wing stand",,,,,
+peter,2/10/2021,wing,2,"carpentry, wing stand",,,,,
+sasha,2/15/2021,wing,2.5,riveted and drilled leading edge,,,,,
+Peter ,2/15/2021,wing,2.5,"wing stand, rivetted and drilled fuel tank",,,,,
+katya,2/15/2021,wing,0.5,vacuuming,,,,,
