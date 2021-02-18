@@ -13,7 +13,7 @@ Also, Auburn has a strong experimental aviation presence - Sasha spotted a Sling
 a picture)
 
 
-![sashaAn2](/Users/peterz/Downloads/PXL_20210110_231129659.jpg)
+![sashaAn2](https://storage.googleapis.com/slingalongblog-images/PXL_20210110_231129659.jpg)
 
 Not sure why An-2 was labelled as "Experimental", but this one definitely was. 
 
@@ -25,7 +25,7 @@ Why? Turns out, the top skin makes the wing rigid enough (in the hindsight - duh
 This made us stop and think for a bit, and the solution we came up with was to clamp down two out of four corners of the jigs. With that, we were able to make the twist zero
 to the precision of our (well, Claude's, technically) level. Here's a picture of that happy moment:
 
-![zerotwist](/Users/peterz/Downloads/20210129_205922.jpg)
+![zerotwist](https://storage.googleapis.com/slingalongblog-images/20210129_205922.jpg)
 
 Interestingly, untwisting the wing that way solved another problem that we had - the stiffness of motion of flap torque tube. Prior to untwisting, it had required quite a bit of a grip
 to turn by hand, however, after we clamped down the corners of the jigs, the turning became much easier. To all the future builders of the kit - before you decide to grind down the bushings
@@ -33,18 +33,18 @@ because the flap torque tube is too stiff, check the alignment :)
 
 After that, we made a rough alignment check of flaps and ailerons
 
-![flapalignmentcheck](/Users/peterz/Downloads/20210201_194931.jpg)
+![flapalignmentcheck](https://storage.googleapis.com/slingalongblog-images/20210201_194931.jpg)
 
 Why rough? Ideally, we wanted to make sure that when flap aligns with wing root on one end, and with the aileron on the other end, the aileron aligns with the wing tip.
 However, we did not have a wing tip installed, nor the last wing rip that aileron bearing attaches to, so we could only eyeball that things are roughly in line with the
 wing. Lots of riveting later
 
-![sashaandkatyariveting](/Users/peterz/Downloads/20210203_211712.jpg)
+![sashaandkatyariveting](https://storage.googleapis.com/slingalongblog-images/20210203_211712.jpg)
 
 Top skin was on (well, almost - there is a spot next to rib 11 assembly where the standard 3.2x8 mm rivet is too long and does not fit. We are waiting on the specially ordered 3.2x4 mm rivets for that).
 As a next step, we put the fuel tank on ... 
 
-![sadfueltankwithoutskin](/Users/peterz/Downloads/20210204_203942.jpg)
+![sadfueltankwithoutskin](https://storage.googleapis.com/slingalongblog-images/20210204_203942.jpg)
 
 ... which was a mistake, because it was the leading edge skin that was supposed to go on first. At the time, we thought it would be easier to shove
 the leading edge skin under the fuel tank skin. However, that moves the rib WG-RIB-101 (the leading edge rib on which the leading edge skin and the fuel tank skin overlaps), and it becomes
@@ -53,16 +53,16 @@ technique (notice the silverware sticking from the tank in the picture above) to
 
 After the final installation of the fuel tank, we ran another pressure test - and our tank held the balloon inflated like a champ, for at least three days.
 
-![pressuretest](/Users/peterz/Downloads/20210207_163300.jpg)
+![pressuretest](https://storage.googleapis.com/slingalongblog-images/20210207_163300.jpg)
 
 At that point, we realized that the right wing is not that far from done, and dedicated one of the weekend days to making the wing stand.
 
-![katya_and_jigsaw](/Users/peterz/Downloads/20210203_211712.jpg)
+![katya_and_jigsaw](https://storage.googleapis.com/slingalongblog-images/20210203_211712.jpg)
 
  We used these [plans](https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/tools-and-workshop/how-to-make-a-wing-stand),
 with minor modifications - we did not have a 4x4 beam, so we used two 2x4s as a base piece, and we are using sticky foam instead of carpeting slings.
 The lumber was actually leftovers from table construction. The result (at the time of caster installation) looked like this
 
-![wingstand](/Users/peterz/Downloads/20210215_153416.jpg)
+![wingstand](https://storage.googleapis.com/slingalongblog-images/20210215_153416.jpg)
 
 What about you readers? Are you spending your weekends doing carpentry? What is your favorite place to get craft beers / wines? Leave a comment below!

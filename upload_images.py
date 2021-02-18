@@ -6,7 +6,6 @@ from concurrent.futures import ThreadPoolExecutor
 
 GS_BUCKET = "slingalongblog-images"
 
-
 def upload_file(local_link):
     file_path = local_link
    
@@ -18,7 +17,6 @@ def upload_file(local_link):
         try:
             subprocess.check_call(['bash', '-c', f'gsutil cp -n "{file_path}" "{remote_link}"'])
         except BaseException as e:
-            import pdb; pdb.set_trace()
             print(e)
             return None
         return public_url
