@@ -18,8 +18,8 @@ a picture)
 
 Not sure why An-2 was labelled as "Experimental", but this one definitely was. 
 
-Back at the hangar, when assembling the right wing, we would periodically check that the jigs at the root and tip of the wing are parallel (can be done via a laser level, or,
-even easier, by placing electronic level on the tops of the jigs and making sure they read the same value (and adding some shims if they don't)
+Back at the hangar, when assembling the right wing, we would periodically check that the jigs at the root and tip of the wing are parallel. This can be done via a laser level, or,
+even easier, by placing electronic level on the tops of the jigs and making sure they read the same value (and adding some shims if they don't).
 
 However, once we clecoed the top skin on, this stopped working! No matter how many shims we added, we could not align the jigs, and the difference (twist) was about 0.5 degrees.
 Why? Turns out, the top skin makes the wing rigid enough (in the hindsight - duh!), so that adding shims to any corner only lifts the wing, but does not actually fix the twist.
@@ -36,9 +36,9 @@ After that, we made a rough alignment check of flaps and ailerons
 
 ![flapalignmentcheck](https://storage.googleapis.com/slingalongblog-images/20210201_194931.jpg)
 
-Why rough? Ideally, we wanted to make sure that when flap aligns with wing root on one end, and with the aileron on the other end, the aileron aligns with the wing tip.
-However, we did not have a wing tip installed, nor the last wing rip that aileron bearing attaches to, so we could only eyeball that things are roughly in line with the
-wing. Lots of riveting later
+Why rough? Ideally, we wanted to make sure that when the flap aligns with the wing root on one end, and with the aileron on the other end, the aileron aligns with the wing tip.
+However, we did not have a wing tip installed, nor the last wing rip that the aileron bearing attaches to, so we could only eyeball that things are roughly in line with the
+wing. Lots of riveting later...
 
 ![sashaandkatyariveting](https://storage.googleapis.com/slingalongblog-images/20210203_211712.jpg)
 
@@ -47,10 +47,10 @@ As a next step, we put the fuel tank on ...
 
 ![sadfueltankwithoutskin](https://storage.googleapis.com/slingalongblog-images/20210204_203942.jpg)
 
-... which was a mistake, because it was the leading edge skin that was supposed to go on first. At the time, we thought it would be easier to shove
+... which was a mistake :( It was the leading edge skin that was supposed to go on first. At the time, we thought it would be easier to shove
 the leading edge skin under the fuel tank skin. However, that moves the rib WG-RIB-101 (the leading edge rib on which the leading edge skin and the fuel tank skin overlaps), and it becomes
-impossible to align... Long story short, after taking the fuel tank off and putting it back on a couple more times. The good news is at that point we developed a wooden knives and forks based
-technique (notice the silverware sticking from the tank in the picture above) to prevent skin interference between fuel tank and top skin, and putting the tank back on was not that painful anymore. 
+impossible to align... Long story short, after taking the fuel tank off and putting it back on a couple more times, we discovered a technique that works. We developed a wooden-cutlery-based
+technique (notice the forks sticking from the tank in the picture above) to prevent skin interference between fuel tank and top skin, and putting the tank back on was not that painful anymore. 
 
 After the final installation of the fuel tank, we ran another pressure test - and our tank held the balloon inflated like a champ, for at least three days.
 
@@ -62,7 +62,7 @@ At that point, we realized that the right wing is not that far from done, and de
 
  We used these [plans](https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/tools-and-workshop/how-to-make-a-wing-stand),
 with minor modifications - we did not have a 4x4 beam, so we used two 2x4s as a base piece, and we are using sticky foam instead of carpeting slings.
-The lumber was actually leftovers from table construction. The result (at the time of caster installation) looked like this
+The lumber was actually leftovers from table construction, and sticky foam was salvaged from Sasha's team's shutdown. The result (at the time of caster installation) looked like this:
 
 ![wingstand](https://storage.googleapis.com/slingalongblog-images/20210215_153416.jpg)
 
