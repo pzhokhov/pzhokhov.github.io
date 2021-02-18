@@ -2,6 +2,7 @@
 layout: post
 title: Closing right wing
 tags: wings
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/20210215_175647.jpg"
 ---
 
 Since the last post, we closed skins on the right wing, practiced carpentry, and got ourselves some craft beers from runway-side brewery in Auburn. 
@@ -57,7 +58,7 @@ After the final installation of the fuel tank, we ran another pressure test - an
 
 At that point, we realized that the right wing is not that far from done, and dedicated one of the weekend days to making the wing stand.
 
-![katya_and_jigsaw](https://storage.googleapis.com/slingalongblog-images/20210203_211712.jpg)
+![katya_and_jigsaw](https://storage.googleapis.com/slingalongblog-images/20210207_160513.jpg)
 
  We used these [plans](https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/tools-and-workshop/how-to-make-a-wing-stand),
 with minor modifications - we did not have a 4x4 beam, so we used two 2x4s as a base piece, and we are using sticky foam instead of carpeting slings.
