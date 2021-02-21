@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,313.3
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,374.6
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,317.3
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,378.6
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,846.9
+Sasha,5/20/2020,wing,3,,,,,Total hours,862.9
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -292,3 +292,8 @@ katya,2/15/2021,wing,0.5,vacuuming,,,,,
 sasha,2/18/2021,wing,2.5,"finished riveting fuel tank, manhandled AN bolt onto fuel tank/spar",,,,,
 Peter,2/18/2021,wing,2.5,"finished riveting fuel tank, wingtip rib",,,,,
 katya,2/18/2021,wing,2,"finished riveting fuel tank, torqued AN bolt",,,,,
+sasha,2/20/2021,wing,4,"move right wing onto the stands, jig up left wing, add rear channel, task management",,,,,
+katya,2/20/2021,wing,2,"move right wing onto the stands, jig up left wing, remove extra rivets from the rear channel, add rear channel,",,,,,
+andrew,2/20/2021,wing,3,"move right wing onto the stands, jig up left wing, add rear channel, rivet wing root ribs",,,,,
+charissa,2/20/2021,wing,3,"move right wing onto the stands, jig up left wing, add rear channel, put the air tubes through grommets",,,,,
+peter,2/20/2021,wing,4,"move right wing onto the stands, jig up left wing, add rear channel, rivet wing root ribs, ",,,,,
