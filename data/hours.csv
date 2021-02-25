@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,319.5
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,324.25
 Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,380.8
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,869.5
+Sasha,5/20/2020,wing,3,,,,,Total hours,878
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -300,3 +300,8 @@ peter,2/20/2021,wing,4,"move right wing onto the stands, jig up left wing, add r
 sasha,2/21/2021,wing,2.2,left wing cleanup,,,,,
 Peter,2/21/2021,wing,2.2,pitot tube,,,,,
 katya,2/21/2021,wing,2.2,"heater wire, torquing fuel tank support",,,,,
+sasha,2/8/2021,wing,1,"practicing crimping (pneumatic wire crimper), figuring out milspec connectors",,,,,
+peter,2/22/2021,wing,1,wiring of pitot heat/wing strobe,,,,,
+sasha,2/22/21,wing,1,wiring of pitot heat/wing strobe,,,,,
+Peter,2/23/2021,wing,2.75,clecod wing bottom ,,,,,
+sasha,2/23/2021,wing,2.75,,,,,,
