@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,327
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,328.2
 Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,380.8
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,126.9
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,883.5
+Sasha,5/20/2020,wing,3,,,,,Total hours,889.1
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -307,3 +307,8 @@ Peter,2/23/2021,wing,2.75,clecod wing bottom ,,,,,
 sasha,2/23/2021,wing,2.75,,,,,,
 sasha,2/28/2021,wing,2.75,"realigned root skin, riveted root skin, put rivets into bottom",,,,,
 peter,2/28/2021,wing,2.75,crimped landing/taxi light,,,,,
+sasha,3/3/2021,wing,1.2,"riveted wing bottom, riveted right wing together",,,,,
+Peter,3/3/2021,wing,1.2,,,,,,
+katya,3/3/2021,wing,1.2,,,,,,
+tatiana,3/3/2021,wing,1,,,,,,
+anton ,3/3/2021,wing,1,,,,,,
