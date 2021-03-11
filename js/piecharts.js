@@ -9,13 +9,15 @@ function drawChartBuilderRecent() {
       
         [ "Peter", 23.9 ],
       
-        [ "Sasha", 22.9 ],
+        [ "Sasha", 23.9 ],
       
         [ "Katya", 7.9 ],
       
         [ "Andrew", 3.0 ],
       
         [ "Karissa", 3.0 ],
+      
+        [ "Peter ", 2.0 ],
       
         [ "Tatiana", 1.0 ],
       
@@ -28,7 +30,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 62)",
+      title: "Build hours  in last 30 days by builder (total 65)",
       is3D: true
     };
 
@@ -43,7 +45,7 @@ function drawChartBuilder() {
       
         [ "Peter", 391.4999999999999 ],
       
-        [ "Sasha", 331.1999999999999 ],
+        [ "Sasha", 333.1999999999999 ],
       
         [ "Katya", 74.60000000000002 ],
       
@@ -83,6 +85,8 @@ function drawChartBuilder() {
       
         [ "Holly", 2.0 ],
       
+        [ "Peter ", 2.0 ],
+      
         [ "Teja", 1.0 ],
       
         [ "Anton ", 1.0 ],
@@ -94,7 +98,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 895)",
+      title: "Build hours by builder (total 899)",
       is3D: true
     };
 
@@ -109,7 +113,7 @@ function drawChartSubkit() {
       
         [ "empennage", 235.9 ],
       
-        [ "wing", 730.9000000000005 ],
+        [ "wing", 734.9000000000005 ],
       
     ]);
 

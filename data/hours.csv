@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,331.2
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,333.2
 Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,391.5
 Peter,5/14/2020,empennage,2,,,,,,
-Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,171.6
+Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,173.6
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,895.3
+Sasha,5/20/2020,wing,3,,,,,Total hours,899.3
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -316,3 +316,5 @@ sasha,3/6/2021,wing,3,"fixing rivets, finishing riveting of bottom",,,,,
 peter,3/6/2021,wing,3,,,,,,
 Allison,3/6/2021,wing,0.1,,,,,,
 edward,3/6/2021,wing,0.1,,,,,,
+sasha,3/10/2021,wing,2,"checked continuity of landing light wires, riveted inspection hatch, flipped wing",,,,,
+Peter ,3/10/2021,wing,2,"attached pitot static hoses to clamps and an fittings, added edge protection for wing wires, flipped wing ",,,,,
