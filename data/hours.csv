@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,339.2
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,397.5
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,343.7
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,402
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,173.6
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,911.3
+Sasha,5/20/2020,wing,3,,,,,Total hours,920.3
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -322,3 +322,7 @@ sasha,3/11/2021,wing,2,regulator,,,,,
 peter,3/11/2021,wing,2,wiring + Deutsching ,,,,,
 sasha,3/14/2021,wing,4,"wiring, lacing, clecoing wing top",,,,,
 Peter,3/14/2021,wing,4,,,,,,
+sasha,3/15/2021,wing,2,"finished adding rivets to left wing top, started adjusting right wing tip",,,,,
+peter,3/15/2021,wing,2,,,,,,
+sasha,3/16/2021,wing,2.5,inspection hatches ,,,,,
+Peter,3/16/2021,wing,2.5,wingtip,,,,,
