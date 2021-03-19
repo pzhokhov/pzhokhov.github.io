@@ -7,21 +7,25 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha", 31.9 ],
+        [ "Sasha", 34.1 ],
       
-        [ "Peter", 29.9 ],
+        [ "Peter", 31.799999999999997 ],
       
-        [ "Katya", 7.4 ],
+        [ "Katya", 9.3 ],
       
         [ "Andrew", 3.0 ],
       
         [ "Karissa", 3.0 ],
+      
+        [ "Jonah", 2.2 ],
       
         [ "Peter ", 2.0 ],
       
         [ "Tatiana", 1.0 ],
       
         [ "Anton ", 1.0 ],
+      
+        [ "Nick", 0.2 ],
       
         [ "Allison", 0.1 ],
       
@@ -30,7 +34,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 79)",
+      title: "Build hours  in last 30 days by builder (total 87)",
       is3D: true
     };
 
@@ -43,17 +47,17 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 401.9999999999999 ],
+        [ "Peter", 403.89999999999986 ],
       
-        [ "Sasha", 343.6999999999999 ],
+        [ "Sasha", 345.89999999999986 ],
       
-        [ "Katya", 74.60000000000002 ],
+        [ "Katya", 76.50000000000003 ],
       
         [ "Zina", 19.4 ],
       
-        [ "Claude", 7.5 ],
+        [ "Jonah", 9.7 ],
       
-        [ "Jonah", 7.5 ],
+        [ "Claude", 7.5 ],
       
         [ "Tatiana", 7.45 ],
       
@@ -91,6 +95,8 @@ function drawChartBuilder() {
       
         [ "Anton ", 1.0 ],
       
+        [ "Nick", 0.2 ],
+      
         [ "Allison", 0.1 ],
       
         [ "Edward", 0.1 ],
@@ -98,7 +104,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 920)",
+      title: "Build hours by builder (total 928)",
       is3D: true
     };
 
@@ -113,7 +119,7 @@ function drawChartSubkit() {
       
         [ "empennage", 235.9 ],
       
-        [ "wing", 755.9000000000005 ],
+        [ "wing", 764.3000000000006 ],
       
     ]);
 
