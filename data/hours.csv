@@ -1,9 +1,9 @@
-Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,350.9
-Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,410.9
+Person,Date,Tag(s),Time (hr),Notes,,,Final Tally,Sasha Final Hours,352.4
+Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,
-Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,177.9
+Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,179.4
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,940.7
+Sasha,5/20/2020,wing,3,,,,,Total hours,945.7
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -335,3 +335,6 @@ sasha,3/21/2021,wing,3,"riveting right flap, leading edge alignment, deriveted b
 peter,3/21/2021,wing,5,"3d printing wing tip part, riveting leading edge of left wing, recovered 4.8mm butts",,,,,
 sasha,3/24/2021,wing,2,leading edge skin riveting,,,,,
 peter,3/24/2021,wing,2,aileron and flap riveting,,,,,
+sasha,3/25/2021,wing,1.5,left fuel tank mounting,,,,,
+Peter,3/25/2021,wing,2,spacer + dremeling + mounting,,,,,
+katya,3/25/2021,wing,1.5,spacer + Dremel + mounting + inspection hatch riveting ,,,,,
