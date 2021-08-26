@@ -43,9 +43,10 @@ def compute_hours(build_log):
         hours = row['Time (hr)']
         if np.isnan(hours):
             hours = 0
-        per_person[row['Person'].capitalize()] += hours
+        person = row['Person'].strip().capitalize()
+        per_person[person] += hours
         if is_recent(row):
-            per_person_recent[row['Person'].capitalize()] += hours
+            per_person_recent[person] += hours
         for tag in row['Tag(s)'].split(','):
             subtags = [t.lower().strip() for t in tag.split('/') if len(t) > 0]
             for subtag in subtags:
