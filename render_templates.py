@@ -47,7 +47,9 @@ def compute_hours(build_log):
         if is_recent(row):
             per_person_recent[row['Person'].capitalize()] += hours
         for tag in row['Tag(s)'].split(','):
-            per_tag[tag.lower().strip()] += hours
+            subtags = [t.lower().strip() for t in tag.split('/') if len(t) > 0]
+            for subtag in subtags:
+                per_tag[subtag] += hours / len(subtags)
    
    total = sum(per_person.values())
    total_recent = sum(per_person_recent.values())

@@ -111,11 +111,9 @@ function drawChartSubkit() {
       
         [ "empennage", 235.9 ],
       
-        [ "wing", 866.9000000000008 ],
+        [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 87.7 ],
-      
-        [ "fuselage/wing", 3.5 ],
+        [ "fuselage", 89.45 ],
       
     ]);
 
