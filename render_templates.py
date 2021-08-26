@@ -3,6 +3,7 @@ import pandas as pd
 from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import datetime
+import numpy as np
 env = Environment(
     loader=FileSystemLoader('.')
 )
@@ -40,6 +41,8 @@ def compute_hours(build_log):
    per_tag = defaultdict(float)
    for _, row in build_log.iterrows():
         hours = row['Time (hr)']
+        if np.isnan(hours):
+            hours = 0
         per_person[row['Person'].capitalize()] += hours
         if is_recent(row):
             per_person_recent[row['Person'].capitalize()] += hours
