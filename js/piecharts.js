@@ -7,18 +7,10 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 15.9 ],
-      
-        [ "Sasha", 14.9 ],
-      
-        [ "Katya", 8.6 ],
-      
-        [ "Peter ", 2.5 ],
-      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 41)",
+      title: "Build hours  in last 30 days by builder (total 0)",
       is3D: true
     };
 
@@ -31,21 +23,25 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 369.5999999999999 ],
+        [ "Peter", 435.79999999999984 ],
       
-        [ "Sasha", 310.7999999999999 ],
+        [ "Sasha", 380.29999999999984 ],
       
-        [ "Katya", 67.20000000000002 ],
+        [ "Katya", 91.00000000000003 ],
       
         [ "Zina", 19.4 ],
       
-        [ "Claude", 7.5 ],
+        [ "Jonah", 11.7 ],
       
-        [ "Jonah", 7.5 ],
+        [ "Claude", 8.5 ],
       
-        [ "Tatiana", 6.45 ],
+        [ "Tatiana", 7.45 ],
+      
+        [ "Peter ", 7.0 ],
       
         [ "Anton", 6.45 ],
+      
+        [ "Andrew", 5.5 ],
       
         [ "Kevin", 5.0 ],
       
@@ -59,26 +55,34 @@ function drawChartBuilder() {
       
         [ "Eugene", 4.0 ],
       
+        [ "Katya ", 4.0 ],
+      
         [ "Jerry", 3.5 ],
       
         [ "Matthias", 3.0 ],
       
         [ "Luke ", 3.0 ],
       
-        [ "Andrew", 2.5 ],
+        [ "Karissa", 3.0 ],
       
         [ "Jonathan", 2.5 ],
-      
-        [ "Peter ", 2.5 ],
       
         [ "Holly", 2.0 ],
       
         [ "Teja", 1.0 ],
       
+        [ "Anton ", 1.0 ],
+      
+        [ "Nick", 0.2 ],
+      
+        [ "Allison", 0.1 ],
+      
+        [ "Edward", 0.1 ],
+      
     ]);
 
     var options = {
-      title: "Build hours by builder (total 839)",
+      title: "Build hours by builder (total 1021)",
       is3D: true
     };
 
@@ -93,7 +97,9 @@ function drawChartSubkit() {
       
         [ "empennage", 235.9 ],
       
-        [ "wing", 675.5000000000002 ],
+        [ "wing", 847.9000000000008 ],
+      
+        [ "fuselage", 9.2 ],
       
     ]);
 
