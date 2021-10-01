@@ -2,7 +2,7 @@
 layout: post
 Title: First wholly fuselage post :)
 tags: fuselage
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/DSC03876_thumb.JPG"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/DSC03876_t_thumb.JPG"
 ---
 
 Hello dear readers! In this blog post, we start putting together some rear fuselage ribs and prime a lot. Sasha also finally earns an IFR rating!
