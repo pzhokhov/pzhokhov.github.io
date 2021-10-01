@@ -52,7 +52,7 @@ def resize_thumbnail(local_link):
 def process_image_links(text):
     def _thunk(matchobj):
         local_link = matchobj.group(2)
-        remote_url = upload_file(resized)
+        remote_url = upload_file(local_link)
         if remote_url is None:
             return matchobj.group(0)
         else:
