@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sasha passes"
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/2019-08-01.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/2019-08-01_thumb.jpg"
 ---
 
 Hi this is Katya and I occasionally help the Sasha and Peter with plane stuff. However today was a very special day. She 

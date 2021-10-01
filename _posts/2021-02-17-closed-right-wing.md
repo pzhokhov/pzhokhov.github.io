@@ -2,7 +2,7 @@
 layout: post
 title: Closing right wing
 tags: wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/20210215_175647.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/20210215_175647_thumb.jpg"
 ---
 
 Since the last post, we closed skins on the right wing, practiced carpentry, and got ourselves some craft beers from runway-side brewery in Auburn. 

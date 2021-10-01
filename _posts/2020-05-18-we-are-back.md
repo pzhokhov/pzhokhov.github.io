@@ -3,7 +3,7 @@ layout: post
 title: We are back!
 Duration: Likely ~40 hours since November
 tags: empennage wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/merida_quarantine_crop.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/merida_quarantine_crop_thumb.jpg"
 ---
 This week, Sasha and Peter emerge from quarantine to continue work!
 

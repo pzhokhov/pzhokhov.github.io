@@ -3,7 +3,7 @@ layout: post
 title: CORROSION ALERT!!!!?!!...and we cut an inspection hatch
 duration: 97.3 person-hours since last post
 tags: wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/drama_crop.png"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/drama_crop_thumb.png"
 ---
 
 In this week's post in our increasingly intermittent blog, we feel good about progress made and bad about (shock!) corrosion found. 

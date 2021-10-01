@@ -3,7 +3,7 @@ layout: post
 title: Balancing work, life, and elevator swing arm
 Duration: See red book for this I have no idea. Two full days for Peter, several hours for Sasha?
 tags: empennage
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/IMG_20191113_195208_square.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/IMG_20191113_195208_square_thumb.jpg"
 ---
 
 This week, Peter works a lot on the plane while Sasha works a lot at her job. Sasha also decided to take a break from California to go to Munich for work.

@@ -2,7 +2,7 @@
 layout: post
 title: Wings are done! On a roll with the fuselage!
 tags: wings, fuselage
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/katya_in_box.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/katya_in_box_thumb.jpg"
 ---
 Hello, dear readers! Yes, it’s been over six months since our last post, but progress is still being made!
 

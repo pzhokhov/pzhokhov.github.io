@@ -3,7 +3,7 @@ layout: post
 title: "Yay we're not in Germany this year!"
 duration: "42.9 person-hours since last post"
 tags: wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20201027_024925033_square.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20201027_024925033_square_thumb.jpg"
 ---
 This week, we focus on wiring and indoor activities as CA goes from wildfires to frost faster than this airplane "crashed" into our front yard. 
 

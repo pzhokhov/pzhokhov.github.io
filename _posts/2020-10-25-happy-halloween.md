@@ -3,7 +3,7 @@ layout: post
 title: "Happy Halloween 2020! Spooky, spooky part prep awaits!"
 duration: "68.7 person-hours since last post"
 tags: wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20201010_014106871_square.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20201010_014106871_square_thumb.jpg"
 ---
 
 In this week's blog post, our friends Holly and Eugene visit for the first time, our primer gun overreacts to some jack-o-lanterns, and we prepare airplane and holiday parts!

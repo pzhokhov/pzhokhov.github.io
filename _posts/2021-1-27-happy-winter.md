@@ -3,7 +3,7 @@ layout: post
 title: "Happy winter!"
 duration: "72.8 person-hours since last post"
 tags: wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20201129_234254522_square.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20201129_234254522_square_thumb.jpg"
 ---
 This week, we finally catch up to blogging and airplane building! We start closing the right wing! We meet new builders! 
 

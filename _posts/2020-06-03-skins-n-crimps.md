@@ -3,7 +3,7 @@ layout: post
 title: Skins, Crimps, and Brownies
 duration: 33 person-hours
 tags: empennage wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/square_brownie.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/square_brownie_thumb.jpg"
 ---
 
 This week we were once again joined by guest stars Katya, Zina, and Claude, who were all ridiculously generous with their time - Claude even made these (delicious) brownies!

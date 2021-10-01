@@ -2,7 +2,7 @@
 title: Broken Rivetgun, Broken Dreams
 duration: ~3 hours for putting together parts, several hours for fixing rivetgun nightmare, N/A for priming video
 tags: tutorial empennage priming
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/20191107_170744_square.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/20191107_170744_square_thumb.jpg"
 ---
 
 Last week, the euphoria of riveting our first pieces together was shortly followed by the pain and disappointment of our first rivetgun jam. Plus, our little sister Zina visited and we’ve also expanded to YouTube!

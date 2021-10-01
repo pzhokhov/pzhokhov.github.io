@@ -3,7 +3,7 @@ layout: post
 title: A productive week and lots of help! :D
 Duration: 41.75 person-hours building, 4 person-hours shopping
 tags: empennage wings
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/peter_rearwing_square.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/peter_rearwing_square_thumb.jpg"
 ---
 
 This week was super productive! 41.75 person-hours is a pretty good week! We assembled so much!
