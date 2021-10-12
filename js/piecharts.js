@@ -13,12 +13,14 @@ function drawChartBuilderRecent() {
       
         [ "Peter b", 1.5 ],
       
+        [ "Brian", 1.5 ],
+      
         [ "Qianli", 1.5 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 20)",
+      title: "Build hours  in last 30 days by builder (total 22)",
       is3D: true
     };
 
