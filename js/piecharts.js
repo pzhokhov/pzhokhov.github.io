@@ -123,7 +123,8 @@ function drawChartSubkit() {
 
     var options = {
       title: "Build hours by sub-kit",
-      is3D: true
+      is3D: true,
+      sliceVisibilityThreshold: 0.0,
     };
 
     var chart = new google.visualization.PieChart(document.getElementById('piechartSubkit'));
