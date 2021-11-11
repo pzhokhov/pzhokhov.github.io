@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Spray priming like rebels
-thumbnail:  "/images/spraying_14_peter.jpg"
-duration: 10 hours
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/20191102_125329_thumb.jpg"
 tags: primer spray prekote productplacement
 ---
 
@@ -53,7 +52,8 @@ We then carted everything back to the hangar, donned our PPE, and mixed some Akz
 
 Claude kindly let us use his air compressor for priming, and we invested in a $75 HVLP Harbor Freight (nee Central Pneumatic) gun with a 1.4 mm nozzle. We poured our prepped Akzo through the strainer and into the gun and successfully managed to spray! The video below is our first two minutes with the paint gun, so don't judge too harshly :)
 
-<video width="700" controls preload src="/images/spraying_06_sasha_spraying.mp4"></video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kcKI8wmt8x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![goodparts](https://storage.googleapis.com/slingalongblog-images/spraying_08_good_parts.jpg)
 
