@@ -7,18 +7,20 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 16.7 ],
+        [ "Peter", 20.2 ],
       
-        [ "Sasha", 13.7 ],
+        [ "Sasha", 17.7 ],
       
-        [ "Katya", 3.5 ],
+        [ "Katya", 5.0 ],
       
-        [ "Jonah", 1.0 ],
+        [ "Alexia", 2.0 ],
+      
+        [ "Simon", 2.0 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 34)",
+      title: "Build hours  in last 30 days by builder (total 46)",
       is3D: true
     };
 
@@ -31,11 +33,11 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 526.6999999999998 ],
+        [ "Peter", 531.1999999999998 ],
       
-        [ "Sasha", 469.8999999999998 ],
+        [ "Sasha", 474.8999999999998 ],
       
-        [ "Katya", 98.50000000000003 ],
+        [ "Katya", 101.00000000000003 ],
       
         [ "Irina", 28.0 ],
       
@@ -79,6 +81,10 @@ function drawChartBuilder() {
       
         [ "Holly", 2.0 ],
       
+        [ "Alexia", 2.0 ],
+      
+        [ "Simon", 2.0 ],
+      
         [ "Peter b", 1.5 ],
       
         [ "Brian", 1.5 ],
@@ -98,7 +104,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1246)",
+      title: "Build hours by builder (total 1262)",
       is3D: true
     };
 
@@ -115,7 +121,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 203.84999999999997 ],
+        [ "fuselage", 219.84999999999997 ],
       
         [ "undercarriage", 4.0 ],
       
