@@ -23,7 +23,7 @@ function drawChartBuilderRecent() {
       
         [ "Stefania", 1.5 ],
       
-        [ "Zina", 0.0 ],
+        [ "Zina", 0.5 ],
       
     ]);
 
@@ -49,7 +49,7 @@ function drawChartBuilder() {
       
         [ "Irina", 29.5 ],
       
-        [ "Zina", 19.4 ],
+        [ "Zina", 19.9 ],
       
         [ "Jonah", 12.7 ],
       
@@ -131,7 +131,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 247.34999999999997 ],
+        [ "fuselage", 247.84999999999997 ],
       
         [ "undercarriage", 4.0 ],
       
