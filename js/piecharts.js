@@ -7,20 +7,28 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha", 20.7 ],
+        [ "Sasha", 26.7 ],
       
-        [ "Peter", 20.2 ],
+        [ "Peter", 25.7 ],
       
-        [ "Katya", 5.0 ],
+        [ "Katya", 7.0 ],
       
         [ "Alexia", 2.0 ],
       
         [ "Simon", 2.0 ],
       
+        [ "Teja", 2.0 ],
+      
+        [ "Irina", 1.5 ],
+      
+        [ "Stefania", 1.5 ],
+      
+        [ "Zina", 0.0 ],
+      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 49)",
+      title: "Build hours  in last 30 days by builder (total 68)",
       is3D: true
     };
 
@@ -33,13 +41,13 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 535.6999999999998 ],
+        [ "Peter", 541.1999999999998 ],
       
-        [ "Sasha", 479.3999999999998 ],
+        [ "Sasha", 485.3999999999998 ],
       
-        [ "Katya", 101.00000000000003 ],
+        [ "Katya", 103.00000000000003 ],
       
-        [ "Irina", 28.0 ],
+        [ "Irina", 29.5 ],
       
         [ "Zina", 19.4 ],
       
@@ -71,6 +79,8 @@ function drawChartBuilder() {
       
         [ "Jerry", 3.5 ],
       
+        [ "Teja", 3.0 ],
+      
         [ "Matthias", 3.0 ],
       
         [ "Luke", 3.0 ],
@@ -91,7 +101,7 @@ function drawChartBuilder() {
       
         [ "Qianli", 1.5 ],
       
-        [ "Teja", 1.0 ],
+        [ "Stefania", 1.5 ],
       
         [ "Kostya", 1.0 ],
       
@@ -104,7 +114,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1271)",
+      title: "Build hours by builder (total 1290)",
       is3D: true
     };
 
@@ -121,7 +131,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 228.84999999999997 ],
+        [ "fuselage", 247.34999999999997 ],
       
         [ "undercarriage", 4.0 ],
       
