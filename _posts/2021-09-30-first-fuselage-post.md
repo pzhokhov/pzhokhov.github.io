@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: First wholly fuselage post :)
+title: First wholly fuselage post :)
 tags: fuselage
 thumbnail: "https://storage.googleapis.com/slingalongblog-images/DSC03876_t_thumb.JPG"
 ---

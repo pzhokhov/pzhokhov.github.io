@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Building rear fuselage ribs and receiving remaining kits
+title: Building rear fuselage ribs and receiving remaining kits
 tags: fuselage
 thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20211030_213057189_cropped_thumb.jpg"
 ---
