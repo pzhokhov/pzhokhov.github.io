@@ -7,24 +7,18 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 16.0 ],
+        [ "Sasha", 14.5 ],
       
-        [ "Sasha", 15.5 ],
+        [ "Peter", 14.5 ],
       
         [ "Dan", 4.0 ],
       
         [ "Joost", 4.0 ],
       
-        [ "Irina", 1.5 ],
-      
-        [ "Stefania", 1.5 ],
-      
-        [ "Zina", 0.5 ],
-      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 43)",
+      title: "Build hours  in last 30 days by builder (total 37)",
       is3D: true
     };
 
