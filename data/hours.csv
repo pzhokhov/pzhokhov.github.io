@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,1390.5
+Sasha,5/20/2020,wing,3,,,,,Total hours,1395.1
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -497,3 +497,5 @@ sasha,2/15,fuselage ,2,supervised and sorted primed parts,,,,,
 Peter,2/15/2022,fuselage ,2,wiring and wire protection ,,,,,
 kostya,2/15/2022,fuselage ,2,rear seat ,,,,,
 katya,2/15/2022,fuselage ,2,rear seat,,,,,
+sasha,2/17/2022,fuselage ,2.3,autopilot bracket on main.spar,,,,,
+peter,2/17/2022,fuselage ,2.3,main gear box connecting ribs,,,,,
