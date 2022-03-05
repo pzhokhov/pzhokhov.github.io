@@ -7,15 +7,21 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 33.0 ],
+        [ "Peter", 40.5 ],
       
-        [ "Sasha", 31.0 ],
+        [ "Sasha", 38.5 ],
+      
+        [ "Katya", 6.0 ],
       
         [ "Eugene", 4.0 ],
       
-        [ "Katya", 4.0 ],
+        [ "Saeid", 3.0 ],
+      
+        [ "Andrew l", 3.0 ],
       
         [ "Kostya", 2.0 ],
+      
+        [ "Gustavo", 2.0 ],
       
         [ "Tatiana", 0.5 ],
       
@@ -26,7 +32,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 75)",
+      title: "Build hours  in last 30 days by builder (total 100)",
       is3D: true
     };
 
@@ -39,11 +45,11 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 597.1999999999998 ],
+        [ "Peter", 604.6999999999998 ],
       
-        [ "Sasha", 537.3999999999999 ],
+        [ "Sasha", 544.8999999999999 ],
       
-        [ "Katya", 107.00000000000003 ],
+        [ "Katya", 109.00000000000003 ],
       
         [ "Irina", 29.5 ],
       
@@ -91,6 +97,10 @@ function drawChartBuilder() {
       
         [ "Kostya", 3.0 ],
       
+        [ "Saeid", 3.0 ],
+      
+        [ "Andrew l", 3.0 ],
+      
         [ "Jonathan", 2.5 ],
       
         [ "Sergey", 2.5 ],
@@ -100,6 +110,8 @@ function drawChartBuilder() {
         [ "Alexia", 2.0 ],
       
         [ "Simon", 2.0 ],
+      
+        [ "Gustavo", 2.0 ],
       
         [ "Peter b", 1.5 ],
       
@@ -118,7 +130,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1420)",
+      title: "Build hours by builder (total 1445)",
       is3D: true
     };
 
@@ -135,7 +147,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 377.84999999999997 ],
+        [ "fuselage", 402.84999999999997 ],
       
         [ "undercarriage", 4.0 ],
       
