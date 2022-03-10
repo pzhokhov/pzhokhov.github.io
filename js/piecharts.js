@@ -7,15 +7,19 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 44.0 ],
+        [ "Peter", 42.0 ],
       
-        [ "Sasha", 42.0 ],
+        [ "Sasha", 40.0 ],
       
-        [ "Katya", 6.0 ],
+        [ "Katya", 4.0 ],
       
         [ "Saeid", 3.0 ],
       
         [ "Andrew l", 3.0 ],
+      
+        [ "Sarah", 2.5 ],
+      
+        [ "Eugene", 2.5 ],
       
         [ "Kostya", 2.0 ],
       
@@ -30,7 +34,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 103)",
+      title: "Build hours  in last 30 days by builder (total 102)",
       is3D: true
     };
 
@@ -43,9 +47,9 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 613.1999999999998 ],
+        [ "Peter", 615.6999999999998 ],
       
-        [ "Sasha", 553.3999999999999 ],
+        [ "Sasha", 555.8999999999999 ],
       
         [ "Katya", 109.00000000000003 ],
       
@@ -55,11 +59,11 @@ function drawChartBuilder() {
       
         [ "Jonah", 12.7 ],
       
+        [ "Eugene", 10.5 ],
+      
         [ "Vladilen", 10.0 ],
       
         [ "Claude", 8.5 ],
-      
-        [ "Eugene", 8.0 ],
       
         [ "Tatiana", 7.95 ],
       
@@ -103,6 +107,8 @@ function drawChartBuilder() {
       
         [ "Sergey", 2.5 ],
       
+        [ "Sarah", 2.5 ],
+      
         [ "Holly", 2.0 ],
       
         [ "Alexia", 2.0 ],
@@ -128,7 +134,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1462)",
+      title: "Build hours by builder (total 1472)",
       is3D: true
     };
 
@@ -145,7 +151,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 419.84999999999997 ],
+        [ "fuselage", 429.84999999999997 ],
       
         [ "undercarriage", 4.0 ],
       
