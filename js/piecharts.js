@@ -7,11 +7,15 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 46.7 ],
+        [ "Peter", 46.650000000000006 ],
       
-        [ "Sasha", 44.7 ],
+        [ "Sasha", 44.650000000000006 ],
       
-        [ "Katya", 8.7 ],
+        [ "Katya", 10.45 ],
+      
+        [ "Eugene", 5.25 ],
+      
+        [ "Gustavo", 3.75 ],
       
         [ "Saeid", 3.0 ],
       
@@ -19,11 +23,7 @@ function drawChartBuilderRecent() {
       
         [ "Sarah", 2.5 ],
       
-        [ "Eugene", 2.5 ],
-      
         [ "Kostya", 2.0 ],
-      
-        [ "Gustavo", 2.0 ],
       
         [ "Tatiana", 0.5 ],
       
@@ -34,7 +34,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 116)",
+      title: "Build hours  in last 30 days by builder (total 122)",
       is3D: true
     };
 
@@ -47,19 +47,19 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 620.3999999999999 ],
+        [ "Peter", 627.3499999999999 ],
       
-        [ "Sasha", 560.5999999999999 ],
+        [ "Sasha", 567.55 ],
       
-        [ "Katya", 113.70000000000003 ],
+        [ "Katya", 115.45000000000003 ],
       
         [ "Irina", 29.5 ],
       
         [ "Zina", 20.4 ],
       
-        [ "Jonah", 12.7 ],
+        [ "Eugene", 13.25 ],
       
-        [ "Eugene", 10.5 ],
+        [ "Jonah", 12.7 ],
       
         [ "Vladilen", 10.0 ],
       
@@ -86,6 +86,8 @@ function drawChartBuilder() {
         [ "Dan", 4.0 ],
       
         [ "Joost", 4.0 ],
+      
+        [ "Gustavo", 3.75 ],
       
         [ "Jerry", 3.5 ],
       
@@ -115,8 +117,6 @@ function drawChartBuilder() {
       
         [ "Simon", 2.0 ],
       
-        [ "Gustavo", 2.0 ],
-      
         [ "Peter b", 1.5 ],
       
         [ "Brian", 1.5 ],
@@ -134,7 +134,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1487)",
+      title: "Build hours by builder (total 1507)",
       is3D: true
     };
 
@@ -151,9 +151,9 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 439.24999999999994 ],
+        [ "fuselage", 456.3999999999999 ],
       
-        [ "undercarriage", 8.7 ],
+        [ "undercarriage", 11.7 ],
       
         [ "fwf", 4.0 ],
       
