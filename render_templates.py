@@ -36,14 +36,14 @@ def is_recent(row):
 
 
 def compute_hours(build_log):
-   per_person = defaultdict(float)
-   per_person_recent = defaultdict(float)
-   per_tag = defaultdict(float)
-   for _, row in build_log.iterrows():
+    per_person = defaultdict(float)
+    per_person_recent = defaultdict(float)
+    per_tag = defaultdict(float)
+    for _, row in build_log.iterrows():
         hours = row['Time (hr)']
         if np.isnan(hours):
             hours = 0
-        person = row['Person'].strip().capitalize()
+        person = row['Person'].strip().title()
         per_person[person] += hours
         if is_recent(row):
             per_person_recent[person] += hours
@@ -52,20 +52,26 @@ def compute_hours(build_log):
             for subtag in subtags:
                 per_tag[subtag] += hours / len(subtags)
    
-   total = sum(per_person.values())
-   total_recent = sum(per_person_recent.values())
-   print("Total build hours: ", total)
-   print("Recent build hours: ", total_recent)
-   per_person = sorted([(p, h) for p,h in per_person.items()], key=lambda x: -x[1])
-   per_person_recent = sorted([(p, h) for p,h in per_person_recent.items()], key=lambda x: -x[1])
-   return {
-    "per_person": per_person, 
-    "per_person_recent": per_person_recent,
-    "per_tag": per_tag, 
-    "total": int(total),
-    "total_recent": int(total_recent),
-   }
+    total = sum(per_person.values())
+    total_recent = sum(per_person_recent.values())
+    print("Total build hours: ", total)
+    print("Recent build hours: ", total_recent)
+    add_sasha_peter(per_person)
+    add_sasha_peter(per_person_recent)
+    per_person = sorted([(p, h) for p,h in per_person.items()], key=lambda x: -x[1])
+    per_person_recent = sorted([(p, h) for p,h in per_person_recent.items()], key=lambda x: -x[1])
+    return {
+        "per_person": per_person, 
+        "per_person_recent": per_person_recent,
+        "per_tag": per_tag, 
+        "total": int(total),
+        "total_recent": int(total_recent),
+    }
 
+def add_sasha_peter(per_person):
+    per_person['Sasha + Peter'] = per_person['Sasha'] + per_person['Peter']
+    del per_person['Sasha']
+    del per_person['Peter']
 
 def render(data):
     for tf in TEMPLATE_FILES:

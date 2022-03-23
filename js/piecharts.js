@@ -7,9 +7,7 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha", 33.85 ],
-      
-        [ "Peter", 33.85 ],
+        [ "Sasha + Peter", 67.7 ],
       
         [ "Katya", 8.45 ],
       
@@ -19,7 +17,7 @@ function drawChartBuilderRecent() {
       
         [ "Saeid", 3.0 ],
       
-        [ "Andrew l", 3.0 ],
+        [ "Andrew L", 3.0 ],
       
         [ "Sarah", 2.5 ],
       
@@ -39,9 +37,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Peter", 627.3499999999999 ],
-      
-        [ "Sasha", 567.55 ],
+        [ "Sasha + Peter", 1194.8999999999999 ],
       
         [ "Katya", 115.45000000000003 ],
       
@@ -95,7 +91,7 @@ function drawChartBuilder() {
       
         [ "Saeid", 3.0 ],
       
-        [ "Andrew l", 3.0 ],
+        [ "Andrew L", 3.0 ],
       
         [ "Jonathan", 2.5 ],
       
@@ -109,7 +105,7 @@ function drawChartBuilder() {
       
         [ "Simon", 2.0 ],
       
-        [ "Peter b", 1.5 ],
+        [ "Peter B", 1.5 ],
       
         [ "Brian", 1.5 ],
       
