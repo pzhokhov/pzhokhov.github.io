@@ -23,13 +23,14 @@ using blue painters tape to keep O-ring in place while assmebling the hub:
 
 ![o_ring_blue_tape](https://storage.googleapis.com/slingalongblog-images/PXL_20220312_042949517.jpg)
 
-We mounted the landing gear (earlier than the manual specifies, but we figured its easiest to do it now before all the spars are connected). For those of the readers who have not tried this operation yet, landing gear leg is held in place with 4 bolts (2 on each side -- above and below the fiberglass gear leg). The first bolt on either side is easy to put in, but the fit for the second is very very tight (as it should be, otherwise, landing gear leg would be bouncing around).
+We mounted the landing gear (earlier than the manual specifies, but we figured its easiest to do it now before all the spars are connected). For those of readers who have not tried this operation yet, the fiberglass landing gear leg is held in place with 4 bolts (2 on each side -- one above and one below the leg). The first bolt on either side is easy to put in, but the fit for the second is very very tight (as it should be, otherwise, landing gear leg would be bouncing around).
 
 ![sasha_and_landing_gear_1](https://storage.googleapis.com/slingalongblog-images/PXL_20220220_235423270.jpg)
 
-After 2 hours of grunting over the bolts, we got them in (and Sasha did not look as happy as on the picture above :)). Careful reader may notice that there is also a problem in the picture above -- front of the landing gear is facing away from the
-camera (the rear side of landing gear has channels for brake lines), while the landing gear channel and ribs fronts are facing towards the camera... Yes, we ended up putting landing gear on backwards :( 
-When doing it the second time, we also came up with a clamp trick -- the bolt and housing tube can be pressed into place with wooden block and two clamps
+After 2 hours of grunting over the bolts, we got them in (and Sasha did not look as chipper as on the picture above anymore :)).
+Careful reader may notice that there is also a problem in the picture above -- front of the landing gear is facing away from the
+camera (the rear side of landing gear has channels for brake lines), while the landing gear channel and ribs fronts are facing towards the camera... Yes, we ended up putting landing gear on backwards :(
+When doing it the second time, we also came up with a clamp trick -- the bolt and housing tube can be pressed into place with a wooden block and two clamps:
 
 ![sasha_and_landing_gear_2](https://storage.googleapis.com/slingalongblog-images/PXL_20220322_032622595.MP.jpg)
 
