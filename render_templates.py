@@ -39,12 +39,18 @@ def compute_hours(build_log):
     per_person = defaultdict(float)
     per_person_recent = defaultdict(float)
     per_tag = defaultdict(float)
+    per_month = defaultdict(float)
+    per_month_sp = defaultdict(float)
     for _, row in build_log.iterrows():
         hours = row['Time (hr)']
         if np.isnan(hours):
             hours = 0
         person = row['Person'].strip().title()
         per_person[person] += hours
+        month = get_month(row)
+        per_month[month] += hours
+        if person in ('Sasha', 'Peter'):
+            per_month_sp[month] += hours
         if is_recent(row):
             per_person_recent[person] += hours
         for tag in row['Tag(s)'].split(','):
@@ -60,18 +66,40 @@ def compute_hours(build_log):
     add_sasha_peter(per_person_recent)
     per_person = sorted([(p, h) for p,h in per_person.items()], key=lambda x: -x[1])
     per_person_recent = sorted([(p, h) for p,h in per_person_recent.items()], key=lambda x: -x[1])
+    per_month = sorted([(m, h, per_month_sp[m]) for m, h in per_month.items()], key=lambda x: month_sorting_key(x[0]))
     return {
         "per_person": per_person, 
         "per_person_recent": per_person_recent,
         "per_tag": per_tag, 
         "total": int(total),
         "total_recent": int(total_recent),
+        "per_month": per_month,
     }
 
 def add_sasha_peter(per_person):
     per_person['Sasha + Peter'] = per_person['Sasha'] + per_person['Peter']
     del per_person['Sasha']
     del per_person['Peter']
+
+def get_month(row):
+    date = row['Date']
+    split_date =  date.split('/')
+    if len(split_date) == 3:
+        month, day, year = split_date
+    elif len(split_date) == 2:
+        month, day = split_date
+        year = '2022'
+        print(f'Warning - for entry {date} assuming year 2022')
+    else:
+        raise ValueError(f'Cannot parse {date} into date')
+
+    if len(year) == 2:
+        year = '20' + year
+    return '/'.join([month, year])
+
+def month_sorting_key(month):
+    month, year = month.split('/')
+    return int(year) * 12 + int(month)
 
 def render(data):
     for tf in TEMPLATE_FILES:

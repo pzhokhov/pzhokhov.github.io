@@ -2,6 +2,7 @@ google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(drawChartBuilderRecent);
 google.charts.setOnLoadCallback(drawChartBuilder);
 google.charts.setOnLoadCallback(drawChartSubkit);
+google.charts.setOnLoadCallback(drawChartMonth);
 
 function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
@@ -58,15 +59,41 @@ function drawChartSubkit() {
     chart.draw(data, options);
 }
 
+
+function drawChartMonth() {
+    var data = google.visualization.arrayToDataTable([
+      ['Month', 'All', 'Sasha + Peter'],
+      {% for tag, hours, hours_sp in hours['per_month']:  %}
+        [ "{{ tag }}", {{ hours }}, {{ hours_sp }}],
+      {% endfor %}
+    ]);
+
+    var options = {
+        hAxis: {
+            title: 'Month'
+        },
+        vAxis: {
+            title: 'Hours'
+        }
+    };
+
+    var chart = new google.visualization.LineChart(document.getElementById('linechartMonth'));
+
+    chart.draw(data, options);
+    chart.draw(datasp, options);
+}
+
 $(window).resize(function() {
   if ($(this).width() < 1024) {
     $('#piechartBuilderRecent').hide();
     $('#piechartBuilder').hide();
     $('#piechartSubkit').hide();
+    $('#linechartMonth').hide();
   } else {
     $('#piechartBuilderRecent').show();
     $('#piechartBuilder').show();
     $('#piechartSubkit').show();
+    $('#linechartMonth').hide();
   }
 });
 
