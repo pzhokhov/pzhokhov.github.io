@@ -67,4 +67,6 @@ our floor insulation looked in the end (not uniformly pretty, but it will work j
 ![floor_skins_noise_insulation](https://storage.googleapis.com/slingalongblog-images/PXL_20220315_054220199.jpg)
 
 In other news, we’ve started planning the “airplane end game” since we have been making visible progress, and it has inspired us to try to finish by the end of the year. In our rough estimates, we have another 160 build sessions to go
-(not counting painting), so it does sound feasible to finish by the end of the year if we really lean into it.
+(not counting painting), so it does sound feasible to finish by the end of the year if we really lean into it. Maybe we will do Phase 1 flight testing with a couch cushion and unpainted airframe, TBD.
+
+How about you, dear readers? Are you finishing up or just getting started? What Spring festivities are y'all participating in? Leave a comment below!
