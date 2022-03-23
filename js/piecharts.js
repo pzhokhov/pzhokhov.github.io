@@ -2,6 +2,7 @@ google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(drawChartBuilderRecent);
 google.charts.setOnLoadCallback(drawChartBuilder);
 google.charts.setOnLoadCallback(drawChartSubkit);
+google.charts.setOnLoadCallback(drawChartMonth);
 
 function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
@@ -164,14 +165,94 @@ function drawChartSubkit() {
     chart.draw(data, options);
 }
 
+
+function drawChartMonth() {
+    var data = google.visualization.arrayToDataTable([
+      ['Month', 'All', 'Sasha + Peter'],
+      
+        [ "6/2019", 18.0, 12.0],
+      
+        [ "10/2019", 27.4, 27.4],
+      
+        [ "11/2019", 84.0, 79.5],
+      
+        [ "12/2019", 10.0, 7.0],
+      
+        [ "1/2020", 9.0, 6.0],
+      
+        [ "5/2020", 76.5, 49.0],
+      
+        [ "6/2020", 79.0, 64.0],
+      
+        [ "7/2020", 63.80000000000001, 47.800000000000004],
+      
+        [ "8/2020", 124.9, 110.9],
+      
+        [ "9/2020", 97.10000000000001, 79.7],
+      
+        [ "10/2020", 93.6, 70.1],
+      
+        [ "11/2020", 80.70000000000002, 66.2],
+      
+        [ "12/2020", 22.0, 18.0],
+      
+        [ "1/2021", 26.6, 24.6],
+      
+        [ "2/2021", 70.9, 52.10000000000001],
+      
+        [ "3/2021", 78.2, 63.0],
+      
+        [ "4/2021", 54.300000000000004, 41.800000000000004],
+      
+        [ "5/2021", 5.5, 4.0],
+      
+        [ "6/2021", 1.0, 0.0],
+      
+        [ "7/2021", 45.0, 45.0],
+      
+        [ "8/2021", 55.0, 17.0],
+      
+        [ "9/2021", 27.0, 23.0],
+      
+        [ "10/2021", 58.0, 53.5],
+      
+        [ "11/2021", 35.1, 30.6],
+      
+        [ "12/2021", 48.4, 34.4],
+      
+        [ "1/2022", 45.0, 37.0],
+      
+        [ "2/2022", 88.0, 74.0],
+      
+        [ "3/2022", 92.25000000000001, 66.30000000000001],
+      
+    ]);
+
+    var options = {
+        hAxis: {
+            title: 'Month'
+        },
+        vAxis: {
+            title: 'Hours'
+        }
+    };
+
+    var chart = new google.visualization.LineChart(document.getElementById('linechartMonth'));
+
+    chart.draw(data, options);
+    chart.draw(datasp, options);
+}
+
 $(window).resize(function() {
   if ($(this).width() < 1024) {
     $('#piechartBuilderRecent').hide();
     $('#piechartBuilder').hide();
     $('#piechartSubkit').hide();
+    $('#linechartMonth').hide();
   } else {
     $('#piechartBuilderRecent').show();
     $('#piechartBuilder').show();
     $('#piechartSubkit').show();
+    $('#linechartMonth').hide();
   }
 });
