@@ -8,16 +8,16 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 64.2 ],
+        [ "Sasha + Peter", 65.4 ],
       
-        [ "Eugene", 4.0 ],
+        [ "Eugene", 5.0 ],
       
-        [ "Brandon", 2.6 ],
+        [ "Brandon", 2.2 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 70)",
+      title: "Build hours  in last 30 days by builder (total 72)",
       is3D: true
     };
 
@@ -30,7 +30,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1378.8999999999999 ],
+        [ "Sasha + Peter", 1385.3 ],
       
         [ "Katya", 122.15000000000003 ],
       
@@ -38,7 +38,7 @@ function drawChartBuilder() {
       
         [ "Zina", 20.9 ],
       
-        [ "Eugene", 17.25 ],
+        [ "Eugene", 18.25 ],
       
         [ "Jonah", 12.7 ],
       
@@ -50,9 +50,9 @@ function drawChartBuilder() {
       
         [ "Anton", 8.45 ],
       
-        [ "Andrew", 5.5 ],
+        [ "Brandon", 7.4 ],
       
-        [ "Brandon", 5.2 ],
+        [ "Andrew", 5.5 ],
       
         [ "Kevin", 5.0 ],
       
@@ -117,7 +117,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1708)",
+      title: "Build hours by builder (total 1718)",
       is3D: true
     };
 
@@ -134,13 +134,13 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 581.9500000000002 ],
+        [ "fuselage", 588.5500000000003 ],
       
-        [ "undercarriage", 65.35 ],
+        [ "undercarriage", 67.35 ],
       
         [ "fwf", 4.0 ],
       
-        [ "canopy", 54.1 ],
+        [ "canopy", 57.1 ],
       
         [ "finishing", 3.6 ],
       
@@ -222,7 +222,7 @@ function drawChartMonth() {
       
         [ "4/2022", 94.0, 87.0],
       
-        [ "5/2022", 79.8, 69.4],
+        [ "5/2022", 89.4, 75.80000000000001],
       
     ]);
 
