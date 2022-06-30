@@ -8,15 +8,19 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 70.1 ],
+        [ "Sasha + Peter", 72.7 ],
       
         [ "Melinda", 7.3 ],
       
         [ "Andrew T", 3.5 ],
       
+        [ "Alexander", 3.5 ],
+      
         [ "Jonathan", 3.0 ],
       
-        [ "Brandon", 2.2 ],
+        [ "Zach", 2.5 ],
+      
+        [ "Katya", 2.5 ],
       
         [ "Holly", 2.0 ],
       
@@ -33,7 +37,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 97)",
+      title: "Build hours  in last 30 days by builder (total 106)",
       is3D: true
     };
 
@@ -46,9 +50,9 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1450.9999999999998 ],
+        [ "Sasha + Peter", 1457.9999999999998 ],
       
-        [ "Katya", 122.15000000000003 ],
+        [ "Katya", 124.65000000000003 ],
       
         [ "Irina", 29.5 ],
       
@@ -98,6 +102,8 @@ function drawChartBuilder() {
       
         [ "Andrew T", 3.5 ],
       
+        [ "Alexander", 3.5 ],
+      
         [ "Teja", 3.0 ],
       
         [ "Matthias", 3.0 ],
@@ -115,6 +121,8 @@ function drawChartBuilder() {
         [ "Sergey", 2.5 ],
       
         [ "Sarah", 2.5 ],
+      
+        [ "Zach", 2.5 ],
       
         [ "Alexia", 2.0 ],
       
@@ -145,7 +153,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1808)",
+      title: "Build hours by builder (total 1824)",
       is3D: true
     };
 
@@ -162,11 +170,11 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 645.5500000000001 ],
+        [ "fuselage", 655.0500000000001 ],
       
         [ "undercarriage", 76.35 ],
       
-        [ "fwf", 7.5 ],
+        [ "fwf", 17.0 ],
       
         [ "canopy", 57.1 ],
       
@@ -256,7 +264,7 @@ function drawChartMonth() {
       
         [ "5/2022", 89.4, 75.80000000000001],
       
-        [ "6/2022", 90.5, 65.7],
+        [ "6/2022", 106.0, 72.7],
       
     ]);
 
