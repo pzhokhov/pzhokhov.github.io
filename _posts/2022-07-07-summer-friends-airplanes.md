@@ -56,7 +56,7 @@ is forced to bend and accommodate both torque tubes (which may cause binding).
 
 Another point to attract builder's attention to is the service bulletin by Sling Factory about replacing thin-necked eyebolts with thicker eyebolts. Good factory eyebolts are the lubricated kind
 (with a tiny lubrication port); as those eyebolts are in hard-to-access places, we are replacing them with teflon (PTFE)-insert lubrication-free eyebolts. There are two kinds of those eyebolts
-available on mcmaster-carr -- highly corrosion resistant and high strength ones. High strength ones are about 7 times stronger than corrosion resistant ones, and, after reading the Factory service bulletin, 
+available on mcmaster-carr -- [highly corrosion resistant](https://www.mcmaster.com/59915K22/) and [high strength ones](https://www.mcmaster.com/60745K22/). High strength ones are about 7 times stronger than corrosion resistant ones, and, after reading the Factory service bulletin, 
 we decided to go with high strength. Naturally, that happened after we ordered and installed corrosion resistant eyebolts first, and had to re-order and reinstall them. For future builders, the eyebolts are about ~ $ 20 apiece,
 so order the correct ones the first time :) -- it will spare you money, and a lot of time (those pushrod assemblies have very inconvenient access even with side skins off, and so installing them and taking them off takes a lot of time). Eyebolts are made of stainless steel, and the pushrods -- of aluminum, so we are using corrosion inhibiter on the threads. Pictured below is Peter's dad right before final (hopefully) assembly of the aileron pushrod.
 
