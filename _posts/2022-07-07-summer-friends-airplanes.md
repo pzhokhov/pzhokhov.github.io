@@ -2,7 +2,7 @@
 layout: post
 title: "Independence day and summer airplane building with friends"
 tags: fuselage undercarriage firewall-forward
-thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20220416_045733007_thumb.jpg"
+thumbnail: "https://storage.googleapis.com/slingalongblog-images/PXL_20220416_045733007_thumb_thumb.jpg"
 ---
 
 Happy Independence Day readers!!! It's been a little while (almost 3 months) since we wrote last time, but rest assured, we have been hard at work. In this blog post, we describe our latest progress, as well as our plans for avionics and upholstery. 
