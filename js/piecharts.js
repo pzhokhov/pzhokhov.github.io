@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 61.5 ],
+        [ "Sasha + Peter", 63.900000000000006 ],
       
         [ "Irina", 16.0 ],
       
-        [ "Alexander", 8.5 ],
+        [ "Alexander", 10.7 ],
       
         [ "Melinda", 3.5 ],
       
@@ -24,18 +24,12 @@ function drawChartBuilderRecent() {
       
         [ "Katya", 2.5 ],
       
-        [ "Catherine", 2.0 ],
-      
-        [ "Nat", 2.0 ],
-      
-        [ "Bergen", 2.0 ],
-      
-        [ "Rick", 1.0 ],
+        [ "Eugene", 2.2 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 108)",
+      title: "Build hours  in last 30 days by builder (total 107)",
       is3D: true
     };
 
@@ -48,23 +42,23 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1484.9999999999998 ],
+        [ "Sasha + Peter", 1489.3999999999999 ],
       
         [ "Katya", 124.65000000000003 ],
       
         [ "Irina", 48.5 ],
       
+        [ "Eugene", 22.45 ],
+      
         [ "Zina", 20.9 ],
       
-        [ "Eugene", 20.25 ],
-      
         [ "Jonah", 12.7 ],
+      
+        [ "Alexander", 10.7 ],
       
         [ "Vladilen", 10.0 ],
       
         [ "Claude", 8.5 ],
-      
-        [ "Alexander", 8.5 ],
       
         [ "Tatiana", 8.45 ],
       
@@ -151,7 +145,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1875)",
+      title: "Build hours by builder (total 1884)",
       is3D: true
     };
 
@@ -168,7 +162,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 655.0500000000001 ],
+        [ "fuselage", 663.8500000000003 ],
       
         [ "undercarriage", 76.35 ],
       
@@ -266,7 +260,7 @@ function drawChartMonth() {
       
         [ "6/2022", 123.0, 78.7],
       
-        [ "7/2022", 34.0, 21.0],
+        [ "7/2022", 42.80000000000001, 25.4],
       
     ]);
 
