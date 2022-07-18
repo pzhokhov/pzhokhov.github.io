@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 71.9 ],
+        [ "Sasha + Peter", 83.9 ],
       
-        [ "Irina", 18.0 ],
+        [ "Irina", 23.0 ],
       
-        [ "Alexander", 10.7 ],
+        [ "Alexander", 16.7 ],
       
         [ "Melinda", 3.5 ],
       
@@ -29,7 +29,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 117)",
+      title: "Build hours  in last 30 days by builder (total 140)",
       is3D: true
     };
 
@@ -42,19 +42,19 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1497.3999999999999 ],
+        [ "Sasha + Peter", 1509.3999999999999 ],
       
         [ "Katya", 124.65000000000003 ],
       
-        [ "Irina", 50.5 ],
+        [ "Irina", 55.5 ],
       
         [ "Eugene", 22.45 ],
       
         [ "Zina", 20.9 ],
       
-        [ "Jonah", 12.7 ],
+        [ "Alexander", 16.7 ],
       
-        [ "Alexander", 10.7 ],
+        [ "Jonah", 12.7 ],
       
         [ "Vladilen", 10.0 ],
       
@@ -145,7 +145,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 1894)",
+      title: "Build hours by builder (total 1917)",
       is3D: true
     };
 
@@ -162,7 +162,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 663.8500000000003 ],
+        [ "fuselage", 681.8500000000003 ],
       
         [ "undercarriage", 76.35 ],
       
@@ -174,7 +174,7 @@ function drawChartSubkit() {
       
         [ "wiring", 2.0 ],
       
-        [ "upholstery", 89.0 ],
+        [ "upholstery", 94.0 ],
       
         [ "firewall", 6.0 ],
       
@@ -260,7 +260,7 @@ function drawChartMonth() {
       
         [ "6/2022", 123.0, 78.7],
       
-        [ "7/2022", 52.80000000000001, 33.4],
+        [ "7/2022", 75.80000000000001, 45.4],
       
     ]);
 
