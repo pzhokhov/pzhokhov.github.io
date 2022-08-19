@@ -8,9 +8,17 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 66.0 ],
+        [ "Sasha + Peter", 91.2 ],
       
-        [ "Irina", 13.5 ],
+        [ "Irina", 13.0 ],
+      
+        [ "Brandon", 2.5 ],
+      
+        [ "Dana", 2.5 ],
+      
+        [ "Greg", 2.5 ],
+      
+        [ "Nikolai", 2.5 ],
       
         [ "Eugene", 2.0 ],
       
@@ -19,7 +27,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 83)",
+      title: "Build hours  in last 30 days by builder (total 118)",
       is3D: true
     };
 
@@ -32,7 +40,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1585.3999999999999 ],
+        [ "Sasha + Peter", 1622.6 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -48,13 +56,13 @@ function drawChartBuilder() {
       
         [ "Vladilen", 10.0 ],
       
+        [ "Brandon", 9.9 ],
+      
         [ "Claude", 8.5 ],
       
         [ "Tatiana", 8.45 ],
       
         [ "Anton", 8.45 ],
-      
-        [ "Brandon", 7.4 ],
       
         [ "Melinda", 7.3 ],
       
@@ -106,6 +114,12 @@ function drawChartBuilder() {
       
         [ "Zach", 2.5 ],
       
+        [ "Dana", 2.5 ],
+      
+        [ "Greg", 2.5 ],
+      
+        [ "Nikolai", 2.5 ],
+      
         [ "Alexia", 2.0 ],
       
         [ "Simon", 2.0 ],
@@ -135,7 +149,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 2015)",
+      title: "Build hours by builder (total 2062)",
       is3D: true
     };
 
@@ -152,7 +166,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 691.8500000000003 ],
+        [ "fuselage", 707.0500000000003 ],
       
         [ "undercarriage", 76.35 ],
       
@@ -164,7 +178,7 @@ function drawChartSubkit() {
       
         [ "wiring", 2.0 ],
       
-        [ "upholstery", 173.5 ],
+        [ "upholstery", 205.5 ],
       
         [ "firewall", 6.0 ],
       
@@ -252,7 +266,7 @@ function drawChartMonth() {
       
         [ "7/2022", 150.3, 101.4],
       
-        [ "8/2022", 24.0, 20.0],
+        [ "8/2022", 71.2, 57.2],
       
     ]);
 
