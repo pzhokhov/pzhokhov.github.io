@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,2133.75
+Sasha,5/20/2020,wing,3,,,,,Total hours,2149.75
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -765,3 +765,7 @@ peter,9/7/2022,fuselage,3,control ribs riveting ,,,,,
 sasha,9/10/2022,fuselage ,5,,,,,,
 Peter,9/10/2022,fuselage,5,,,,,,
 Brandon,9/10/2022,"fuselage, fwf",5,,,,,,
+sasha,9/11/2022,fuselage ,5,wiring,,,,,
+Peter,9/11/2022,fuselage ,5,center console,,,,,
+sasha,9/12/2022,fuselage ,3,"priming, wiring, and fuel line routing",,,,,
+Peter,9/12/2022,fwf,3,priming ,,,,,
