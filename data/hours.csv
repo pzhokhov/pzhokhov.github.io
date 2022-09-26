@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,2166.95
+Sasha,5/20/2020,wing,3,,,,,Total hours,2202.45
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -777,3 +777,12 @@ sasha,9/14/2022,fuselage,2,"alodining, antenna grounding",,,,,
 Peter,9/14/2022,fuselage ,2,fuel selector,,,,,
 sasha,9/18/2022,wiring,3,,,,,,
 Peter,9/18/2022,fuselage ,3,,,,,,
+sasha,9/20/2022,wiring,3,terminal box for servo + wire routing,,,,,
+Peter,9/20/2022,fuselage ,3,fuel selector + line routing,,,,,
+sasha,9/22/2022,wiring,3,terminal box for servo,,,,,
+Peter,9/22/2022,fuselage ,3,fuel selector + line routing ,,,,,
+sasha,9/23/2022,wiring ,3.5,"wire protection, lacing",,,,,
+Peter,9/23/2022,fuselage ,3.5,fuel selector + line routing,,,,,
+Pasha,9/23/2022,fuselage ,3.5,countersinking of seat rails,,,,,
+sasha,9/24/2022,wiring,6.5,"took apart the floor, put it back together",,,,,
+Peter ,9/24/2022,wiring,6.5,wire lacing,,,,,
