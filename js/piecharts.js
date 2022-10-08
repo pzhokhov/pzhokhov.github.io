@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 110.0 ],
+        [ "Sasha + Peter", 114.0 ],
       
         [ "Brandon", 10.0 ],
       
-        [ "Nicholay", 4.0 ],
+        [ "Nicholay", 6.5 ],
       
         [ "Pasha", 3.5 ],
       
@@ -23,7 +23,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 131)",
+      title: "Build hours  in last 30 days by builder (total 137)",
       is3D: true
     };
 
@@ -36,7 +36,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1781.6 ],
+        [ "Sasha + Peter", 1791.6 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -54,6 +54,8 @@ function drawChartBuilder() {
       
         [ "Vladilen", 10.0 ],
       
+        [ "Nicholay", 9.0 ],
+      
         [ "Claude", 8.5 ],
       
         [ "Tatiana", 8.45 ],
@@ -61,8 +63,6 @@ function drawChartBuilder() {
         [ "Anton", 8.45 ],
       
         [ "Melinda", 7.3 ],
-      
-        [ "Nicholay", 6.5 ],
       
         [ "Holly", 5.8 ],
       
@@ -151,7 +151,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 2243)",
+      title: "Build hours by builder (total 2256)",
       is3D: true
     };
 
@@ -168,7 +168,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 803.8500000000003 ],
+        [ "fuselage", 813.8500000000003 ],
       
         [ "undercarriage", 76.35 ],
       
@@ -182,7 +182,7 @@ function drawChartSubkit() {
       
         [ "upholstery", 209.5 ],
       
-        [ "wiring", 49.300000000000004 ],
+        [ "wiring", 51.800000000000004 ],
       
     ]);
 
@@ -270,7 +270,7 @@ function drawChartMonth() {
       
         [ "9/2022", 135.09999999999997, 123.0],
       
-        [ "10/2022", 25.0, 16.0],
+        [ "10/2022", 37.5, 26.0],
       
     ]);
 

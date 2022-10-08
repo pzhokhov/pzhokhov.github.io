@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,
 Sasha,5/17/2020,wing,4,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,
-Sasha,5/20/2020,wing,3,,,,,Total hours,2243.85
+Sasha,5/20/2020,wing,3,,,,,Total hours,2256.35
 Peter,5/20/2020,wing,3,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,
@@ -798,5 +798,8 @@ sasha,10/2/2022,fuselage ,5,,,,,,
 Peter,10/2/2022,fuselage ,5,"antenna, fuel lines + fittings, pressure test",,,,,
 Brandon,10/2/2022,fuselage ,5,"seatbelts, pressure test",,,,,
 Nicholay ,10/2/2022,fuselage ,4,seatbelts,,,,,
-Sasha,10/4/2022,fuselage ,,,,,,,
-Peter,10/4/2022,fuselage ,,,,,,,
+Sasha,10/4/2022,wiring,2.5,check wire continuity ,,,,,
+Peter,10/4/2022,fuselage,2.5,controls,,,,,
+Sasha,10/5/2022,fuselage ,2.5,doubler rib for avionics,,,,,
+Peter,10/5/2022,fuselage ,2.5,aileron eyebolt,,,,,
+Nicholay ,10/5/2022,fuselage ,2.5,tail cone,,,,,
