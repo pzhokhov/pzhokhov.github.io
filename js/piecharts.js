@@ -8,7 +8,7 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 104.0 ],
+        [ "Sasha + Peter", 108.5 ],
       
         [ "Nicholay", 6.5 ],
       
@@ -23,7 +23,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 122)",
+      title: "Build hours  in last 30 days by builder (total 127)",
       is3D: true
     };
 
@@ -36,7 +36,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1791.6 ],
+        [ "Sasha + Peter", 1818.6 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -151,7 +151,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 2256)",
+      title: "Build hours by builder (total 2283)",
       is3D: true
     };
 
@@ -168,7 +168,7 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 813.8500000000003 ],
+        [ "fuselage", 816.3500000000003 ],
       
         [ "undercarriage", 76.35 ],
       
@@ -180,9 +180,9 @@ function drawChartSubkit() {
       
         [ "avionics", 36.5 ],
       
-        [ "upholstery", 209.5 ],
+        [ "upholstery", 212.5 ],
       
-        [ "wiring", 51.800000000000004 ],
+        [ "wiring", 73.30000000000001 ],
       
     ]);
 
@@ -270,7 +270,7 @@ function drawChartMonth() {
       
         [ "9/2022", 135.09999999999997, 123.0],
       
-        [ "10/2022", 37.5, 26.0],
+        [ "10/2022", 64.5, 53.0],
       
     ]);
 
