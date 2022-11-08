@@ -3,7 +3,9 @@ import pandas as pd
 from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import datetime
+import calendar
 import numpy as np
+
 env = Environment(
     loader=FileSystemLoader('.')
 )
@@ -57,7 +59,13 @@ def compute_hours(build_log):
             subtags = [t.lower().strip() for t in tag.split('/') if len(t) > 0]
             for subtag in subtags:
                 per_tag[subtag] += hours / len(subtags)
-   
+
+    current_month = get_current_month()
+    current_date_mult = get_current_date_multiplier()
+    print(f"For the current month {current_month} using day multiplier {current_date_mult}")
+    per_month[current_month] *= current_date_mult
+    per_month_sp[current_month] *= current_date_mult
+
     total = sum(per_person.values())
     total_recent = sum(per_person_recent.values())
     print("Total build hours: ", total)
@@ -80,6 +88,16 @@ def add_sasha_peter(per_person):
     per_person['Sasha + Peter'] = per_person['Sasha'] + per_person['Peter']
     del per_person['Sasha']
     del per_person['Peter']
+
+def get_current_month():
+    today = datetime.date.today()
+    return f'{today.month}/{today.year}'
+
+
+def get_current_date_multiplier():
+    today = datetime.date.today()
+    return calendar.monthrange(today.year, today.month)[1] / today.day
+
 
 def get_month(row):
     date = row['Date']
