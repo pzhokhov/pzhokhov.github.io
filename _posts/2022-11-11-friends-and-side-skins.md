@@ -2,7 +2,7 @@
 layout: post
 title: Receiving the engine, closing the side skins, LOTS of wires and help from friends!
 thumbnail: "https://storage.googleapis.com/slingalongblog-images/20221109_222736_thumb.jpg"
-tags: fuselage, wiring, undercarriage, "firewall forward"
+tags: fuselage, wiring, undercarriage, firewall-forward
 ---
 Since our last blogpost (almost two months ago... apologies dear readers!) we have made a lot of progress,
 mostly because our friends were helping us a lot along the way! We put in wires, fuel lines, installed
