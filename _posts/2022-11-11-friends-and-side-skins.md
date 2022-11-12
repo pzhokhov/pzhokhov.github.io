@@ -58,8 +58,6 @@ We re-routed the strobe wire through one of holes in the horizontal rib (similar
 [Here's a short](https://youtube.com/shorts/BsoZul11EW0?feature=share) about us enjoying the test-fitment of the elevator.
 
 
-
-
 The second, and potentially more important prong of our wiring effort was planning. Since we are not going with Midwest and doing our panel completely ourselves, there is A LOT to figure out -- from the placement and structural support of the instruments to exactly how ignition is supposed to be wired, which relays to choose and where to place them, how to lay out instruments, switches and LEDs on the panel and so on.
 On the bright side, planning can be done from the comfort of our laptops, so we can do it when hangar is too cold or when we stay home. 
 
@@ -67,7 +65,7 @@ Here's a picture of the tentative layout of our instruments behind the panel, wi
 
 ![instruments_on_carpet](https://storage.googleapis.com/slingalongblog-images/20221009_211957.jpg)
 
-For ignition, we are planing to use ignition switch as master switch (similarly to how cars operate, whereby ignition switch "ON" is equivalent to "MASTER ON", while spring-returned "Start" position is used to energize starter relay. Using a 70A-rated ignition:
+For ignition, we are planing to use ignition switch as master switch (similarly to how cars operate, whereby ignition switch "ON" is equivalent to "MASTER ON", while spring-returned "Start" position is used to energize starter relay. Using a [70A-rated ignition](https://www.littelfuse.com/products/switches/ignition-switches/95-standard-body/95521_b.aspx):
 
 ![ignition](https://storage.googleapis.com/slingalongblog-images/20220911_112528.jpg)
 
