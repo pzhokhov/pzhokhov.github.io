@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We are getting our engine soon!"
-tags: upholstery
+tags: "firewall forward"
 thumbnail: "https://storage.googleapis.com/slingalongblog-images/20220827_133643_thumb.jpg"
 ---
 
