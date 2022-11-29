@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 94.4 ],
+        [ "Sasha + Peter", 98.2 ],
+      
+        [ "Joost", 11.0 ],
       
         [ "Brandon", 11.0 ],
-      
-        [ "Joost", 7.5 ],
       
         [ "Eugene", 6.1 ],
       
@@ -21,7 +21,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 122)",
+      title: "Build hours  in last 30 days by builder (total 129)",
       is3D: true
     };
 
@@ -34,7 +34,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 1983.5 ],
+        [ "Sasha + Peter", 2007.5 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -48,9 +48,9 @@ function drawChartBuilder() {
       
         [ "Alexander", 16.7 ],
       
-        [ "Jonah", 12.7 ],
+        [ "Joost", 15.0 ],
       
-        [ "Joost", 11.5 ],
+        [ "Jonah", 12.7 ],
       
         [ "Vladilen", 10.0 ],
       
@@ -149,7 +149,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 2485)",
+      title: "Build hours by builder (total 2513)",
       is3D: true
     };
 
@@ -166,17 +166,17 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 926.7500000000003 ],
+        [ "fuselage", 944.7500000000003 ],
       
         [ "undercarriage", 82.85 ],
       
-        [ "fwf", 52.0 ],
+        [ "fwf", 61.0 ],
       
         [ "canopy", 67.6 ],
       
         [ "finishing", 3.6 ],
       
-        [ "avionics", 56.5 ],
+        [ "avionics", 68.0 ],
       
         [ "upholstery", 212.5 ],
       
@@ -276,7 +276,7 @@ function drawChartMonth() {
       
         [ "10/2022", 164.7, 143.7],
       
-        [ "11/2022", 113.66666666666669, 82.44444444444446],
+        [ "11/2022", 134.27586206896555, 101.58620689655173],
       
     ]);
 
