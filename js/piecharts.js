@@ -295,6 +295,7 @@ function drawChartMonth() {
     chart.draw(datasp, options);
 }
 
+/*
 $(window).resize(function() {
   if ($(this).width() < 1024) {
     $('#piechartBuilderRecent').hide();
@@ -308,3 +309,4 @@ $(window).resize(function() {
     $('#linechartMonth').hide();
   }
 });
+*/
