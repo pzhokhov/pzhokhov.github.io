@@ -4,4 +4,4 @@ jobs:
   test-build:
     runs-on: ubuntu-latest
     steps:
-      - bash build.sh
+      - run: ./build.sh
