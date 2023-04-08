@@ -4,4 +4,6 @@ jobs:
   test-build:
     runs-on: ubuntu-latest
     steps:
+      - run: pwd
+      - run: ls -halt
       - run: bash build.sh
