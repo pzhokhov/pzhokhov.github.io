@@ -1,0 +1,8 @@
+name: blog build
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - pip install -r -requirements.txt
+      - ./build.sh
