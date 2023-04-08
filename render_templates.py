@@ -47,7 +47,12 @@ def compute_hours(build_log):
         hours = row['Time (hr)']
         if np.isnan(hours):
             hours = 0
-        person = row['Person'].strip().title()
+        person = row['Person']
+        if not isinstance(person, str):
+            # skip bad rows, e.g. emtpy rows
+            continue
+        person = person.strip().title()
+
         per_person[person] += hours
         month = get_month(row)
         per_month[month] += hours
