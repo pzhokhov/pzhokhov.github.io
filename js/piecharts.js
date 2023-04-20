@@ -8,15 +8,15 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 87.6 ],
+        [ "Sasha + Peter", 93.6 ],
       
-        [ "Joost", 18.5 ],
+        [ "Joost", 21.0 ],
       
-        [ "Brandon", 16.5 ],
+        [ "Brandon", 19.0 ],
+      
+        [ "Fred", 5.5 ],
       
         [ "Morgan", 4.5 ],
-      
-        [ "Fred", 4.5 ],
       
         [ "Emily", 4.0 ],
       
@@ -34,6 +34,8 @@ function drawChartBuilderRecent() {
       
         [ "Ben", 2.5 ],
       
+        [ "Eugene", 2.5 ],
+      
         [ "Pranav", 2.0 ],
       
         [ "Mike", 1.5 ],
@@ -43,7 +45,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 164)",
+      title: "Build hours  in last 30 days by builder (total 178)",
       is3D: true
     };
 
@@ -56,17 +58,17 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2346.5 ],
+        [ "Sasha + Peter", 2355.5 ],
       
         [ "Katya", 124.65000000000003 ],
       
         [ "Irina", 74.0 ],
       
-        [ "Brandon", 67.9 ],
+        [ "Brandon", 70.4 ],
       
-        [ "Joost", 61.5 ],
+        [ "Joost", 64.0 ],
       
-        [ "Eugene", 43.550000000000004 ],
+        [ "Eugene", 46.050000000000004 ],
       
         [ "Zina", 20.9 ],
       
@@ -74,9 +76,9 @@ function drawChartBuilder() {
       
         [ "Jonah", 12.7 ],
       
-        [ "Claude", 10.5 ],
+        [ "Fred", 11.5 ],
       
-        [ "Fred", 10.5 ],
+        [ "Claude", 10.5 ],
       
         [ "Vladilen", 10.0 ],
       
@@ -205,7 +207,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3004)",
+      title: "Build hours by builder (total 3022)",
       is3D: true
     };
 
@@ -226,13 +228,13 @@ function drawChartSubkit() {
       
         [ "undercarriage", 86.85 ],
       
-        [ "fwf", 307.3 ],
+        [ "fwf", 312.8 ],
       
-        [ "canopy", 228.35 ],
+        [ "canopy", 233.35 ],
       
         [ "finishing", 3.6 ],
       
-        [ "avionics", 150.75 ],
+        [ "avionics", 157.75 ],
       
         [ "upholstery", 212.5 ],
       
@@ -348,7 +350,7 @@ function drawChartMonth() {
       
         [ "3/2023", 124.0, 84.5],
       
-        [ "4/2023", 163.57894736842104, 69.63157894736842],
+        [ "4/2023", 181.64999999999998, 79.65],
       
     ]);
 
