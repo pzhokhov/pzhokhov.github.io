@@ -348,6 +348,8 @@ function drawChartMonth() {
       
         [ "4/2023", 121.1, 53.1],
       
+        [ "5/2023", 0.0, 0.0],
+      
     ]);
 
     var options = {
