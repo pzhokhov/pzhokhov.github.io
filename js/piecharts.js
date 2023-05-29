@@ -8,9 +8,9 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 33.0 ],
+        [ "Sasha + Peter", 48.0 ],
       
-        [ "Joost", 10.0 ],
+        [ "Joost", 15.5 ],
       
         [ "Brandon", 5.5 ],
       
@@ -20,10 +20,12 @@ function drawChartBuilderRecent() {
       
         [ "Fred", 2.5 ],
       
+        [ "Morgan", 2.5 ],
+      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 57)",
+      title: "Build hours  in last 30 days by builder (total 80)",
       is3D: true
     };
 
@@ -36,15 +38,15 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2388.5 ],
+        [ "Sasha + Peter", 2403.5 ],
       
         [ "Katya", 124.65000000000003 ],
+      
+        [ "Joost", 79.5 ],
       
         [ "Brandon", 75.9 ],
       
         [ "Irina", 74.0 ],
-      
-        [ "Joost", 74.0 ],
       
         [ "Eugene", 46.050000000000004 ],
       
@@ -56,11 +58,11 @@ function drawChartBuilder() {
       
         [ "Jonah", 12.7 ],
       
+        [ "Morgan", 12.0 ],
+      
         [ "Claude", 10.5 ],
       
         [ "Vladilen", 10.0 ],
-      
-        [ "Morgan", 9.5 ],
       
         [ "Nicholay", 9.0 ],
       
@@ -189,7 +191,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3079)",
+      title: "Build hours by builder (total 3102)",
       is3D: true
     };
 
@@ -210,13 +212,13 @@ function drawChartSubkit() {
       
         [ "undercarriage", 86.85 ],
       
-        [ "fwf", 338.8 ],
+        [ "fwf", 350.3 ],
       
-        [ "canopy", 243.35 ],
+        [ "canopy", 248.85 ],
       
         [ "finishing", 3.6 ],
       
-        [ "avionics", 175.75 ],
+        [ "avionics", 184.75 ],
       
         [ "upholstery", 215.5 ],
       
@@ -334,7 +336,7 @@ function drawChartMonth() {
       
         [ "4/2023", 121.1, 53.1],
       
-        [ "5/2023", 73.625, 42.625],
+        [ "5/2023", 85.51724137931033, 51.310344827586206],
       
     ]);
 
