@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,,
 Sasha,5/17/2020,wing,4,,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,,
-Sasha,5/20/2020,wing,3,,,,,,Total hours,3102.05
+Sasha,5/20/2020,wing,3,,,,,,Total hours,3119.05
 Peter,5/20/2020,wing,3,,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,,
@@ -1077,3 +1077,6 @@ sasha,5/27/2023,avionics,3,lights wiring,,,,,,
 Peter,5/28/2023,fwf,3,"cowl fiberglassing, throttle cable",,,,,,
 sasha,5/28/2023,"fwf, avionics",3,"cowl fiberglassing, lights wiring",,,,,,
 joost,5/28/2023,canopy,3,gas struts,,,,,,
+sasha,5/29/2023,"fwf, avionics",6.5,"cowl fiberglassing, organizing, pitot cable power",,,,,,
+Peter,5/29/2023,"fwf, avionics",6.5,"cowl fiberglassing, throttle cable, edge protector gluing, static port QC, resolved wing connector issue",,,,,,
+joost,5/29/2023,canopy,4,canopy hinge bolt covers,,,,,,
