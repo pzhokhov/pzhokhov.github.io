@@ -8,26 +8,24 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 84.5 ],
+        [ "Sasha + Peter", 83.5 ],
       
-        [ "Joost", 25.5 ],
+        [ "Joost", 25.0 ],
       
-        [ "Brandon", 9.0 ],
+        [ "Brandon", 8.5 ],
       
         [ "Georg", 4.0 ],
-      
-        [ "Sanam", 3.0 ],
-      
-        [ "Hailey", 3.0 ],
       
         [ "Eugene", 3.0 ],
       
         [ "Morgan", 2.5 ],
       
+        [ "Fred", 2.5 ],
+      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 134)",
+      title: "Build hours  in last 30 days by builder (total 129)",
       is3D: true
     };
 
@@ -40,13 +38,13 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2450.0 ],
+        [ "Sasha + Peter", 2455.0 ],
       
         [ "Katya", 124.65000000000003 ],
       
-        [ "Joost", 92.0 ],
+        [ "Joost", 94.5 ],
       
-        [ "Brandon", 81.9 ],
+        [ "Brandon", 84.4 ],
       
         [ "Irina", 74.0 ],
       
@@ -56,7 +54,7 @@ function drawChartBuilder() {
       
         [ "Alexander", 16.7 ],
       
-        [ "Fred", 14.0 ],
+        [ "Fred", 16.5 ],
       
         [ "Jonah", 12.7 ],
       
@@ -193,7 +191,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3174)",
+      title: "Build hours by builder (total 3186)",
       is3D: true
     };
 
@@ -214,13 +212,13 @@ function drawChartSubkit() {
       
         [ "undercarriage", 86.85 ],
       
-        [ "fwf", 368.8 ],
+        [ "fwf", 373.8 ],
       
-        [ "canopy", 289.1 ],
+        [ "canopy", 291.6 ],
       
         [ "finishing", 3.6 ],
       
-        [ "avionics", 202.75 ],
+        [ "avionics", 207.75 ],
       
         [ "upholstery", 215.5 ],
       
@@ -340,7 +338,7 @@ function drawChartMonth() {
       
         [ "5/2023", 110.0, 71.5],
       
-        [ "6/2023", 114.54545454545453, 62.72727272727272],
+        [ "6/2023", 136.25, 70.0],
       
     ]);
 

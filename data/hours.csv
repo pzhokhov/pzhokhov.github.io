@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,,
 Sasha,5/17/2020,wing,4,,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,,
-Sasha,5/20/2020,wing,3,,,,,,Total hours,3174.05
+Sasha,5/20/2020,wing,3,,,,,,Total hours,3186.55
 Peter,5/20/2020,wing,3,,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,,
@@ -1095,3 +1095,8 @@ Peter,6/3/2023,wiring,4,wing light wiring,,,,,,
 Eugene,6/3/2023,wiring ,3,ELT wiring,,,,,,
 sasha,6/5/2023,canopy,1.5,cleaning up canopy windows,,,,,,
 Peter,6/5/2023,canopy,1.5,cleaning up canopy windows,,,,,,
+sasha,6/7/2023,avionics,2.5,,,,,,,
+Peter,6/7/2023,fwf,2.5,,,,,,,
+Fred,6/7/2023,fwf,2.5,oil hoses,,,,,,
+Joost,6/7/2023,canopy,2.5,drilling inside skims,,,,,,
+Brandon,6/7/2023,avionics,2.5,CAN bus,,,,,,
