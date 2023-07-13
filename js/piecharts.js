@@ -8,7 +8,7 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 35.0 ],
+        [ "Sasha + Peter", 41.0 ],
       
         [ "Vihang", 6.5 ],
       
@@ -20,6 +20,8 @@ function drawChartBuilderRecent() {
       
         [ "Hanna", 3.0 ],
       
+        [ "Joost", 3.0 ],
+      
         [ "Brandon", 2.5 ],
       
         [ "Morgan", 2.5 ],
@@ -27,7 +29,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 63)",
+      title: "Build hours  in last 30 days by builder (total 72)",
       is3D: true
     };
 
@@ -40,11 +42,11 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2490.0 ],
+        [ "Sasha + Peter", 2496.0 ],
       
         [ "Katya", 124.65000000000003 ],
       
-        [ "Joost", 94.5 ],
+        [ "Joost", 97.5 ],
       
         [ "Brandon", 86.9 ],
       
@@ -203,7 +205,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3250)",
+      title: "Build hours by builder (total 3259)",
       is3D: true
     };
 
@@ -220,21 +222,21 @@ function drawChartSubkit() {
       
         [ "wing", 868.6500000000008 ],
       
-        [ "fuselage", 1137.1500000000005 ],
+        [ "fuselage", 1140.1500000000005 ],
       
-        [ "undercarriage", 86.85 ],
+        [ "undercarriage", 89.85 ],
       
-        [ "fwf", 401.3 ],
+        [ "fwf", 404.3 ],
       
         [ "canopy", 291.6 ],
       
         [ "finishing", 12.6 ],
       
-        [ "avionics", 240.25 ],
+        [ "avionics", 243.25 ],
       
         [ "upholstery", 215.5 ],
       
-        [ "wiring", 160.5 ],
+        [ "wiring", 163.5 ],
       
         [ "fueselage", 0.5 ],
       
@@ -352,7 +354,7 @@ function drawChartMonth() {
       
         [ "6/2023", 71.0, 37.0],
       
-        [ "7/2023", 121.41666666666667, 67.16666666666667],
+        [ "7/2023", 133.53846153846155, 76.3076923076923],
       
     ]);
 
