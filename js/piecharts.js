@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 41.0 ],
+        [ "Sasha + Peter", 49.0 ],
+      
+        [ "Zain", 7.5 ],
       
         [ "Vihang", 6.5 ],
-      
-        [ "Zain", 5.0 ],
       
         [ "Chang", 5.0 ],
       
@@ -29,7 +29,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 72)",
+      title: "Build hours  in last 30 days by builder (total 83)",
       is3D: true
     };
 
@@ -42,7 +42,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2496.0 ],
+        [ "Sasha + Peter", 2504.0 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -80,6 +80,8 @@ function drawChartBuilder() {
       
         [ "Sarah", 8.0 ],
       
+        [ "Zain", 7.5 ],
+      
         [ "Georg", 7.0 ],
       
         [ "Vihang", 6.5 ],
@@ -91,8 +93,6 @@ function drawChartBuilder() {
         [ "Jonathan", 5.5 ],
       
         [ "Kevin", 5.0 ],
-      
-        [ "Zain", 5.0 ],
       
         [ "Chang", 5.0 ],
       
@@ -205,7 +205,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3259)",
+      title: "Build hours by builder (total 3269)",
       is3D: true
     };
 
@@ -226,7 +226,7 @@ function drawChartSubkit() {
       
         [ "undercarriage", 89.85 ],
       
-        [ "fwf", 404.3 ],
+        [ "fwf", 406.8 ],
       
         [ "canopy", 291.6 ],
       
@@ -236,7 +236,7 @@ function drawChartSubkit() {
       
         [ "upholstery", 215.5 ],
       
-        [ "wiring", 163.5 ],
+        [ "wiring", 174.0 ],
       
         [ "fueselage", 0.5 ],
       
@@ -354,7 +354,7 @@ function drawChartMonth() {
       
         [ "6/2023", 71.0, 37.0],
       
-        [ "7/2023", 115.73333333333335, 66.13333333333334],
+        [ "7/2023", 128.84375, 77.5],
       
     ]);
 
