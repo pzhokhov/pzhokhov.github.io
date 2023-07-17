@@ -8,13 +8,17 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 49.0 ],
+        [ "Sasha + Peter", 59.0 ],
       
-        [ "Zain", 7.5 ],
+        [ "Zain", 10.5 ],
+      
+        [ "Brandon", 6.5 ],
       
         [ "Vihang", 6.5 ],
       
         [ "Chang", 5.0 ],
+      
+        [ "Josh", 4.5 ],
       
         [ "Kata", 4.0 ],
       
@@ -22,14 +26,14 @@ function drawChartBuilderRecent() {
       
         [ "Joost", 3.0 ],
       
-        [ "Brandon", 2.5 ],
-      
         [ "Morgan", 2.5 ],
+      
+        [ "Emil", 2.0 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 83)",
+      title: "Build hours  in last 30 days by builder (total 106)",
       is3D: true
     };
 
@@ -42,13 +46,13 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2504.0 ],
+        [ "Sasha + Peter", 2514.0 ],
       
         [ "Katya", 124.65000000000003 ],
       
         [ "Joost", 97.5 ],
       
-        [ "Brandon", 86.9 ],
+        [ "Brandon", 90.9 ],
       
         [ "Irina", 74.0 ],
       
@@ -66,6 +70,8 @@ function drawChartBuilder() {
       
         [ "Claude", 10.5 ],
       
+        [ "Zain", 10.5 ],
+      
         [ "Vladilen", 10.0 ],
       
         [ "Nicholay", 9.0 ],
@@ -80,8 +86,6 @@ function drawChartBuilder() {
       
         [ "Sarah", 8.0 ],
       
-        [ "Zain", 7.5 ],
-      
         [ "Georg", 7.0 ],
       
         [ "Vihang", 6.5 ],
@@ -94,7 +98,11 @@ function drawChartBuilder() {
       
         [ "Kevin", 5.0 ],
       
+        [ "Emil", 5.0 ],
+      
         [ "Chang", 5.0 ],
+      
+        [ "Josh", 4.5 ],
       
         [ "Bryan", 4.0 ],
       
@@ -139,8 +147,6 @@ function drawChartBuilder() {
         [ "Hiyan", 3.0 ],
       
         [ "John", 3.0 ],
-      
-        [ "Emil", 3.0 ],
       
         [ "Sanam", 3.0 ],
       
@@ -205,7 +211,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3269)",
+      title: "Build hours by builder (total 3293)",
       is3D: true
     };
 
@@ -226,17 +232,17 @@ function drawChartSubkit() {
       
         [ "undercarriage", 89.85 ],
       
-        [ "fwf", 406.8 ],
+        [ "fwf", 415.8 ],
       
         [ "canopy", 291.6 ],
       
         [ "finishing", 12.6 ],
       
-        [ "avionics", 243.25 ],
+        [ "avionics", 266.75 ],
       
-        [ "upholstery", 215.5 ],
+        [ "upholstery", 220.0 ],
       
-        [ "wiring", 174.0 ],
+        [ "wiring", 160.5 ],
       
         [ "fueselage", 0.5 ],
       
@@ -354,7 +360,7 @@ function drawChartMonth() {
       
         [ "6/2023", 71.0, 37.0],
       
-        [ "7/2023", 128.84375, 77.5],
+        [ "7/2023", 164.11764705882354, 91.17647058823529],
       
     ]);
 
