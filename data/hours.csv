@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,,
 Sasha,5/17/2020,wing,4,,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,,
-Sasha,5/20/2020,wing,3,,,,,,Total hours,3552.3
+Sasha,5/20/2020,wing,3,,,,,,Total hours,3574.8
 Peter,5/20/2020,wing,3,,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,,
@@ -1201,3 +1201,10 @@ Sasha,8/7/2026,avionics ,3.5,power wiring,,,,,,
 Peter,8/7/2023,avionics ,3.5,solder caution and warning lights; switches wiring ,,,,,,
 Sasha,8/8/2023,avioncs ,3,"gea 24 connectors, 650 airinc connectors",,,,,,
 Peter,8/8/2023,avioncs ,3,j2 vpx connector,,,,,,
+Sasha,8/10/2023,"avionics,fwf",4,"fuel lines test, supervision",,,,,,
+Peter,8/10/2023,"avioncs, fwf",4,"fuel lines test, making connectors",,,,,,
+Vladilen,8/10/2023,avionics,2.5,"ems ground wire, fixing wire strippers",,,,,,
+Morgan,8/10/2023,"avioncs, fwf",3,"fuel lines test, conmectors",,,,,,
+Joost ,8/10/2023,"avioncs, fwf",3,"fuel lines test, connectors",,,,,,
+Vihang,8/10/2023,"avionics, fwf",3,"fuel lines test, connectors ",,,,,,
+Brandon ,8/10/2023,"avionics, fwf ",3,"fuel lines test, starter relays, battery wire ",,,,,,
