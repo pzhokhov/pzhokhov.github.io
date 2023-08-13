@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,,
 Sasha,5/17/2020,wing,4,,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,,
-Sasha,5/20/2020,wing,3,,,,,,Total hours,3574.8
+Sasha,5/20/2020,wing,3,,,,,,Total hours,3599.8
 Peter,5/20/2020,wing,3,,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,,
@@ -1208,3 +1208,8 @@ Morgan,8/10/2023,"avioncs, fwf",3,"fuel lines test, conmectors",,,,,,
 Joost ,8/10/2023,"avioncs, fwf",3,"fuel lines test, connectors",,,,,,
 Vihang,8/10/2023,"avionics, fwf",3,"fuel lines test, connectors ",,,,,,
 Brandon ,8/10/2023,"avionics, fwf ",3,"fuel lines test, starter relays, battery wire ",,,,,,
+sasha,8/12/2023,avionics,7,HIC A/B wiring,,,,,,
+Peter,8/12,avionics,5,starter wiring,,,,,,
+Vladilen,8/12/2023,avionics,5,"RS232 wires, fixing backup, adding shield connectors ",,,,,,
+Robert Tang,8/12/2023,avionics,2.5,trimming panel so switches fit,,,,,,
+Josh,8/12/2023,avionics,5.5,"wiring fuel pump, lane switches ",,,,,,
