@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 108.5 ],
+        [ "Sasha + Peter", 98.5 ],
       
-        [ "Zain", 35.26 ],
+        [ "Zain", 31.259999999999998 ],
       
-        [ "Vihang", 24.5 ],
+        [ "Vihang", 20.5 ],
       
         [ "Brandon", 16.0 ],
       
@@ -20,11 +20,11 @@ function drawChartBuilderRecent() {
       
         [ "Ben", 11.0 ],
       
-        [ "Josh", 8.5 ],
-      
         [ "Chang", 6.5 ],
       
         [ "Joost", 6.0 ],
+      
+        [ "Josh", 5.5 ],
       
         [ "Michelle", 4.5 ],
       
@@ -37,8 +37,6 @@ function drawChartBuilderRecent() {
         [ "Nicholay", 3.75 ],
       
         [ "Myria", 3.75 ],
-      
-        [ "Verse", 3.0 ],
       
         [ "Carl", 3.0 ],
       
@@ -53,7 +51,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 271)",
+      title: "Build hours  in last 30 days by builder (total 247)",
       is3D: true
     };
 
@@ -406,7 +404,7 @@ function drawChartMonth() {
       
         [ "7/2023", 219.0, 119.5],
       
-        [ "8/2023", 270.4307142857143, 105.17857142857143],
+        [ "8/2023", 261.1055172413793, 101.55172413793103],
       
         [ "8/2026", 3.5, 3.5],
       
