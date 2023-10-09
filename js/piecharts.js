@@ -8,17 +8,19 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 81.0 ],
+        [ "Sasha + Peter", 98.0 ],
       
-        [ "Zain", 13.0 ],
+        [ "Zain", 16.0 ],
       
-        [ "Ben", 11.0 ],
+        [ "Ben", 14.0 ],
       
-        [ "Vihang", 10.54 ],
+        [ "Vihang", 13.54 ],
       
         [ "Josh", 10.5 ],
       
-        [ "Chang", 5.0 ],
+        [ "Chang", 7.0 ],
+      
+        [ "Joost", 5.5 ],
       
         [ "Denis", 5.0 ],
       
@@ -27,8 +29,6 @@ function drawChartBuilderRecent() {
         [ "Joe", 3.0 ],
       
         [ "Brandon", 3.0 ],
-      
-        [ "Joost", 2.5 ],
       
         [ "Johan", 2.5 ],
       
@@ -41,7 +41,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 156)",
+      title: "Build hours  in last 30 days by builder (total 187)",
       is3D: true
     };
 
@@ -54,29 +54,29 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2767.0 ],
+        [ "Sasha + Peter", 2784.0 ],
       
         [ "Katya", 124.65000000000003 ],
       
-        [ "Joost", 116.5 ],
+        [ "Joost", 119.5 ],
       
         [ "Brandon", 113.4 ],
       
         [ "Irina", 74.0 ],
       
-        [ "Zain", 67.75999999999999 ],
+        [ "Zain", 70.75999999999999 ],
       
         [ "Eugene", 53.050000000000004 ],
       
-        [ "Vihang", 44.04 ],
+        [ "Vihang", 47.04 ],
+      
+        [ "Ben", 30.0 ],
       
         [ "Josh", 29.5 ],
       
-        [ "Ben", 27.0 ],
+        [ "Chang", 27.5 ],
       
         [ "Vladilen", 25.5 ],
-      
-        [ "Chang", 25.5 ],
       
         [ "Zina", 22.9 ],
       
@@ -253,7 +253,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3860)",
+      title: "Build hours by builder (total 3891)",
       is3D: true
     };
 
@@ -274,13 +274,13 @@ function drawChartSubkit() {
       
         [ "undercarriage", 89.85 ],
       
-        [ "fwf", 480.8 ],
+        [ "fwf", 485.8 ],
       
-        [ "canopy", 307.1 ],
+        [ "canopy", 314.6 ],
       
         [ "finishing", 22.6 ],
       
-        [ "avionics", 545.26 ],
+        [ "avionics", 557.26 ],
       
         [ "upholstery", 237.0 ],
       
@@ -288,7 +288,7 @@ function drawChartSubkit() {
       
         [ "ordering", 3.0 ],
       
-        [ "avioncs", 172.54000000000002 ],
+        [ "avioncs", 184.04000000000002 ],
       
         [ "fwf. finishing", 2.5 ],
       
@@ -408,7 +408,7 @@ function drawChartMonth() {
       
         [ "9/2023", 146.54, 71.5],
       
-        [ "10/2023", 23.25, 23.25],
+        [ "10/2023", 127.44444444444446, 79.22222222222223],
       
         [ "8/2026", 3.5, 3.5],
       
