@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 87.5 ],
-      
-        [ "Josh", 10.5 ],
+        [ "Sasha + Peter", 84.5 ],
       
         [ "Ben", 9.0 ],
+      
+        [ "Josh", 9.0 ],
       
         [ "Zain", 5.5 ],
       
@@ -21,6 +21,8 @@ function drawChartBuilderRecent() {
         [ "Joost", 5.5 ],
       
         [ "Chang", 4.5 ],
+      
+        [ "Nikita", 4.0 ],
       
         [ "Johan", 2.5 ],
       
@@ -44,7 +46,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2806.0 ],
+        [ "Sasha + Peter", 2814.0 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -60,9 +62,9 @@ function drawChartBuilder() {
       
         [ "Vihang", 47.04 ],
       
-        [ "Ben", 30.0 ],
+        [ "Josh", 33.5 ],
       
-        [ "Josh", 29.5 ],
+        [ "Ben", 30.0 ],
       
         [ "Chang", 27.5 ],
       
@@ -137,6 +139,8 @@ function drawChartBuilder() {
         [ "Lil Phil K", 4.0 ],
       
         [ "Big Phil K", 4.0 ],
+      
+        [ "Nikita", 4.0 ],
       
         [ "Gustavo", 3.75 ],
       
@@ -243,7 +247,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3913)",
+      title: "Build hours by builder (total 3929)",
       is3D: true
     };
 
@@ -264,13 +268,13 @@ function drawChartSubkit() {
       
         [ "undercarriage", 89.85 ],
       
-        [ "fwf", 491.3 ],
+        [ "fwf", 499.3 ],
       
         [ "canopy", 317.1 ],
       
         [ "finishing", 22.6 ],
       
-        [ "avionics", 563.26 ],
+        [ "avionics", 575.26 ],
       
         [ "upholstery", 237.0 ],
       
@@ -398,7 +402,7 @@ function drawChartMonth() {
       
         [ "9/2023", 146.54, 71.5],
       
-        [ "10/2023", 83.13636363636364, 63.409090909090914],
+        [ "10/2023", 101.08695652173913, 71.43478260869566],
       
         [ "8/2026", 3.5, 3.5],
       
