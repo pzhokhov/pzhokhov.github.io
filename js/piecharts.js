@@ -8,22 +8,22 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 59.5 ],
+        [ "Sasha + Peter", 69.5 ],
       
         [ "Josh", 9.0 ],
       
-        [ "Joost", 5.5 ],
+        [ "Joost", 8.0 ],
+      
+        [ "Ben", 5.0 ],
       
         [ "Nikita", 4.0 ],
       
         [ "Brandon", 3.0 ],
       
-        [ "Ben", 2.5 ],
-      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 83)",
+      title: "Build hours  in last 30 days by builder (total 98)",
       is3D: true
     };
 
@@ -36,9 +36,9 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2840.0 ],
+        [ "Sasha + Peter", 2856.0 ],
       
-        [ "Joost", 125.0 ],
+        [ "Joost", 127.5 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -54,7 +54,7 @@ function drawChartBuilder() {
       
         [ "Josh", 38.5 ],
       
-        [ "Ben", 32.5 ],
+        [ "Ben", 35.0 ],
       
         [ "Chang", 27.5 ],
       
@@ -237,7 +237,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 3971)",
+      title: "Build hours by builder (total 3992)",
       is3D: true
     };
 
@@ -260,19 +260,19 @@ function drawChartSubkit() {
       
         [ "fwf", 501.8 ],
       
-        [ "canopy", 322.6 ],
+        [ "canopy", 327.6 ],
       
         [ "finishing", 22.6 ],
       
-        [ "avionics", 583.26 ],
+        [ "avionics", 588.76 ],
       
         [ "upholstery", 237.0 ],
       
-        [ "wiring", 224.25 ],
+        [ "wiring", 226.75 ],
       
         [ "ordering", 3.0 ],
       
-        [ "avioncs", 213.04000000000002 ],
+        [ "avioncs", 223.54000000000002 ],
       
         [ "fwf. finishing", 2.5 ],
       
@@ -396,7 +396,7 @@ function drawChartMonth() {
       
         [ "10/2023", 117.0, 79.0],
       
-        [ "11/2023", 0.0, 0.0],
+        [ "11/2023", 70.0, 53.333333333333336],
       
         [ "8/2026", 3.5, 3.5],
       
