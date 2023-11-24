@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,,
 Sasha,5/17/2020,wing,4,,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,,
-Sasha,5/20/2020,wing,3,,,,,,Total hours,4053.85
+Sasha,5/20/2020,wing,3,,,,,,Total hours,4061.85
 Peter,5/20/2020,wing,3,,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,,
@@ -1344,3 +1344,5 @@ Peter,11/15/2023,avioncs ,2.5,"supervision, wiring ",,,,,,
 Joost ,11/15/2023,canopy,2.5,door latches,,,,,,
 Sasha,11/19/2023,avionics,7,wiring,,,,,,
 Peter,11/19/2023,"avioncs, wings ",7,"wing wiring, mfd connector",,,,,,
+Peter,11/23/2023,avioncs ,4,"wiring, gea 29 connector, grounds",,,,,,
+Sasha,11/23/2023,avioncs ,4,"wiring, pfd connector",,,,,,
