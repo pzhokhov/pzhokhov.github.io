@@ -8,18 +8,20 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 38.0 ],
+        [ "Sasha + Peter", 87.3 ],
       
-        [ "Zain", 4.0 ],
+        [ "Joost", 9.5 ],
       
-        [ "Vihang", 4.0 ],
+        [ "Edward", 3.0 ],
       
-        [ "Ben", 4.0 ],
+        [ "Brandon", 2.0 ],
+      
+        [ "Morgan", 2.0 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 50)",
+      title: "Build hours  in last 30 days by builder (total 103)",
       is3D: true
     };
 
@@ -32,27 +34,27 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 2947.5 ],
+        [ "Sasha + Peter", 3068.3 ],
       
-        [ "Joost", 130.0 ],
+        [ "Joost", 146.5 ],
+      
+        [ "Brandon", 125.4 ],
       
         [ "Katya", 124.65000000000003 ],
       
-        [ "Brandon", 116.4 ],
-      
-        [ "Zain", 77.25999999999999 ],
+        [ "Zain", 79.25999999999999 ],
       
         [ "Irina", 74.0 ],
       
-        [ "Vihang", 53.54 ],
+        [ "Vihang", 55.54 ],
       
         [ "Eugene", 53.050000000000004 ],
       
-        [ "Ben", 41.5 ],
+        [ "Ben", 43.5 ],
       
-        [ "Josh", 38.5 ],
+        [ "Josh", 43.5 ],
       
-        [ "Chang", 30.0 ],
+        [ "Chang", 32.0 ],
       
         [ "Vladilen", 25.5 ],
       
@@ -60,7 +62,7 @@ function drawChartBuilder() {
       
         [ "Fred", 22.0 ],
       
-        [ "Morgan", 17.5 ],
+        [ "Morgan", 19.5 ],
       
         [ "Alexander", 16.7 ],
       
@@ -68,7 +70,7 @@ function drawChartBuilder() {
       
         [ "Jonah", 12.7 ],
       
-        [ "Claude", 10.5 ],
+        [ "Claude", 11.5 ],
       
         [ "Tatiana", 10.45 ],
       
@@ -83,6 +85,8 @@ function drawChartBuilder() {
         [ "Dennis", 8.0 ],
       
         [ "Georg", 7.0 ],
+      
+        [ "Stef", 7.0 ],
       
         [ "Kostya", 6.0 ],
       
@@ -131,6 +135,8 @@ function drawChartBuilder() {
         [ "Gustavo", 3.75 ],
       
         [ "Myria", 3.75 ],
+      
+        [ "Edward", 3.6 ],
       
         [ "Jerry", 3.5 ],
       
@@ -220,8 +226,6 @@ function drawChartBuilder() {
       
         [ "Rick", 1.0 ],
       
-        [ "Edward", 0.6 ],
-      
         [ "Dima", 0.5 ],
       
         [ "Vanya", 0.5 ],
@@ -233,7 +237,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 4108)",
+      title: "Build hours by builder (total 4280)",
       is3D: true
     };
 
@@ -248,31 +252,33 @@ function drawChartSubkit() {
       
         [ "empennage", 269.4 ],
       
-        [ "wing", 868.6500000000008 ],
+        [ "wing", 890.6500000000008 ],
       
-        [ "fuselage", 1146.1500000000005 ],
+        [ "fuselage", 1149.1500000000005 ],
       
-        [ "undercarriage", 89.85 ],
+        [ "undercarriage", 106.85 ],
       
-        [ "fwf", 501.8 ],
+        [ "fwf", 551.1999999999999 ],
       
-        [ "canopy", 330.1 ],
+        [ "canopy", 339.6 ],
       
-        [ "finishing", 22.6 ],
+        [ "finishing", 74.6 ],
       
-        [ "avionics", 610.76 ],
+        [ "avionics", 647.16 ],
       
-        [ "upholstery", 237.0 ],
+        [ "upholstery", 244.0 ],
       
         [ "wiring", 226.75 ],
       
         [ "ordering", 3.0 ],
       
-        [ "avioncs", 290.04 ],
+        [ "avioncs", 308.04 ],
       
         [ "fwf. finishing", 2.5 ],
       
         [ "wings", 45.0 ],
+      
+        [ "supervision", 14.0 ],
       
     ]);
 
@@ -374,7 +380,7 @@ function drawChartMonth() {
       
         [ "12/2022", 16.6, 12.9],
       
-        [ "1/2023", 88.5, 68.5],
+        [ "1/2023", 140.5, 92.5],
       
         [ "2/2023", 143.5, 114.0],
       
@@ -396,7 +402,9 @@ function drawChartMonth() {
       
         [ "11/2023", 110.5, 81.0],
       
-        [ "12/2023", 26.66, 26.66],
+        [ "12/2023", 132.8, 112.30000000000001],
+      
+        [ "1/2024", 17.4375, 11.625],
       
         [ "8/2026", 3.5, 3.5],
       
