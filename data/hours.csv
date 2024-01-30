@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,,
 Sasha,5/17/2020,wing,4,,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,,
-Sasha,5/20/2020,wing,3,,,,,,Total hours,4336.65
+Sasha,5/20/2020,wing,3,,,,,,Total hours,4350.65
 Peter,5/20/2020,wing,3,,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,,
@@ -1419,4 +1419,6 @@ Sasha,1/23/2023,avionics,3,supervision ,,,,,,
 Peter,1/23/2023,"avioncs, parachute ",3,"panel, measuring parachute cable length",,,,,,
 Ben,1/23/2023,avioncs ,3,putting in the panel,,,,,,
 Sasha,1/27/2023,"fwf, avionics",5.5,"!put in the book! starting the engine the second time, debugging avionics issues",,,,,,
-Peter,1/27/2023,"fwf, avionics",5.5,"debugging avionics, installing battery, fixing brakes",,,,,,
+Peter,1/27/2023,"fwf, avionics, undercarriage",5.5,"debugging avionics, installing battery, fixing brakes",,,,,,
+Sasha,1/28/2023,avionics,7,"debugging and configuring avionics (transponder, gps, airinc communication)",,,,,,
+Peter,1/28/2023,"avionics, undercarriage",7,"finish tuning and tightening the brakes, debugging avionics, install copilot headphone jacks, recrimp and shorten gps antenna wire",,,,,,
