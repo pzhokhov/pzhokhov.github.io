@@ -3,7 +3,7 @@ Sasha,5/14/2020,empennage,2,,,,,,Peter Final Hours,412.9
 Peter,5/14/2020,empennage,2,,,,,,,
 Sasha,5/17/2020,wing,4,,,,,,Misc Final Hours,182.4
 Peter,5/17/2020,wing,4,,,,,,,
-Sasha,5/20/2020,wing,3,,,,,,Total hours,4393.55
+Sasha,5/20/2020,wing,3,,,,,,Total hours,4402.55
 Peter,5/20/2020,wing,3,,,,,,,
 Sasha,5/21/2020,wing,3.5,,,,,,,
 Peter,5/21/2020,wing,3.5,,,,,,,
@@ -1437,3 +1437,5 @@ Ira,3/19/2023,fwf,2,cowling doors,,,,,,
 Sasha,3/22/2023,"avionics, upholstery, fwf",3.2,"swapped egt sensors (1,3 with 2,4), starting the engine one more time,  debugging lane b error, carpets",,,,,,
 Peter,3/22/2023,"fuselage, fwf",3.2,"swapped egt sensors, 3d printing of wire covers and HVAC connectors, add antenna gasket, seal the windshield crack",,,,,,
 Claude,3/22/2023,avionics ,0.5,"reading engine logs, debugging lane b error",,,,,,
+Sasha,3/23/2023,upholstery ,4.5,carpets,,,,,,
+Peter,3/23/2023,"avionics, fuselage ",4.5,"check 3d printed parts (wire cover, air redirect), cement the windshield from the inside, finish air butterfly valve levers",,,,,,
