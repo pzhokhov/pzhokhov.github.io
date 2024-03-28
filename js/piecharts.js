@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 64.4 ],
+        [ "Sasha + Peter", 69.4 ],
+      
+        [ "Joost", 5.5 ],
       
         [ "Brandon", 3.0 ],
-      
-        [ "Joost", 3.0 ],
       
         [ "Alex", 2.0 ],
       
@@ -23,7 +23,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 74)",
+      title: "Build hours  in last 30 days by builder (total 82)",
       is3D: true
     };
 
@@ -36,9 +36,9 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 3167.2000000000007 ],
+        [ "Sasha + Peter", 3172.2000000000007 ],
       
-        [ "Joost", 149.5 ],
+        [ "Joost", 152.0 ],
       
         [ "Brandon", 128.4 ],
       
@@ -247,7 +247,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 4417)",
+      title: "Build hours by builder (total 4424)",
       is3D: true
     };
 
@@ -264,19 +264,19 @@ function drawChartSubkit() {
       
         [ "wing", 890.6500000000008 ],
       
-        [ "fuselage", 1161.8500000000006 ],
+        [ "fuselage", 1164.3500000000006 ],
       
         [ "undercarriage", 119.35 ],
       
-        [ "fwf", 572.6 ],
+        [ "fwf", 575.1 ],
       
-        [ "canopy", 339.6 ],
+        [ "canopy", 342.1 ],
       
         [ "finishing", 98.85 ],
       
-        [ "avionics", 700.36 ],
+        [ "avionics", 702.86 ],
       
-        [ "upholstery", 266.95 ],
+        [ "upholstery", 269.45 ],
       
         [ "wiring", 226.75 ],
       
@@ -422,7 +422,7 @@ function drawChartMonth() {
       
         [ "1/2024", 124.0, 66.0],
       
-        [ "3/2024", 71.07037037037037, 59.01481481481481],
+        [ "3/2024", 76.8357142857143, 62.44285714285714],
       
         [ "8/2026", 3.5, 3.5],
       
