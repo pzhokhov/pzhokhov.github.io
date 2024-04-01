@@ -8,11 +8,19 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 69.4 ],
+        [ "Sasha + Peter", 90.4 ],
+      
+        [ "Brandon", 7.5 ],
       
         [ "Joost", 5.5 ],
       
-        [ "Brandon", 3.0 ],
+        [ "Vihang", 4.0 ],
+      
+        [ "Chris", 4.0 ],
+      
+        [ "Savanna", 4.0 ],
+      
+        [ "Ben", 3.5 ],
       
         [ "Alex", 2.0 ],
       
@@ -23,7 +31,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 82)",
+      title: "Build hours  in last 30 days by builder (total 123)",
       is3D: true
     };
 
@@ -36,11 +44,11 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 3172.2000000000007 ],
+        [ "Sasha + Peter", 3193.2000000000007 ],
       
         [ "Joost", 152.0 ],
       
-        [ "Brandon", 128.4 ],
+        [ "Brandon", 132.9 ],
       
         [ "Katya", 124.65000000000003 ],
       
@@ -48,11 +56,11 @@ function drawChartBuilder() {
       
         [ "Irina", 74.0 ],
       
-        [ "Vihang", 60.54 ],
+        [ "Vihang", 64.53999999999999 ],
+      
+        [ "Ben", 55.0 ],
       
         [ "Eugene", 53.050000000000004 ],
-      
-        [ "Ben", 51.5 ],
       
         [ "Josh", 43.5 ],
       
@@ -137,6 +145,10 @@ function drawChartBuilder() {
         [ "Yeoul", 4.0 ],
       
         [ "Chad", 4.0 ],
+      
+        [ "Chris", 4.0 ],
+      
+        [ "Savanna", 4.0 ],
       
         [ "Gustavo", 3.75 ],
       
@@ -247,7 +259,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 4424)",
+      title: "Build hours by builder (total 4465)",
       is3D: true
     };
 
@@ -264,19 +276,19 @@ function drawChartSubkit() {
       
         [ "wing", 890.6500000000008 ],
       
-        [ "fuselage", 1164.3500000000006 ],
+        [ "fuselage", 1172.3500000000006 ],
       
-        [ "undercarriage", 119.35 ],
+        [ "undercarriage", 122.85 ],
       
-        [ "fwf", 575.1 ],
+        [ "fwf", 596.1 ],
       
         [ "canopy", 342.1 ],
       
-        [ "finishing", 98.85 ],
+        [ "finishing", 109.35 ],
       
         [ "avionics", 702.86 ],
       
-        [ "upholstery", 269.45 ],
+        [ "upholstery", 285.95 ],
       
         [ "wiring", 226.75 ],
       
@@ -422,7 +434,9 @@ function drawChartMonth() {
       
         [ "1/2024", 124.0, 66.0],
       
-        [ "3/2024", 69.4, 56.4],
+        [ "3/2024", 110.4, 77.4],
+      
+        [ "4/2024", 0.0, 0.0],
       
         [ "8/2026", 3.5, 3.5],
       
