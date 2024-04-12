@@ -8,11 +8,11 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 111.4 ],
+        [ "Sasha + Peter", 112.9 ],
       
-        [ "Brandon", 10.5 ],
+        [ "Brandon", 7.5 ],
       
-        [ "Joost", 8.5 ],
+        [ "Joost", 5.5 ],
       
         [ "Vihang", 4.0 ],
       
@@ -28,10 +28,14 @@ function drawChartBuilderRecent() {
       
         [ "Claude", 1.5 ],
       
+        [ "Zina", 0.5 ],
+      
+        [ "Tatiana", 0.5 ],
+      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 151)",
+      title: "Build hours  in last 30 days by builder (total 147)",
       is3D: true
     };
 
@@ -44,7 +48,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 3214.2000000000007 ],
+        [ "Sasha + Peter", 3221.7000000000007 ],
       
         [ "Joost", 155.0 ],
       
@@ -68,7 +72,7 @@ function drawChartBuilder() {
       
         [ "Vladilen", 25.5 ],
       
-        [ "Zina", 22.9 ],
+        [ "Zina", 23.4 ],
       
         [ "Fred", 22.0 ],
       
@@ -82,7 +86,7 @@ function drawChartBuilder() {
       
         [ "Jonah", 12.7 ],
       
-        [ "Tatiana", 10.45 ],
+        [ "Tatiana", 10.95 ],
       
         [ "Anton", 9.45 ],
       
@@ -259,7 +263,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 4493)",
+      title: "Build hours by builder (total 4502)",
       is3D: true
     };
 
@@ -272,7 +276,7 @@ function drawChartSubkit() {
     var data = google.visualization.arrayToDataTable([
       ['Sub-kit', 'Hours'],
       
-        [ "empennage", 276.9 ],
+        [ "empennage", 280.65 ],
       
         [ "wing", 890.6500000000008 ],
       
@@ -286,9 +290,9 @@ function drawChartSubkit() {
       
         [ "finishing", 118.35 ],
       
-        [ "avionics", 711.86 ],
+        [ "avionics", 715.61 ],
       
-        [ "upholstery", 304.45 ],
+        [ "upholstery", 312.95 ],
       
         [ "wiring", 226.75 ],
       
@@ -436,7 +440,7 @@ function drawChartMonth() {
       
         [ "3/2024", 110.4, 77.4],
       
-        [ "4/2024", 76.36363636363636, 57.272727272727266],
+        [ "4/2024", 91.25, 71.25],
       
         [ "8/2026", 3.5, 3.5],
       
