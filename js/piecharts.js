@@ -8,7 +8,7 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 112.9 ],
+        [ "Sasha + Peter", 118.4 ],
       
         [ "Brandon", 7.5 ],
       
@@ -32,10 +32,12 @@ function drawChartBuilderRecent() {
       
         [ "Tatiana", 0.5 ],
       
+        [ "Teja", 0.5 ],
+      
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 147)",
+      title: "Build hours  in last 30 days by builder (total 153)",
       is3D: true
     };
 
@@ -48,7 +50,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 3221.7000000000007 ],
+        [ "Sasha + Peter", 3237.2000000000007 ],
       
         [ "Joost", 155.0 ],
       
@@ -160,13 +162,13 @@ function drawChartBuilder() {
       
         [ "Edward", 3.6 ],
       
+        [ "Teja", 3.5 ],
+      
         [ "Jerry", 3.5 ],
       
         [ "Andrew T", 3.5 ],
       
         [ "Pasha", 3.5 ],
-      
-        [ "Teja", 3.0 ],
       
         [ "Matthias", 3.0 ],
       
@@ -263,7 +265,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 4502)",
+      title: "Build hours by builder (total 4518)",
       is3D: true
     };
 
@@ -276,7 +278,7 @@ function drawChartSubkit() {
     var data = google.visualization.arrayToDataTable([
       ['Sub-kit', 'Hours'],
       
-        [ "empennage", 280.65 ],
+        [ "empennage", 287.15 ],
       
         [ "wing", 890.6500000000008 ],
       
@@ -288,11 +290,11 @@ function drawChartSubkit() {
       
         [ "canopy", 345.1 ],
       
-        [ "finishing", 118.35 ],
+        [ "finishing", 125.35 ],
       
-        [ "avionics", 715.61 ],
+        [ "avionics", 729.61 ],
       
-        [ "upholstery", 312.95 ],
+        [ "upholstery", 318.95 ],
       
         [ "wiring", 226.75 ],
       
@@ -440,7 +442,7 @@ function drawChartMonth() {
       
         [ "3/2024", 110.4, 77.4],
       
-        [ "4/2024", 78.21428571428571, 61.07142857142857],
+        [ "4/2024", 105.0, 88.0],
       
         [ "8/2026", 3.5, 3.5],
       
