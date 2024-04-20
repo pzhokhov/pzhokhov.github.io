@@ -8,7 +8,7 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 108.4 ],
+        [ "Sasha + Peter", 133.4 ],
       
         [ "Brandon", 7.5 ],
       
@@ -33,7 +33,7 @@ function drawChartBuilderRecent() {
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 139)",
+      title: "Build hours  in last 30 days by builder (total 164)",
       is3D: true
     };
 
@@ -46,7 +46,7 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 3237.2000000000007 ],
+        [ "Sasha + Peter", 3262.2000000000007 ],
       
         [ "Joost", 155.0 ],
       
@@ -261,7 +261,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 4518)",
+      title: "Build hours by builder (total 4543)",
       is3D: true
     };
 
@@ -274,11 +274,11 @@ function drawChartSubkit() {
     var data = google.visualization.arrayToDataTable([
       ['Sub-kit', 'Hours'],
       
-        [ "empennage", 287.15 ],
+        [ "empennage", 297.15 ],
       
         [ "wing", 890.6500000000008 ],
       
-        [ "fuselage", 1174.8500000000006 ],
+        [ "fuselage", 1182.3500000000006 ],
       
         [ "undercarriage", 122.85 ],
       
@@ -290,7 +290,7 @@ function drawChartSubkit() {
       
         [ "avionics", 729.61 ],
       
-        [ "upholstery", 318.95 ],
+        [ "upholstery", 331.45 ],
       
         [ "wiring", 226.75 ],
       
@@ -300,7 +300,7 @@ function drawChartSubkit() {
       
         [ "fwf. finishing", 2.5 ],
       
-        [ "wings", 45.0 ],
+        [ "wings", 50.0 ],
       
         [ "supervision", 16.0 ],
       
@@ -438,7 +438,7 @@ function drawChartMonth() {
       
         [ "3/2024", 110.4, 77.4],
       
-        [ "4/2024", 82.89473684210526, 69.47368421052632],
+        [ "4/2024", 116.25, 103.5],
       
         [ "8/2026", 3.5, 3.5],
       
