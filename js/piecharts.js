@@ -8,12 +8,18 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 13.0 ],
+        [ "Sasha + Peter", 25.0 ],
+      
+        [ "Teja", 2.0 ],
+      
+        [ "Pudja", 2.0 ],
+      
+        [ "Roshan", 2.0 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 13)",
+      title: "Build hours  in last 30 days by builder (total 31)",
       is3D: true
     };
 
@@ -26,9 +32,9 @@ function drawChartBuilder() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 3331.2000000000007 ],
+        [ "Sasha + Peter", 3472.2000000000007 ],
       
-        [ "Joost", 159.5 ],
+        [ "Joost", 163.5 ],
       
         [ "Brandon", 138.4 ],
       
@@ -78,6 +84,8 @@ function drawChartBuilder() {
       
         [ "Dennis", 8.0 ],
       
+        [ "Nikita", 8.0 ],
+      
         [ "Georg", 7.0 ],
       
         [ "Kostya", 6.0 ],
@@ -91,6 +99,8 @@ function drawChartBuilder() {
         [ "Andrew", 5.5 ],
       
         [ "Jonathan", 5.5 ],
+      
+        [ "Teja", 5.5 ],
       
         [ "Joe", 5.5 ],
       
@@ -122,8 +132,6 @@ function drawChartBuilder() {
       
         [ "Big Phil K", 4.0 ],
       
-        [ "Nikita", 4.0 ],
-      
         [ "Yeoul", 4.0 ],
       
         [ "Chad", 4.0 ],
@@ -137,8 +145,6 @@ function drawChartBuilder() {
         [ "Myria", 3.75 ],
       
         [ "Edward", 3.6 ],
-      
-        [ "Teja", 3.5 ],
       
         [ "Jerry", 3.5 ],
       
@@ -218,6 +224,10 @@ function drawChartBuilder() {
       
         [ "Ira", 2.0 ],
       
+        [ "Pudja", 2.0 ],
+      
+        [ "Roshan", 2.0 ],
+      
         [ "Peter B", 1.5 ],
       
         [ "Brian", 1.5 ],
@@ -241,7 +251,7 @@ function drawChartBuilder() {
     ]);
 
     var options = {
-      title: "Build hours by builder (total 4619)",
+      title: "Build hours by builder (total 4774)",
       is3D: true
     };
 
@@ -266,11 +276,11 @@ function drawChartSubkit() {
       
         [ "canopy", 345.1 ],
       
-        [ "finishing", 163.1 ],
+        [ "finishing", 202.1 ],
       
         [ "avionics", 729.61 ],
       
-        [ "upholstery", 369.7 ],
+        [ "upholstery", 485.7 ],
       
         [ "wiring", 226.75 ],
       
@@ -420,7 +430,29 @@ function drawChartMonth() {
       
         [ "4/2024", 153.5, 138.0],
       
-        [ "2/2025", 0.0, 0.0],
+        [ "5/2024", 28.0, 28.0],
+      
+        [ "05/2024", 4.0, 0.0],
+      
+        [ "06/2024", 4.5, 4.5],
+      
+        [ "6/2024", 9.5, 9.5],
+      
+        [ "7/2024", 4.0, 4.0],
+      
+        [ "8/2024", 27.0, 27.0],
+      
+        [ "9/2024", 10.0, 10.0],
+      
+        [ "10/2024", 12.0, 12.0],
+      
+        [ "11/2024", 13.0, 13.0],
+      
+        [ "12/2024", 13.0, 13.0],
+      
+        [ "1/2025", 12.0, 8.0],
+      
+        [ "2/2025", 28.0, 18.666666666666668],
       
         [ "8/2026", 3.5, 3.5],
       
