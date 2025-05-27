@@ -8,14 +8,14 @@ function drawChartBuilderRecent() {
     var data = google.visualization.arrayToDataTable([
       ['Builder', 'Hours'],
       
-        [ "Sasha + Peter", 31.0 ],
+        [ "Sasha + Peter", 22.0 ],
       
         [ "Brandon", 4.5 ],
       
     ]);
 
     var options = {
-      title: "Build hours  in last 30 days by builder (total 35)",
+      title: "Build hours  in last 30 days by builder (total 26)",
       is3D: true
     };
 
@@ -452,7 +452,7 @@ function drawChartMonth() {
       
         [ "4/2025", 23.0, 22.0],
       
-        [ "5/2025", 16.096153846153847, 10.73076923076923],
+        [ "5/2025", 15.5, 10.333333333333334],
       
         [ "8/2026", 3.5, 3.5],
       
